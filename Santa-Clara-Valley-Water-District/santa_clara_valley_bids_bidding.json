@@ -1,0 +1,4089 @@
+[
+  {
+    "Bid Information": {
+      "Bid Detail": {
+        "Project Title": "Microwave Radio Equipment Installation",
+        "Invitation #": "VW0608",
+        "Bid Posting Date": "10/09/2025 8:22 AM (PST)",
+        "Project Stage": "Bidding",
+        "Bid Due Date": "11/20/2025 2:00 PM (PST)",
+        "Response Format": "Electronic",
+        "Project Type": "Bid",
+        "Response Types": "Line Items\nRequired Submittal Checklist (required)\nBid Form (required)\nBid Questionnaire (required)\nList of Subcontractors (required)\nReferences (required)\nNon-Collusion Declaration (required)\nDisqualification Questionnaire (required)\nRequest for \"Or Equals\" (required)\nLocal Business Enterprise Consideration (required)\nSmall Business Outreach Program Affidavit (required)\nConflict of Interest Disclosure Document (required)\nW-9 (required)\nContractor Safety Qualification Packet (required)\nBid Schedule (required)\nBid Bond (required)\nAttachment A - Exception Form (required)",
+        "Type of Award": "Lump Sum",
+        "Categories": "28700 - Electronic Equipment, Components, Parts, And Accessories\n90728 - Communications Systems; Tv; Microwave; Telephone; Computer\n91082 - Wiring And Other Electrical Maintenance And Repair Services\n91438 - Electrical\n92531 - Electrical Engineering\n90626 - Electronics - Architectural Services\n95114 - Infrastructure, Telecommunications",
+        "License Requirements": "",
+        "Department": "Purchasing Services Unit #820",
+        "Address": "5750 Almaden Expressway\nSan Jose, California\n95118",
+        "County": "Santa Clara",
+        "Bid Valid": "",
+        "Liquidated Damages": "",
+        "Estimated Bid Value": "",
+        "Start/Delivery Date": "",
+        "Project Duration": ""
+      },
+      "Pre-Bid Meeting Information": {
+        "Pre-Bid Meeting": "Yes - Mandatory",
+        "Pre-Bid Meeting Date": "10/29/2025 3:00 PM (PST)",
+        "Pre-Bid Meeting Location": "See section 2.3 for instructions related to the mandatory pre-bid meeting held via Zoom video conference."
+      },
+      "Online Q&A": {
+        "Online Q&A": "Yes",
+        "Q&A Deadline": "11/03/2025 2:00 PM (PST)"
+      },
+      "Contact Information": {
+        "Contact Info": "Zachary DeVine 408-630-2495\nzdevine@valleywater.org",
+        "Bids to": "",
+        "Owner's Agent": ""
+      },
+      "Description": {
+        "Scope of Services": "Valley Water is seeking bids from qualified contractors to provide installation, engineering, and support services for Aviat Eclipse IRU600 all-indoor microwave radios and antennas across multiple sites. The work includes program and project management, network and transmission engineering, site surveys, installation of antenna systems, waveguide, and indoor radio equipment, as well as system integration, alignment, and testing. Contractors will be responsible for frequency coordination, FCC licensing support, cutover activities during business hours, and quality assurance documentation. All field engineers must hold Aviat certification in IRU600 and ProVision NMS, with demonstrated experience in large-scale microwave projects.",
+        "Other Details": "This project contains thee appendices that interested bidder's are required to complete the Valley Water non-disclosure agreement (available in the \"Documents\" tab). Please email the completed form to ZDeVine@valleywater.org for processing. Once approved, Bidders completing the form will be emailed a link to the documents.",
+        "Notes": "",
+        "Special Notices": "All questions and/or requests for clarification concerning this solicitation must be submitted through the Q&A feature on this portal before the date and time stated on the bid information and/or the Q&A tab.\nThe undersigned understands and agrees to be bound to the proposed Scope of Services and Cost Proposal for 180 days from the date of proposal submittal.\nNon-Disclosure Agreement (NDA) - Vendor must register at the Valley Water Vendor Portal and complete the NDA (Available at the Documents tab) prior to downloading the Contract Documents. NDA must be signed, and the executed NDA sent to the scvwdplanroom@valleywater.org.\nProposers may not communicate with Valley Water Board Members, staff, or consultants who currently provide services for Valley Water. All inquiries regarding this upcoming solicitation should be directed to person named in the Contact Information section.\nAll bidders must complete and submit a verified electronic Bidder’s Bond (e-Bond) through either Surety2000 at http://www.surety2000.com or Tinubu at https://www.tinubu.com/ebonding in PlanetBids before the latest date/time for submitting Bid Proposals. Upload the e-Bond (in PDF), with the Bond Verification Number written on it, in the required attachment field called “Bid Bond\". Please refer to ITB Section 1.10. for more detailed instructions.",
+        "Local Programs & Policies": ""
+      }
+    },
+    "Prospective Bidders": [
+      {
+        "Vendor": [
+          "abc",
+          "ABC",
+          "ABC1",
+          "ABC, California 50007",
+          "Contact: Madhavi K",
+          "Phone: 949-203-3339",
+          "madhavi999bannu@gmail.com"
+        ],
+        "Type": "",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no"
+      },
+      {
+        "Vendor": [
+          "Allied Solutions",
+          "300 Veterans Way",
+          "Carmel, Indiana 46032",
+          "Contact: Jason Collier",
+          "Phone: 877-328-4432",
+          "contracts@alliedsolutionenterprise.com"
+        ],
+        "Type": "",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no"
+      },
+      {
+        "Vendor": [
+          "Aviat U.S., Inc.",
+          "200C? PARKER DR, STE 100A",
+          "AUSTIN, Texas 78728-1206",
+          "Contact: Ali Hirsa",
+          "Phone: 650-868-3994",
+          "ali.hirsa@aviatnet.com"
+        ],
+        "Type": "",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no"
+      },
+      {
+        "Vendor": [
+          "BOCKMON & WOODY ELECTRIC CO., INC.",
+          "1528 El Pinal Drive",
+          "Stockton, California 95205",
+          "Contact: Arlene Larsen",
+          "Phone: 209-915-0410",
+          "arlene@bockmonwoody.com"
+        ],
+        "Type": "CADIR",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no"
+      },
+      {
+        "Vendor": [
+          "California Land Surveying",
+          "PO Box 1175",
+          "Three Rivers, California 93271",
+          "Contact: Charles Gilbert",
+          "Phone: 559-740-6009",
+          "californialandsurveying@gmail.com"
+        ],
+        "Type": "DGS, MICRO",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no"
+      },
+      {
+        "Vendor": [
+          "Canonelreno Inc.",
+          "10 Nelor Street",
+          "W. Chicago, Illinois 60185",
+          "Contact: Karen Creno",
+          "Phone: 601-312-0745",
+          "karencreno78@gmail.com"
+        ],
+        "Type": "",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no"
+      },
+      {
+        "Vendor": [
+          "ConstructConnect",
+          "3825 Edwards Rd.",
+          "Ste. 800",
+          "Cincinnati, Ohio 45209",
+          "Contact: Michael Stubbs",
+          "Phone: 513-458-5981",
+          "Fax: 866-570-8187",
+          "content@constructconnect.com"
+        ],
+        "Type": "DGS",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no"
+      },
+      {
+        "Vendor": [
+          "G.T. Michelli Co., LLC",
+          "130 Brookhollow Esplanade",
+          "Harahan, Louisiana 70123",
+          "Contact: Emilie Pruett",
+          "Phone: 504-733-9822",
+          "govdesk@michelli.com"
+        ],
+        "Type": "CADIR",
+        "Status": "Non-Bidder, receive communications",
+        "Pre-Bid Meeting Attendee": "no"
+      },
+      {
+        "Vendor": [
+          "JB's High Voltage",
+          "1244 E Oak Ave",
+          "Woodland, California 95776",
+          "Contact: Ian Reimers",
+          "Phone: 530-813-0279",
+          "estimates@jbshighvoltage.com"
+        ],
+        "Type": "DGS",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no"
+      },
+      {
+        "Vendor": [
+          "LotusUSA, Inc",
+          "445 S. Figueroa Street 31st Floor STE 3121,",
+          "Los Angeles, California 90071",
+          "Contact: Prasad Yalamanchi",
+          "Phone: 213-298-7100",
+          "sivaprasad@lotususainc.com"
+        ],
+        "Type": "MICRO, MBE, DGS, WBE",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no"
+      },
+      {
+        "Vendor": [
+          "MZB Traffic Management Inc.",
+          "1192 Athlone Lane",
+          "Corona, California 92882",
+          "Contact: Humayun Aziz",
+          "Phone: 949-254-4792",
+          "info@mzbinc.com"
+        ],
+        "Type": "DBE",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no"
+      },
+      {
+        "Vendor": [
+          "SevenOutsource",
+          "113 Barksdale Professional Center",
+          "Newark, Delaware 19711-3258",
+          "Contact: Steve Walse",
+          "Phone: 315-308-7852",
+          "rfpalerts@gmail.com"
+        ],
+        "Type": "",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no"
+      },
+      {
+        "Vendor": [
+          "Sun Microwave, Inc. dba Sun Wireless",
+          "4887 Ronson Court",
+          "Suite I",
+          "San Diego, California 92111",
+          "Contact: Eric",
+          "Phone: 858-449-8231",
+          "esolberg@sunmicrowave.com"
+        ],
+        "Type": "MICRO",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no"
+      },
+      {
+        "Vendor": [
+          "The San Francisco Builders Exchange",
+          "850 S Van Ness Ave",
+          "San Francisco, California 94110",
+          "Contact: Deanna Johnson",
+          "Phone: 415-282-8220",
+          "Fax: 415-821-0363",
+          "djohnsonsf@sbcglobal.net"
+        ],
+        "Type": "",
+        "Status": "Non-Bidder, receive communications",
+        "Pre-Bid Meeting Attendee": "no"
+      }
+    ],
+    "Bid Title": "Microwave Radio Equipment Installation"
+  },
+  {
+    "Bid Information": {
+      "Bid Detail": {
+        "Project Title": "VEGETATION MANAGEMENT OFFICE TRAILER FURNITURE INSTALLATION",
+        "Invitation #": "VW0633",
+        "Bid Posting Date": "10/24/2025 8:30 AM (PST)",
+        "Project Stage": "Bidding",
+        "Bid Due Date": "11/21/2025 2:00 PM (PST)",
+        "Response Format": "Electronic",
+        "Project Type": "Bid",
+        "Response Types": "Line Items",
+        "Type of Award": "Lump Sum",
+        "Categories": "42500 - Furniture: Office\n90652 - Interior Design, Space Planning, And Exhibits/Displays\n90900 - Building Construction Services, New (Incl. Maintenance And Repair Services)\n90922 - Building Construction, Non-Residential (Office Bldg., Etc.)\n91000 - Building Maintenance, Installation And Repair Services\n91065 - Remodeling And Alterations\n96246 - Installation And Removal Services (Not Otherwise Classified)\n96248 - Interior Design/Decorator Services",
+        "License Requirements": "",
+        "Department": "Purchasing Services Unit #820",
+        "Address": "5750 Almaden Expressway\nSan Jose, California\n95118",
+        "County": "Santa Clara",
+        "Bid Valid": "",
+        "Liquidated Damages": "",
+        "Estimated Bid Value": "",
+        "Start/Delivery Date": "",
+        "Project Duration": ""
+      },
+      "Pre-Bid Meeting Information": {
+        "Pre-Bid Meeting": "Yes - Not Mandatory",
+        "Pre-Bid Meeting Date": "11/07/2025 9:00 AM (PST)",
+        "Pre-Bid Meeting Location": "See the notice inviting bids section of the solicitation for location and meeting details."
+      },
+      "Online Q&A": {
+        "Online Q&A": "Yes",
+        "Q&A Deadline": "11/12/2025 2:00 PM (PST)"
+      },
+      "Contact Information": {
+        "Contact Info": "Zachary DeVine 408-630-2495\nzdevine@valleywater.org",
+        "Bids to": "",
+        "Owner's Agent": ""
+      },
+      "Description": {
+        "Scope of Services": "The Vegetation Management Office Trailer Furniture Installation Project involves the removal of existing Herman Miller A01 furniture systems and installation of new Herman Miller Canvas workstations across four office trailers located at 5905 Winfield Boulevard in San Jose. The project includes reconfiguration of 49 workstations, two conference or meeting rooms, and one breakroom to support Valley Water’s Vegetation Operations Unit. The selected contractor must be a certified Herman Miller Authorized Dealer or factory-trained installer to ensure compliance with manufacturer standards and warranty requirements. Work will include teardown, transport of inventoried and new components, full furniture installation, and final cleaning to achieve move-in readiness. Valley Water will perform concurrent minor painting and cabling coordination during the project. Installation must align with the approved design plans and Herman Miller parts inventory provided in the bid package. The goal is to deliver fully functional, consistent, and high-quality office environments that meet Valley Water’s operational and design standards.",
+        "Other Details": "",
+        "Notes": "",
+        "Special Notices": "",
+        "Local Programs & Policies": ""
+      }
+    },
+    "Prospective Bidders": [
+      {
+        "Vendor": [
+          "Allied Solutions",
+          "300 Veterans Way",
+          "Carmel, Indiana 46032",
+          "Contact: Jason Collier",
+          "Phone: 877-328-4432",
+          "contracts@alliedsolutionenterprise.com"
+        ],
+        "Type": "",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no"
+      },
+      {
+        "Vendor": [
+          "Construction Bid Source LLC",
+          "416 Cottonwood Lane",
+          "Holly Springs, North Carolina 27540",
+          "Contact: Pearl Regis",
+          "Phone: 888-786-9450",
+          "Fax: 209-772-3573",
+          "pearl@constructionbidsource.com"
+        ],
+        "Type": "",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no"
+      },
+      {
+        "Vendor": [
+          "Crown Worldwide Moving & Storage",
+          "32001 Dowe Ave",
+          "San Leandro, California 94577",
+          "Contact: Loretta Bell",
+          "Phone: 408-204-7173",
+          "Loretta.bell@crownwms.com"
+        ],
+        "Type": "CADIR",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no"
+      },
+      {
+        "Vendor": [
+          "Lakeshore Learning Materials, LLC",
+          "2695 E. Dominguez Street",
+          "Carson, California 90895",
+          "Contact: Jennifer Doran",
+          "Phone: 310-537-8600",
+          "biddept@lakeshorelearning.com"
+        ],
+        "Type": "",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no"
+      },
+      {
+        "Vendor": [
+          "MEK Enterprises, Inc",
+          "3517 Camino Del Rio Sth",
+          "San Diego, California 92108",
+          "Contact: Grant Sawyer",
+          "Phone: 858-344-3121",
+          "estimating@4mek.com"
+        ],
+        "Type": "",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no"
+      },
+      {
+        "Vendor": [
+          "One Workplace LLC, dba Splice",
+          "2500 De La Cruz Blvd.",
+          "Santa Clara, California 95050",
+          "Contact: Christina Bane",
+          "Phone: 669-800-2500",
+          "cbane@oneworkplace.com"
+        ],
+        "Type": "Local",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no"
+      },
+      {
+        "Vendor": [
+          "Pivot Interiors",
+          "3355 Scott Blvd",
+          "Santa Clara, California 95054",
+          "Contact: Stacey Bailey",
+          "Phone: 408-515-0576",
+          "sbailey@pivotinteriors.com"
+        ],
+        "Type": "Local",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no"
+      }
+    ],
+    "Bid Title": "VEGETATION MANAGEMENT OFFICE TRAILER FURNITURE INSTALLATION"
+  },
+  {
+    "Bid Information": {
+      "Bid Detail": {
+        "Project Title": "Upper LLagas Flood Protection Project Phase 1 Mitigation Maintenance",
+        "Invitation #": "VW0618",
+        "Bid Posting Date": "10/07/2025 3:52 PM (PST)",
+        "Project Stage": "Bidding",
+        "Bid Due Date": "11/26/2025 2:00 PM (PST)",
+        "Response Format": "Electronic",
+        "Project Type": "Bid",
+        "Response Types": "Line Items\nSubmittal Checklist (required)\nBid Form (required)\nBid Questionnaire (required)\nList of Subcontractors (required)\nBidder's Bond (required)\nReferences (required)\nNon-Collusion Declaration (required)\nRequest for \"or Equals\" (required)\nLocal Business Enterprise Consideration (required)\nW9 (required)\nContractor Safety Qualification Packet (required)",
+        "Type of Award": "Lump Sum",
+        "Categories": "91843 - Environmental Consulting\n96273 - Restoration/Reclamation Services Of Land And Other Properties\n98814 - Erosion Control Services\n98852 - Landscaping (Including Design, Fertilizing, Planting, Etc., But Not Grounds Maintenance Or Tree Trimming Services)\n98859 - Mulch/Compost Production Services\n98872 - Pest Control (Other Than Buildings) (Includes Spraying Of Trees And Shrubs)\n98888 - Tree Trimming And Pruning Services\n98889 - Weed And Vegetation Control (Including Aquatic Weed Control)\n91219 - Construction, Clearing or grubbing services\n92640 - Ecological Services\n92641 - Ecosystems Development, Management and Protection Services",
+        "License Requirements": "C-27 Landscape",
+        "Department": "Purchasing Services Unit #820",
+        "Address": "5750 Almaden Expressway\nSan Jose, California\n95118",
+        "County": "Santa Clara",
+        "Bid Valid": "",
+        "Liquidated Damages": "",
+        "Estimated Bid Value": "",
+        "Start/Delivery Date": "",
+        "Project Duration": "1-3 years"
+      },
+      "Pre-Bid Meeting Information": {
+        "Pre-Bid Meeting": "Yes - Mandatory",
+        "Pre-Bid Meeting Date": "10/21/2025 10:00 AM (PST)",
+        "Pre-Bid Meeting Location": "Zoom link provided in the solicitation document"
+      },
+      "Online Q&A": {
+        "Online Q&A": "Yes",
+        "Q&A Deadline": "11/04/2025 2:00 PM (PST)"
+      },
+      "Contact Information": {
+        "Contact Info": "Kevin Kelley 408-630-2421\nkkelley@valleywater.org",
+        "Bids to": "",
+        "Owner's Agent": ""
+      },
+      "Description": {
+        "Scope of Services": "The Project requires a qualified contractor to maintain 55 acres of riparian and upland mitigation and restoration for Phase 1 of the Upper Llagas Flood Protection Project in Gilroy and Morgan Hill. The site is in the early stages of mitigation or restoration site development (4-5 years post- install) and is currently not meeting interim performance criteria; assistance is needed to ensure target vegetation and site conditions are successfully established within the monitoring period.",
+        "Other Details": "a mandatory pre-bid job walk will take place on October 22, 2025, from 10:00 AM to 12:00 PM to review existing site conditions and the workplace location. The location will be shared via the mandatory pre-bid Zoom meeting mentioned above. The mandatory Bidders will be disqualified if they arrive late, leave early, or do not attend the pre-bid meeting.",
+        "Notes": "",
+        "Special Notices": "All questions and/or requests for clarification concerning this solicitation must be submitted through the Q&A feature on this portal before the date and time stated on the bid information and/or the Q&A tab.",
+        "Local Programs & Policies": ""
+      }
+    },
+    "Prospective Bidders": [
+      {
+        "Vendor": [
+          "AAA Fence Co, INC",
+          "2560 San Juan Hollister Road,",
+          "Hollister, California 95023",
+          "Contact: Keith",
+          "Phone: 408-200-1720",
+          "keith@aaafenceco.com"
+        ],
+        "Type": "CADIR",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no"
+      },
+      {
+        "Vendor": [
+          "AguaTierra Associates",
+          "453 Ravendale Drive, Suite E",
+          "Mountain View, California 94043",
+          "Contact: `Agata Sulczynska",
+          "Phone: 510-450-6119",
+          "weissmktg@weiss.com"
+        ],
+        "Type": "DGS, Local",
+        "Status": "Non-Bidder, receive communications",
+        "Pre-Bid Meeting Attendee": "no"
+      },
+      {
+        "Vendor": [
+          "All Seasons Tree Service, Inc.",
+          "7799 Enterprise Drive",
+          "Newark, California 94560",
+          "Contact: Estimating",
+          "Phone: 530-650-2413",
+          "Estimating@allseasonsts.com"
+        ],
+        "Type": "",
+        "Status": "Non-Bidder, receive communications",
+        "Pre-Bid Meeting Attendee": "no"
+      },
+      {
+        "Vendor": [
+          "Allied Solutions",
+          "300 Veterans Way",
+          "Carmel, Indiana 46032",
+          "Contact: Jason Collier",
+          "Phone: 877-328-4432",
+          "contracts@alliedsolutionenterprise.com"
+        ],
+        "Type": "",
+        "Status": "Non-Bidder, receive communications",
+        "Pre-Bid Meeting Attendee": "no"
+      },
+      {
+        "Vendor": [
+          "Anaba Construction, Inc",
+          "1552 Lenay Ct",
+          "Manteca, California 95337",
+          "Contact: Shah Noor Broomand",
+          "Phone: 510-826-9443",
+          "anabaconstruction@gmail.com"
+        ],
+        "Type": "DGS, WBE, MBE",
+        "Status": "Non-Bidder, receive communications",
+        "Pre-Bid Meeting Attendee": "no"
+      },
+      {
+        "Vendor": [
+          "Anvil Builders Inc.",
+          "1550 Park Ave",
+          "Emeryville, California 94608",
+          "Contact: Alan Guy",
+          "Phone: 415-285-5000",
+          "Fax: 415-285-5005",
+          "estimating@anvilbuilders.com"
+        ],
+        "Type": "CADIR",
+        "Status": "Non-Bidder, receive communications",
+        "Pre-Bid Meeting Attendee": "no"
+      },
+      {
+        "Vendor": [
+          "BIC",
+          "31 N Cluff Ave",
+          "Lodi, California 95240",
+          "Contact: Heriberto",
+          "Phone: 209-747-8040",
+          "htrevino@bic-org.com"
+        ],
+        "Type": "",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no"
+      },
+      {
+        "Vendor": [
+          "BioMaAS, Inc.",
+          "1278 Indiana St #300",
+          "San Francisco, California 94107",
+          "Contact: John Cleckler",
+          "Phone: 916-712-6784",
+          "johncleckler@biomaas.com"
+        ],
+        "Type": "MBE, WBE",
+        "Status": "Non-Bidder, receive communications",
+        "Pre-Bid Meeting Attendee": "no"
+      },
+      {
+        "Vendor": [
+          "BrightView",
+          "1800 DUANE AVE",
+          "6693443032",
+          "Santa Clara, California 95054",
+          "Contact: Andrew Concepcion",
+          "Phone: 6693443032",
+          "andrew.concepcion@brightview.com"
+        ],
+        "Type": "Local",
+        "Status": "Non-Bidder, receive communications",
+        "Pre-Bid Meeting Attendee": "no"
+      },
+      {
+        "Vendor": [
+          "BrightView Landscape Services, Inc.",
+          "825 Mabury Road",
+          "San Jose, California 95133",
+          "Contact: Clint Christman",
+          "Phone: 818-740-8060",
+          "Clint.christman@brightview.com"
+        ],
+        "Type": "CADIR, Local",
+        "Status": "Non-Bidder, receive communications",
+        "Pre-Bid Meeting Attendee": "no"
+      },
+      {
+        "Vendor": [
+          "BSK Associates",
+          "691 N. Laverne Avenue, Suite 101",
+          "399 Lindbergh Ave - Livermore 94551",
+          "Fresno, California 93727",
+          "Contact: Cole S. Mackelprang/Tim Rodriguez",
+          "Phone: 650-302-2223",
+          "sales@bskassociates.com"
+        ],
+        "Type": "CADIR",
+        "Status": "Non-Bidder, receive communications",
+        "Pre-Bid Meeting Attendee": "no"
+      },
+      {
+        "Vendor": [
+          "Builders Exchange of Santa Clara",
+          "400 Reed Street",
+          "Santa Clara, California 95050",
+          "Contact: Kanani Fonseca",
+          "Phone: 408-727-4000",
+          "kf@bxscco.com"
+        ],
+        "Type": "Local",
+        "Status": "Non-Bidder, receive communications",
+        "Pre-Bid Meeting Attendee": "no"
+      },
+      {
+        "Vendor": [
+          "CA Traffic Solution",
+          "8201 Elder Creek Rd Suite 2A Sacramento, CA 95824",
+          "Sacramento, California 95824",
+          "Contact: Gabriel Solis",
+          "Phone: 916-245-1768",
+          "g.solis@catrafficsolution.com"
+        ],
+        "Type": "",
+        "Status": "Non-Bidder, receive communications",
+        "Pre-Bid Meeting Attendee": "no"
+      },
+      {
+        "Vendor": [
+          "California Reforestation Inc.",
+          "22230A Colorado River Dr.",
+          "Sonora,, California 95379",
+          "Contact: Justin Walker",
+          "Phone: 209-586-2115",
+          "Fax: 209-586-2115",
+          "mail@calreforest.com"
+        ],
+        "Type": "",
+        "Status": "Non-Bidder, receive communications",
+        "Pre-Bid Meeting Attendee": "no"
+      },
+      {
+        "Vendor": [
+          "Canonelreno Inc.",
+          "10 Nelor Street",
+          "W. Chicago, Illinois 60185",
+          "Contact: Karen Creno",
+          "Phone: 601-312-0745",
+          "karencreno78@gmail.com"
+        ],
+        "Type": "",
+        "Status": "Non-Bidder, receive communications",
+        "Pre-Bid Meeting Attendee": "no"
+      },
+      {
+        "Vendor": [
+          "CLS/Cervantes Landscape Services, Inc.",
+          "16649 Sycamore Ave",
+          "Patterson, California 95363",
+          "Contact: Alejandro Cervantes Perez",
+          "Phone: 209-277-9861",
+          "acervanteslandscaping@gmail.com"
+        ],
+        "Type": "CADIR",
+        "Status": "Non-Bidder, receive communications",
+        "Pre-Bid Meeting Attendee": "no"
+      },
+      {
+        "Vendor": [
+          "Community Tree Service, LLC",
+          "416 Salinas Rd",
+          "Royal Oaks, California 95076",
+          "Contact: Vanessa Benitez",
+          "Phone: 562-307-7127",
+          "vbenitez@communitytree.com"
+        ],
+        "Type": "",
+        "Status": "Non-Bidder, receive communications",
+        "Pre-Bid Meeting Attendee": "no"
+      },
+      {
+        "Vendor": [
+          "Condon-Johnson & Associates, Inc.",
+          "480 Roland Way",
+          "Suite 200",
+          "Oakland, California 94621",
+          "Contact: Clif Coran",
+          "Phone: 510-636-2100",
+          "ccoran@condon-johnson.com"
+        ],
+        "Type": "",
+        "Status": "Non-Bidder, receive communications",
+        "Pre-Bid Meeting Attendee": "no"
+      },
+      {
+        "Vendor": [
+          "Confluence Restoration Inc.",
+          "721 Seaside Street",
+          "Santa Cruz, California 95060",
+          "Contact: Ryan Yarbrough",
+          "Phone: 831-621-8084",
+          "Ryan@confluencerestoration.com"
+        ],
+        "Type": "DGS, MICRO",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "yes"
+      },
+      {
+        "Vendor": [
+          "ConstructConnect",
+          "3825 Edwards Rd.",
+          "Ste. 800",
+          "Cincinnati, Ohio 45209",
+          "Contact: Michael Stubbs",
+          "Phone: 513-458-5981",
+          "Fax: 866-570-8187",
+          "content@constructconnect.com"
+        ],
+        "Type": "DGS",
+        "Status": "Non-Bidder, receive communications",
+        "Pre-Bid Meeting Attendee": "no"
+      },
+      {
+        "Vendor": [
+          "Construction Bid Source LLC",
+          "416 Cottonwood Lane",
+          "Holly Springs, North Carolina 27540",
+          "Contact: Pearl Regis",
+          "Phone: 888-786-9450",
+          "Fax: 209-772-3573",
+          "pearl@constructionbidsource.com"
+        ],
+        "Type": "",
+        "Status": "Non-Bidder, receive communications",
+        "Pre-Bid Meeting Attendee": "no"
+      },
+      {
+        "Vendor": [
+          "Dinsmore Enterprises, Inc",
+          "8787 Monterey Road",
+          "Gilroy, California 95020",
+          "Contact: Ryan Dinsmore",
+          "Phone: 408-846-9511",
+          "rdinsmore@youralpine.com"
+        ],
+        "Type": "Local",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "yes"
+      },
+      {
+        "Vendor": [
+          "Dudek",
+          "605 Third St",
+          "Encinitas, California 92024",
+          "Contact: Marketing Services",
+          "Phone: 760-942-5147",
+          "rfp@dudek.com"
+        ],
+        "Type": "",
+        "Status": "Non-Bidder, receive communications",
+        "Pre-Bid Meeting Attendee": "no"
+      },
+      {
+        "Vendor": [
+          "Ecological Concerns, Inc.",
+          "125 Walk Circle",
+          "Santa Cruz, California 95060",
+          "Contact: John Morley",
+          "Phone: 831-750-9969",
+          "Fax: 831-459-0656",
+          "jmorley@ecologicalconcerns.com"
+        ],
+        "Type": "",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "yes"
+      },
+      {
+        "Vendor": [
+          "Empire Landscapinginc",
+          "26945 County Road 97D",
+          "Davis, California 95616",
+          "Contact: Ahmet Gulcu",
+          "Phone: 530-400-3943",
+          "empirelandscapinginc@gmail.com"
+        ],
+        "Type": "DGS, CADIR",
+        "Status": "Non-Bidder, receive communications",
+        "Pre-Bid Meeting Attendee": "no"
+      },
+      {
+        "Vendor": [
+          "Entram Corp",
+          "14123 Peachland Blvd",
+          "Port Charlotte, Florida 33954",
+          "Contact: John Falcone",
+          "Phone: 888-888-0900",
+          "sayres628@gmail.com"
+        ],
+        "Type": "",
+        "Status": "Non-Bidder, receive communications",
+        "Pre-Bid Meeting Attendee": "no"
+      },
+      {
+        "Vendor": [
+          "Environmental Science Associates",
+          "575 Market Street",
+          "Suite 3700",
+          "San Francisco, California 94105",
+          "Contact: NorCal Marketing",
+          "Phone: 415-896-5900",
+          "ncmarketingrfp@esassoc.com"
+        ],
+        "Type": "CADIR",
+        "Status": "Non-Bidder, receive communications",
+        "Pre-Bid Meeting Attendee": "no"
+      },
+      {
+        "Vendor": [
+          "ETIC",
+          "3478 Buskirk Ave., Suite 220",
+          "Pleasant Hill, California 94523",
+          "Contact: Courtney Aubert",
+          "Phone: 925-602-4710 ext. 2206",
+          "Fax: 925-602-4720",
+          "caubert@eticeng.com"
+        ],
+        "Type": "WBE, DGS, CADIR",
+        "Status": "Non-Bidder, receive communications",
+        "Pre-Bid Meeting Attendee": "no"
+      },
+      {
+        "Vendor": [
+          "Govguide",
+          "Other",
+          "Other, California 87654",
+          "Contact: Other",
+          "Phone: 875-645-7675",
+          "mohammedmoins@aci.apexcovantage.com"
+        ],
+        "Type": "",
+        "Status": "Non-Bidder, receive communications",
+        "Pre-Bid Meeting Attendee": "no"
+      },
+      {
+        "Vendor": [
+          "Green Goat Landscapers, LLC",
+          "957 Lewis Street",
+          "Santa Clara, California 95050",
+          "Contact: Brian Allen",
+          "Phone: 408-427-5945",
+          "greengoatlandscapers@gmail.com"
+        ],
+        "Type": "VSBE, MICRO, Local",
+        "Status": "Non-Bidder, receive communications",
+        "Pre-Bid Meeting Attendee": "no"
+      },
+      {
+        "Vendor": [
+          "H. T. Harvey & Associates, Ecological Consultants",
+          "720 University Ave.",
+          "Suite 200",
+          "Los Gatos, California 95032",
+          "Contact: Marketing",
+          "Phone: 408-458-3200",
+          "marketing@harveyecology.com"
+        ],
+        "Type": "DGS, CADIR, Local",
+        "Status": "Non-Bidder, receive communications",
+        "Pre-Bid Meeting Attendee": "no"
+      },
+      {
+        "Vendor": [
+          "Hanford Applied Restoration & Conservation",
+          "775 Baywood Drive, Suite 207",
+          "Petaluma, California 94954",
+          "Contact: Cindy Orme",
+          "Phone: 707-996-6633",
+          "Fax: 707-996-6641",
+          "estimating@hanfordarc.com"
+        ],
+        "Type": "CADIR",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "yes"
+      },
+      {
+        "Vendor": [
+          "HELIX Environmental Planning",
+          "7578 El Cajon Boulevard",
+          "La Mesa, California 91942",
+          "Contact: Tiffany",
+          "Phone: 619-462-1515",
+          "tiffanyt@helixepi.com"
+        ],
+        "Type": "",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "yes"
+      },
+      {
+        "Vendor": [
+          "Irish Excavation",
+          "305 Vineyard Town Center",
+          "Suite 109",
+          "Morgan Hill, California 95037",
+          "Contact: Sean O'Donoghue",
+          "Phone: 408-659-6136",
+          "sean@irishexcavation.com"
+        ],
+        "Type": "CADIR, DGS, MICRO, Local",
+        "Status": "Non-Bidder, receive communications",
+        "Pre-Bid Meeting Attendee": "no"
+      },
+      {
+        "Vendor": [
+          "Landology, Inc.",
+          "313 Judah Street, Suite 5",
+          "Roseville, California 95677",
+          "Contact: matt hennessey",
+          "Phone: 916-626-1884",
+          "matt@landologyinc.com"
+        ],
+        "Type": "WBE, DGS, CADIR, DBE",
+        "Status": "Non-Bidder, receive communications",
+        "Pre-Bid Meeting Attendee": "no"
+      },
+      {
+        "Vendor": [
+          "Layfield Group",
+          "10038 Marathon Pkwy",
+          "Lakeside, California 92040",
+          "Contact: Oscar",
+          "Phone: 949-402-4289",
+          "oscar.alvareztorre@layfieldgroup.com"
+        ],
+        "Type": "",
+        "Status": "Non-Bidder, receive communications",
+        "Pre-Bid Meeting Attendee": "no"
+      },
+      {
+        "Vendor": [
+          "LSA Associates, Inc.",
+          "20 Executive Park, Suite 200",
+          "Irvine, California 92614",
+          "Contact: Shira Eilenberg",
+          "Phone: 949-553-0666",
+          "Marketing@lsa.net"
+        ],
+        "Type": "",
+        "Status": "Non-Bidder, receive communications",
+        "Pre-Bid Meeting Attendee": "no"
+      },
+      {
+        "Vendor": [
+          "McNabb Construction, Inc",
+          "3527 Mt Diablo Blvd #306",
+          "Lafayette, California 94549",
+          "Contact: Dave McNabb",
+          "Phone: 925-935-4200",
+          "davemcnabb@hotmail.com"
+        ],
+        "Type": "",
+        "Status": "Non-Bidder, receive communications",
+        "Pre-Bid Meeting Attendee": "no"
+      },
+      {
+        "Vendor": [
+          "MIG, Inc.",
+          "800 Hearst Avenue",
+          "Berkeley, California 94710",
+          "Contact: Christopher Beynon",
+          "Phone: 510-845-7549",
+          "marketing.mig@gmail.com"
+        ],
+        "Type": "",
+        "Status": "Non-Bidder, receive communications",
+        "Pre-Bid Meeting Attendee": "no"
+      },
+      {
+        "Vendor": [
+          "MZB Traffic Management Inc.",
+          "1192 Athlone Lane",
+          "Corona, California 92882",
+          "Contact: Humayun Aziz",
+          "Phone: 949-254-4792",
+          "info@mzbinc.com"
+        ],
+        "Type": "DBE",
+        "Status": "Non-Bidder, receive communications",
+        "Pre-Bid Meeting Attendee": "no"
+      },
+      {
+        "Vendor": [
+          "NCE",
+          "501 Canal Blvd, Ste I",
+          "Richmond, California 94804",
+          "Contact: NorCalMktg",
+          "Phone: 510-215-3620",
+          "NorCalMktg@ncenet.com"
+        ],
+        "Type": "",
+        "Status": "Non-Bidder, receive communications",
+        "Pre-Bid Meeting Attendee": "no"
+      },
+      {
+        "Vendor": [
+          "Prunuske Chatham, Inc.",
+          "103 Morris Street, Suite A-5",
+          "Sebastopol, California 95472",
+          "Contact: Will Johnson",
+          "Phone: 707-889-3678",
+          "will@pcz.com"
+        ],
+        "Type": "DGS, CADIR",
+        "Status": "Non-Bidder, receive communications",
+        "Pre-Bid Meeting Attendee": "no"
+      },
+      {
+        "Vendor": [
+          "Scapes Inc",
+          "12344 San Mateo Road",
+          "Half Moon Bay, California 94019",
+          "Contact: Saded Alnaggar",
+          "Phone: 650-398-0731",
+          "Fax: 650-712-4408",
+          "Sadeq@scapes.org"
+        ],
+        "Type": "DGS, CADIR, WBE",
+        "Status": "Non-Bidder, receive communications",
+        "Pre-Bid Meeting Attendee": "no"
+      },
+      {
+        "Vendor": [
+          "Sequoia Ecological Consulting, Inc.",
+          "1342 Creekside Drive",
+          "Walnut Creek, California 94596",
+          "Contact: Melissa",
+          "Phone: 925-855-5500",
+          "bids@sequoiaeco.com"
+        ],
+        "Type": "WBE, DBE, DGS, MICRO",
+        "Status": "Non-Bidder, receive communications",
+        "Pre-Bid Meeting Attendee": "no"
+      },
+      {
+        "Vendor": [
+          "SWCA Environmental Consultants",
+          "60 Stone Pine Road",
+          "Suite 100",
+          "Half Moon Bay, California 94019",
+          "Contact: Brittney Leyva",
+          "Phone: 650-440-4160",
+          "pasmktg@swca.com"
+        ],
+        "Type": "",
+        "Status": "Non-Bidder, receive communications",
+        "Pre-Bid Meeting Attendee": "no"
+      },
+      {
+        "Vendor": [
+          "The San Francisco Builders Exchange",
+          "850 S Van Ness Ave",
+          "San Francisco, California 94110",
+          "Contact: Deanna Johnson",
+          "Phone: 415-282-8220",
+          "Fax: 415-821-0363",
+          "djohnsonsf@sbcglobal.net"
+        ],
+        "Type": "",
+        "Status": "Non-Bidder, receive communications",
+        "Pre-Bid Meeting Attendee": "no"
+      },
+      {
+        "Vendor": [
+          "Triangle Properties",
+          "3500 American River Drive",
+          "Sacramento, California 95864",
+          "Contact: Jessica Johnston",
+          "Phone: 916-696-0119",
+          "jjohnston@teichert.com"
+        ],
+        "Type": "",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "yes"
+      },
+      {
+        "Vendor": [
+          "ULTRASYSTEMS ENVIRONMENTAL INCORPORATED",
+          "16431 Scientific",
+          "Irvine, California 92618",
+          "Contact: Betsy A. Lindsay",
+          "Phone: 949-788-4900 ext. 227",
+          "Fax: 949-788-4901",
+          "blindsay@ultrasystems.com"
+        ],
+        "Type": "DGS, DBE, CADIR, WBE, FSD",
+        "Status": "Non-Bidder, receive communications",
+        "Pre-Bid Meeting Attendee": "no"
+      },
+      {
+        "Vendor": [
+          "Upland Hydrogeology Consulting",
+          "PO Box 550756",
+          "South Lake Tahoe, California 96155",
+          "Contact: Sean Culkin",
+          "Phone: 510-502-4302",
+          "sculkin@uplandhydro.com"
+        ],
+        "Type": "DGS, MICRO, VSBE",
+        "Status": "Non-Bidder, receive communications",
+        "Pre-Bid Meeting Attendee": "no"
+      }
+    ],
+    "Bid Title": "Upper LLagas Flood Protection Project Phase 1 Mitigation Maintenance"
+  },
+  {
+    "Bid Information": {
+      "Bid Detail": {
+        "Project Title": "SKILLED LABOR FOR WATERWAY CLEAN-UP SERVICES",
+        "Invitation #": "VW0561",
+        "Bid Posting Date": "10/30/2025 6:34 PM (PST)",
+        "Project Stage": "Bidding",
+        "Bid Due Date": "12/03/2025 2:00 PM (PST)",
+        "Response Format": "Electronic",
+        "Project Type": "Bid",
+        "Response Types": "Line Items\nRequired Submittal Checklist (required)\nBid Form (required)\nBid Questionnaire (required)\nList of Subcontractors (required)\nBidders Bond (required)\nReferences (required)\nNon-Collusion Declaration (required)\nDisqualification Questionnaire (required)\nRequest for \"Or Equals\" (required)\nW-9 Certification (required)\nContractor Safety Qualification Packet (required)",
+        "Type of Award": "Lump Sum",
+        "Categories": "91200 - Construction Services, General (Incl. Maintenance And Repair Services)\n91240 - Demolition Services, Construction services\n91300 - Construction Services, Heavy (Incl. Maintenance And Repair Services)\n91873 - Landscaping Consulting\n98852 - Landscaping (Including Design, Fertilizing, Planting, Etc., But Not Grounds Maintenance Or Tree Trimming Services)\n91219 - Construction, Clearing or grubbing services\n91355 - Construction, Utility/Underground Projects",
+        "License Requirements": "",
+        "Department": "Purchasing Services Unit #820",
+        "Address": "5750 Almaden Expressway\nSan Jose, California\n95118",
+        "County": "Santa Clara",
+        "Bid Valid": "",
+        "Liquidated Damages": "",
+        "Estimated Bid Value": "",
+        "Start/Delivery Date": "",
+        "Project Duration": ""
+      },
+      "Pre-Bid Meeting Information": {
+        "Pre-Bid Meeting": "Yes - Mandatory",
+        "Pre-Bid Meeting Date": "11/12/2025 11:00 AM (PST)",
+        "Pre-Bid Meeting Location": "See solicitation for link to mandatory pre-bid Zoom meeting."
+      },
+      "Online Q&A": {
+        "Online Q&A": "Yes",
+        "Q&A Deadline": "11/17/2025 2:00 PM (PST)"
+      },
+      "Contact Information": {
+        "Contact Info": "Zachary De Vine 408-630-2495\nzdevine@valleywater.org",
+        "Bids to": "",
+        "Owner's Agent": ""
+      },
+      "Description": {
+        "Scope of Services": "This project provides Skilled Labor for Waterway Cleanup Services throughout Santa Clara County to support Valley Water’s Unhoused Encampment Cleanup Program. The selected contractor will furnish all labor, equipment, tools, materials, and supervision needed to remove trash, debris, and hazardous materials from creeks, rivers, reservoirs, canals, and recharge facilities. Work may occur in remote or environmentally sensitive areas and will include minor vegetation trimming, waste disposal, and adherence to environmental and safety regulations. Contractor crews must be experienced in riparian habitat work and complete annual Valley Water Best Management Practices training. The contractor must respond to service requests within four hours and mobilize within two business days. All work must meet Valley Water standards and will be inspected for compliance and quality before payment. Payment is based on verified time, equipment use, and materials as approved by Valley Water. Valley Water shall award to a single vendor only for a one-year initial term with up to four (4) additional one-year options to extend services. Funding for this project is through a federal grant, see section 5 for additional requirements.",
+        "Other Details": "",
+        "Notes": "",
+        "Special Notices": "All questions and/or requests for clarification concerning this solicitation must be submitted through the Q&A feature on this portal before the date and time stated on the bid information and/or the Q&A tab.\nThe undersigned understands and agrees to be bound to the proposed Scope of Services and Cost Proposal for 180 days from the date of proposal submittal.\nProposers may not communicate with Valley Water Board Members, staff, or consultants who currently provide services for Valley Water. All inquiries regarding this upcoming solicitation should be directed to person named in the Contact Information section.\nAll bidders must complete and submit a verified electronic Bidder’s Bond (e-Bond) through either Surety2000 at http://www.surety2000.com or Tinubu at https://www.tinubu.com/ebonding in PlanetBids before the latest date/time for submitting Bid Proposals. Upload the e-Bond (in PDF), with the Bond Verification Number written on it, in the required attachment field called “Bid Bond\". Please refer to ITB Section 1.10. for more detailed instructions.",
+        "Local Programs & Policies": ""
+      }
+    },
+    "Prospective Bidders": [
+      {
+        "Vendor": [
+          "Allied Solutions",
+          "300 Veterans Way",
+          "Carmel, Indiana 46032",
+          "Contact: Jason Collier",
+          "Phone: 877-328-4432",
+          "contracts@alliedsolutionenterprise.com"
+        ],
+        "Type": "",
+        "Status": "Non-Bidder, receive communications",
+        "Pre-Bid Meeting Attendee": "no"
+      },
+      {
+        "Vendor": [
+          "American Integrated Services, Inc.",
+          "1502 E Opp Street",
+          "Wilmington, California 90744",
+          "Contact: Lisa Huizenga",
+          "Phone: 310-522-1168",
+          "lhuizenga@americanintegrated.com"
+        ],
+        "Type": "MBE, CADIR",
+        "Status": "Non-Bidder, receive communications",
+        "Pre-Bid Meeting Attendee": "no"
+      },
+      {
+        "Vendor": [
+          "Apex Enterprises Inc.",
+          "461 Ophir Road",
+          "Oroville, California 95966",
+          "Contact: Logan Bamford",
+          "Phone: 530-403-3183",
+          "lwb@apexenterprisesinc.com"
+        ],
+        "Type": "DGS",
+        "Status": "Non-Bidder, receive communications",
+        "Pre-Bid Meeting Attendee": "no"
+      },
+      {
+        "Vendor": [
+          "Art Cuevas Landscaping",
+          "3990 Mira Loma Way",
+          "San Jose, California 95111",
+          "Contact: Arturo",
+          "Phone: 408-605-3707",
+          "Fax: 408-365-7013",
+          "artcuevaslandscaping@yahoo.com"
+        ],
+        "Type": "DGS, MICRO, CADIR, Local",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "yes"
+      },
+      {
+        "Vendor": [
+          "Bayscape Management Inc.",
+          "P.O. Box 880",
+          "Alviso, California 95002",
+          "Contact: Alex Padilla",
+          "Phone: 408-288-2940 ext. 229",
+          "Fax: 408-392-9014",
+          "alexp@bayscape.net"
+        ],
+        "Type": "Local",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "yes"
+      },
+      {
+        "Vendor": [
+          "Beatty's Services, Inc.",
+          "450 Sutter Street",
+          "Suite 1215",
+          "San Francisco, California 94108",
+          "Contact: Lam Nguyen",
+          "Phone: 800-878-9658",
+          "Fax: 855-880-0717",
+          "administrator@beattys2.com"
+        ],
+        "Type": "DBE, FSD, MBE, WBE",
+        "Status": "Non-Bidder, receive communications",
+        "Pre-Bid Meeting Attendee": "no"
+      },
+      {
+        "Vendor": [
+          "Best Quality Tree Service",
+          "1648 miner ave",
+          "san pablo, California 94806",
+          "Contact: ronald gaytan guzman",
+          "Phone: 510-779-3008",
+          "officebqts@gmail.com"
+        ],
+        "Type": "DGS, MICRO",
+        "Status": "Non-Bidder, receive communications",
+        "Pre-Bid Meeting Attendee": "no"
+      },
+      {
+        "Vendor": [
+          "BrightView",
+          "1800 DUANE AVE",
+          "6693443032",
+          "Santa Clara, California 95054",
+          "Contact: Andrew Concepcion",
+          "Phone: 669-344-3032",
+          "andrew.concepcion@brightview.com"
+        ],
+        "Type": "Local",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "yes"
+      },
+      {
+        "Vendor": [
+          "Brightview Landscape Services",
+          "825 Mabury Road",
+          "San Jose, California 95133",
+          "Contact: Vim Mahabir",
+          "Phone: 925-416-9355",
+          "vim.mahabir@brightview.com"
+        ],
+        "Type": "CADIR, Local",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "yes"
+      },
+      {
+        "Vendor": [
+          "BrightView Landscape Services, Inc.",
+          "825 Mabury Road",
+          "San Jose, California 95133",
+          "Contact: Clint Christman",
+          "Phone: 818-740-8060",
+          "Clint.christman@brightview.com"
+        ],
+        "Type": "CADIR, Local",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "yes"
+      },
+      {
+        "Vendor": [
+          "Community Tree Service, LLC",
+          "416 Salinas Rd",
+          "Royal Oaks, California 95076",
+          "Contact: Vanessa Benitez",
+          "Phone: 562-307-7127",
+          "vbenitez@communitytree.com"
+        ],
+        "Type": "",
+        "Status": "Non-Bidder, receive communications",
+        "Pre-Bid Meeting Attendee": "no"
+      },
+      {
+        "Vendor": [
+          "ConstructConnect",
+          "3825 Edwards Rd.",
+          "Ste. 800",
+          "Cincinnati, Ohio 45209",
+          "Contact: Michael Stubbs",
+          "Phone: 513-458-5981",
+          "Fax: 866-570-8187",
+          "content@constructconnect.com"
+        ],
+        "Type": "DGS",
+        "Status": "Non-Bidder, receive communications",
+        "Pre-Bid Meeting Attendee": "no"
+      },
+      {
+        "Vendor": [
+          "Construction Bid Source LLC",
+          "416 Cottonwood Lane",
+          "Holly Springs, North Carolina 27540",
+          "Contact: Pearl Regis",
+          "Phone: 888-786-9450",
+          "Fax: 209-772-3573",
+          "pearl@constructionbidsource.com"
+        ],
+        "Type": "",
+        "Status": "Non-Bidder, receive communications",
+        "Pre-Bid Meeting Attendee": "no"
+      },
+      {
+        "Vendor": [
+          "Elite Maintenance Inc",
+          "305 Vineyard Town Ctr #306",
+          "Morgan Hill, California 95037",
+          "Contact: Diego Zavala",
+          "Phone: 669-231-9308",
+          "diego@elitemaintenancecorp.com"
+        ],
+        "Type": "DGS, CADIR, MICRO, Local",
+        "Status": "Non-Bidder, receive communications",
+        "Pre-Bid Meeting Attendee": "no"
+      },
+      {
+        "Vendor": [
+          "GovGuide",
+          "1916 N Dinwiddie St.",
+          "Arlington, Virginia 22207",
+          "Contact: Connor Fusselman",
+          "Phone: 407-619-6738",
+          "rfp@yourgovguide.com"
+        ],
+        "Type": "",
+        "Status": "Non-Bidder, receive communications",
+        "Pre-Bid Meeting Attendee": "no"
+      },
+      {
+        "Vendor": [
+          "Hunter Consulting Inc dba HCI Environmental & Engineering Service",
+          "1680 Commerce Street",
+          "Corona, California 92878",
+          "Contact: Cathie Curtis",
+          "Phone: 951-280-0298",
+          "bids@hcienv.com"
+        ],
+        "Type": "",
+        "Status": "Non-Bidder, receive communications",
+        "Pre-Bid Meeting Attendee": "no"
+      },
+      {
+        "Vendor": [
+          "Jensen Landscape Services, LLC",
+          "1250 Ames Avenue",
+          "Milpitas, California 95035",
+          "Contact: Paul vanLeeuwen",
+          "Phone: 408-930-0636",
+          "pvanleeuwen@jensencorp.com"
+        ],
+        "Type": "Local",
+        "Status": "Non-Bidder, receive communications",
+        "Pre-Bid Meeting Attendee": "no"
+      },
+      {
+        "Vendor": [
+          "MATHEWS G.E.C. Inc.",
+          "1112 N. Main st #105",
+          "Manteca, California 95336",
+          "Contact: Acie Mathews",
+          "Phone: 209-650-3614",
+          "mathewsgec@gmail.com"
+        ],
+        "Type": "DBE, MICRO, DGS, MBE, CADIR",
+        "Status": "Non-Bidder, receive communications",
+        "Pre-Bid Meeting Attendee": "no"
+      },
+      {
+        "Vendor": [
+          "MEK Enterprises, Inc",
+          "3517 Camino Del Rio Sth",
+          "San Diego, California 92108",
+          "Contact: Grant Sawyer",
+          "Phone: 858-344-3121",
+          "estimating@4mek.com"
+        ],
+        "Type": "",
+        "Status": "Non-Bidder, receive communications",
+        "Pre-Bid Meeting Attendee": "no"
+      },
+      {
+        "Vendor": [
+          "Pacific Underground Construction Inc.",
+          "1817 Stone Avenue",
+          "San Jose, California 95125",
+          "Contact: Tina Corbett",
+          "Phone: 408-977-1655",
+          "Fax: 408-977-1659",
+          "tina@pacificunderground.com"
+        ],
+        "Type": "DGS, CADIR, Local",
+        "Status": "Non-Bidder, receive communications",
+        "Pre-Bid Meeting Attendee": "no"
+      },
+      {
+        "Vendor": [
+          "Rapid Grading",
+          "23842 Cabot Blvd",
+          "Hayward, California 94545",
+          "Contact: Keith Dorsa",
+          "Phone: 408-898-6315",
+          "kdorsa2@yahoo.com"
+        ],
+        "Type": "DGS, DBE",
+        "Status": "Non-Bidder, receive communications",
+        "Pre-Bid Meeting Attendee": "no"
+      },
+      {
+        "Vendor": [
+          "San Jose Conservation Corps",
+          "1560 Berger Drive",
+          "San Jose, California 95112",
+          "Contact: Robert Walker",
+          "Phone: 650-796-1054",
+          "rwalker@sjcccs.org"
+        ],
+        "Type": "Local",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "yes"
+      },
+      {
+        "Vendor": [
+          "The San Francisco Builders Exchange",
+          "850 S Van Ness Ave",
+          "San Francisco, California 94110",
+          "Contact: Deanna Johnson",
+          "Phone: 415-282-8220",
+          "Fax: 415-821-0363",
+          "djohnsonsf@sbcglobal.net"
+        ],
+        "Type": "",
+        "Status": "Non-Bidder, receive communications",
+        "Pre-Bid Meeting Attendee": "no"
+      },
+      {
+        "Vendor": [
+          "United Pacific Services Inc",
+          "5529 Leeds Street",
+          "South Gate, California 90280",
+          "Contact: Eric Franklin",
+          "Phone: 562-691-4600",
+          "Fax: 562-691-8839",
+          "eric@unitedpac.com"
+        ],
+        "Type": "DGS, CADIR, WBE",
+        "Status": "Non-Bidder, receive communications",
+        "Pre-Bid Meeting Attendee": "no"
+      },
+      {
+        "Vendor": [
+          "Valley Water",
+          "552 almaden expressway",
+          "san jose, California 95118",
+          "Contact: Ray",
+          "Phone: 510-655-7152",
+          "rruiz@valleywater.org"
+        ],
+        "Type": "Local",
+        "Status": "Non-Bidder, receive communications",
+        "Pre-Bid Meeting Attendee": "no"
+      }
+    ],
+    "Bid Title": "SKILLED LABOR FOR WATERWAY CLEAN-UP SERVICES"
+  },
+  {
+    "Bid Information": {
+      "Bid Detail": {
+        "Project Title": "Multi-Function Devices Lease and Maintenance",
+        "Invitation #": "VW0630",
+        "Bid Posting Date": "10/15/2025 12:10 PM (PST)",
+        "Project Stage": "Bidding",
+        "Bid Due Date": "12/09/2025 2:00 PM (PST)",
+        "Response Format": "Electronic",
+        "Project Type": "RFP (Request for Proposal)",
+        "Response Types": "Response File\nRequired Submittal Checklist, Exhibit 1 (required)\nProposal Cover Form, Exhibit 2 (required)\nExceptions Form, Exhibit 3 (required)\nDesignation of Subcontractors List, Exhibit 4 (required)\nReference Form No. 1, Exhibit 5 (required)\nReference Form No. 2, Exhibit 5 (required)\nReference Form No. 3, Exhibit 5 (required)\nCost Proposal Form, Exhibit 6 (required)\nLocal Business Enterprise Consideration, Exhibit 7 (required)\nDisqualification Questionnaire, Exhibit 14 (required)\nRequest for \"Or Equals\", Exhibit 15, if applicable\nProposer's Current W-9 (required)\nContractor Safety Qualification Packet (required)",
+        "Type of Award": "Lump Sum",
+        "Categories": "60000 - Office Machines, Equipment, And Accessories\n93900 - Equipment Maintenance And Repair Services For Computers, Office, Photographic, And Radio/Television Equipment\n98500 - Rental Or Lease Services Of Office, Photographic, Printing, Radio/Television/Telephone Equipment",
+        "License Requirements": "",
+        "Department": "Purchasing Services Unit #820",
+        "Address": "5750 Almaden Expressway\nSan Jose, California\n95118",
+        "County": "Santa Clara",
+        "Bid Valid": "",
+        "Liquidated Damages": "",
+        "Estimated Bid Value": "",
+        "Start/Delivery Date": "",
+        "Project Duration": ""
+      },
+      "Bid Bond": {
+        "Bid Bond": "0.00%",
+        "Payment Bond": "0.00%",
+        "Performance Bond": "0.00%"
+      },
+      "Pre-Bid Meeting Information": {
+        "Pre-Bid Meeting": "Yes - Not Mandatory",
+        "Pre-Bid Meeting Date": "10/29/2025 11:00 AM (PST)",
+        "Pre-Bid Meeting Location": "Please use the Zoom link located in Section 2.4.B Pre-Proposal Conference."
+      },
+      "Online Q&A": {
+        "Online Q&A": "Yes",
+        "Q&A Deadline": "11/14/2025 2:00 PM (PST)"
+      },
+      "Contact Information": {
+        "Contact Info": "Kelly Grabeel 408-630-2397\nkgrabeel@valleywater.org",
+        "Bids to": "",
+        "Owner's Agent": ""
+      },
+      "Description": {
+        "Scope of Services": "Valley Water seeks proposals from qualified firms to lease, install, maintain, and support a current fleet of 71 networked multi-function devices (MFDs) for use across its facilities. The selected contractor will supply new or OEM-certified MFDs that meet Valley Water’s operational, security, and environmental standards, in a phased deployment with all lease terms co-terminating on December 31, 2030. Services include full maintenance, repairs, and firmware updates; consumables management; user training; and quarterly reporting of usage and service metrics. Contractors must provide rapid on-site response, loaner units for extended downtime, and proactive supply replenishment. MFDs must support secure print release, authentication, accessibility compliance, and integration with Valley Water’s IT security protocols. The resulting agreement will include a $1 end-of-term buyout option transferring ownership of devices to Valley Water. Vendors are encouraged to propose energy-efficient and sustainable technology solutions that reduce waste and support secure, cost-effective document management.",
+        "Other Details": "Valley Water intends to award an agreement to one vendor as a result of this solicitation for a five-year initial term with up to two (2) additional one-year options to extend.",
+        "Notes": "",
+        "Special Notices": "All questions and/or requests for clarification concerning this solicitation must be submitted through the Q&A feature on this portal before the date and time stated on the bid information and/or the Q&A tab.\nThe undersigned understands and agrees to be bound to the proposed Scope of Services and Cost Proposal for 180 days from the date of proposal submittal.\nProposers may not communicate with Valley Water Board Members, staff, or consultants who currently provide services for Valley Water. All inquiries regarding this upcoming solicitation should be directed to person named in the Contact Information section.",
+        "Local Programs & Policies": ""
+      }
+    },
+    "Prospective Bidders": [
+      {
+        "Vendor": [
+          "Allied Solutions",
+          "300 Veterans Way",
+          "Carmel, Indiana 46032",
+          "Contact: Jason Collier",
+          "Phone: 877-328-4432",
+          "contracts@alliedsolutionenterprise.com"
+        ],
+        "Type": "",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Prime"
+      },
+      {
+        "Vendor": [
+          "ARC Document Solutions",
+          "PO BOX 511579",
+          "Los Angeles, California 90051-8134",
+          "Contact: Shalini de Pinto",
+          "Phone: 408-687-9688",
+          "shalini.depinto@e-arc.com"
+        ],
+        "Type": "MBE",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Other"
+      },
+      {
+        "Vendor": [
+          "Bay Reprographic",
+          "2692 MIDDLEFIELD RD",
+          "Suite D",
+          "REDWOOD CITY, California 94063-3486",
+          "Contact: Todd Turner",
+          "Phone: 650-363-8703",
+          "Fax: 650-363-8709",
+          "doug@bayplotter.com"
+        ],
+        "Type": "DGS, DGS",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Supplier"
+      },
+      {
+        "Vendor": [
+          "Brother International",
+          "200 crossing blvd",
+          "bridgewater, New Jersey 08807",
+          "Contact: Frank Takacs",
+          "Phone: 908-252-3235",
+          "frank.takacs@brother.com"
+        ],
+        "Type": "",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Prime"
+      },
+      {
+        "Vendor": [
+          "Caltronics Business Systems",
+          "1286 Kifer Rd #108",
+          "Sunnyvale, California 94086",
+          "Contact: Allen",
+          "Phone: 408-593-8453",
+          "Fax: 408-727-4421",
+          "duncana@caltronics.net"
+        ],
+        "Type": "Local",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Supplier"
+      },
+      {
+        "Vendor": [
+          "Canon USA",
+          "1 Canon Park",
+          "Melville, New York 11747",
+          "Contact: John",
+          "Phone: 516-477-0523",
+          "jgerckens@cusa.canon.com"
+        ],
+        "Type": "",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Supplier"
+      },
+      {
+        "Vendor": [
+          "Data Center Interworks Inc.",
+          "180 Promenade Cir #300",
+          "Sacramento, California 95834",
+          "Contact: Hazel Valencia",
+          "Phone: 916-758-4187",
+          "hazel.valencia@datacenterinterworks.com"
+        ],
+        "Type": "DGS",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Prime"
+      },
+      {
+        "Vendor": [
+          "En Pointe IT Solutions, LLC",
+          "2121 Rosecrans Ave",
+          "Suite# 4310",
+          "El Segundo, California 90245",
+          "Contact: Kathy Perez",
+          "Phone: 408-221-4099",
+          "kathy.perez@enpointeits.com"
+        ],
+        "Type": "MBE, WBE",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Prime"
+      },
+      {
+        "Vendor": [
+          "Global Office Inc",
+          "2070 Commerce Ave",
+          "Concord, California 94520",
+          "Contact: Jon Karimov",
+          "Phone: 415-992-1060",
+          "jkarimov@globalofficeinc.com"
+        ],
+        "Type": "",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Prime"
+      },
+      {
+        "Vendor": [
+          "LEXMARK INTERNATIONAL, INC.",
+          "740 New Circle Rd Lexington KY 40511-1806",
+          "Lexington, Kentucky 40511",
+          "Contact: Tyler Coombs",
+          "Phone: 512-639-7123",
+          "tyler.coombs@lexmark.com"
+        ],
+        "Type": "",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Supplier"
+      },
+      {
+        "Vendor": [
+          "Marco Technologies, LLC",
+          "1000 Commerce Pkwy SW",
+          "Bondurant, Iowa 50035",
+          "Contact: Zach McBride",
+          "Phone: 800-847-3098 ext. 8237",
+          "zach.mcbride@marconet.com"
+        ],
+        "Type": "",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Prime"
+      },
+      {
+        "Vendor": [
+          "Matrix Business Systems, Inc.",
+          "360 SW 25th St",
+          "Lincoln, Nebraska 68522",
+          "Contact: Mason",
+          "Phone: 402-438-8030",
+          "mfrey@matrixbusiness.biz"
+        ],
+        "Type": "VSBE",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Subcontractor"
+      },
+      {
+        "Vendor": [
+          "MBS Business Systems",
+          "325 Victor Street, Suite A",
+          "Salinas, California 93907",
+          "Contact: David Parara",
+          "Phone: 831-758-1048 ext. 131",
+          "Fax: 831-758-1048",
+          "dave@mbsworks.com"
+        ],
+        "Type": "",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Prime"
+      },
+      {
+        "Vendor": [
+          "Pacific Office Automation",
+          "14747 NW Greenbrier Parkway",
+          "Beaverton, Oregon 97006",
+          "Contact: Kalei Caoili",
+          "Phone: 408-223-5257",
+          "KALEI.CAOILI@PACIFICOFFICE.COM"
+        ],
+        "Type": "",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Other"
+      },
+      {
+        "Vendor": [
+          "Power Business Technology, LLC",
+          "1020 Winding Creek Rd.",
+          "Suite 150",
+          "Roseville, California 95678",
+          "Contact: Maura Lopez",
+          "Phone: 844-769-3729",
+          "maura.lopez@powercopiers.com"
+        ],
+        "Type": "",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Supplier"
+      },
+      {
+        "Vendor": [
+          "Ricoh USA",
+          "300 Eagleview Boulevard",
+          "Ste. 200",
+          "Exton, Pennsylvania 19341",
+          "Contact: Brian Chun",
+          "Phone: 408-664-6664",
+          "brian.chun@ricoh-usa.com"
+        ],
+        "Type": "",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Supplier"
+      },
+      {
+        "Vendor": [
+          "Sharp Business Systems",
+          "5700 Stoneridge Dr.",
+          "Suite 300",
+          "Pleasanton, California 94588",
+          "Contact: Doug Cochran",
+          "Phone: 415-314-2238",
+          "Doug.Cochran@Sharpusa.com"
+        ],
+        "Type": "",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Prime"
+      },
+      {
+        "Vendor": [
+          "Toshiba Business Solutions",
+          "2300 Clayton Rd",
+          "#540",
+          "Concord, California 94520",
+          "Contact: Van Real",
+          "Phone: 925-683-9300",
+          "van.real@tbs.toshiba.com"
+        ],
+        "Type": "",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Prime"
+      },
+      {
+        "Vendor": [
+          "Visual Edge Inc",
+          "650 E Hospitality Ln Suite 500,",
+          "San Bernardino, California 92408",
+          "Contact: Whitney Weiler",
+          "Phone: 650-224-5246",
+          "wweiler@visualedgeit.com"
+        ],
+        "Type": "DGS",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Prime"
+      },
+      {
+        "Vendor": [
+          "Wizix Technology Group, Inc",
+          "5225 Hellyer Avenue STE 265",
+          "San Jose, California 95138",
+          "Contact: Kevin Jarvis",
+          "Phone: 888-977-4220",
+          "kevin.jarvis@wizixtech.com"
+        ],
+        "Type": "Local",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Prime"
+      },
+      {
+        "Vendor": [
+          "Xerox Business Solutions",
+          ": 8200 IH-10 West, Ste. 400",
+          "San Antonio, Texas 78230",
+          "Contact: Cindy Munson",
+          "Phone: 210-805-8200",
+          "xbsrfpteam@xerox.com"
+        ],
+        "Type": "",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Prime"
+      }
+    ],
+    "Bid Title": "Multi-Function Devices Lease and Maintenance"
+  },
+  {
+    "Bid Information": {
+      "Bid Detail": {
+        "Project Title": "WATER QUALITY LABORATORY COUNTER TOPS AND SINK REPLACEMENT",
+        "Invitation #": "VW0646",
+        "Bid Posting Date": "11/10/2025 11:02 AM (PST)",
+        "Project Stage": "Bidding",
+        "Bid Due Date": "12/15/2025 2:00 PM (PST)",
+        "Response Format": "Electronic",
+        "Project Type": "Bid",
+        "Response Types": "Line Items\nRequired Submittal Checklist (required)\nBid Form (required)\nBid Questionnaire (required)\nList of Subcontractors (required)\nReferences (required)\nDisqualification Questionnaire (required)\nConflict of Interest Disclosure Document (required)\nNon-Collusion Declaration (required)\nSmall Business Outreach Program Affidavit (required)\nLocal Business Enterprise Consideration (required)\nW-9 Certification (required)\nContractor Safety Qualification Packet (required)",
+        "Type of Award": "Lump Sum",
+        "Categories": "67000 - Plumbing Equipment, Fixtures, And Supplies\n91042 - Kitchen And Bathroom Fixture Repair (Not Plumbing): Bathtubs, Sinks, Cabinets, Counter Tops, Etc.\n91060 - Plumbing Maintenance And Repair (Includes Pressure Tapping Services, Pipe Freezes, Toilets, Etc.)\n91468 - Plumbing",
+        "License Requirements": "",
+        "Department": "Purchasing Services Unit #820",
+        "Address": "5750 Almaden Expressway\nSan Jose, California\n95118",
+        "County": "Santa Clara",
+        "Bid Valid": "",
+        "Liquidated Damages": "",
+        "Estimated Bid Value": "",
+        "Start/Delivery Date": "",
+        "Project Duration": ""
+      },
+      "Pre-Bid Meeting Information RSVP": {
+        "Pre-Bid Meeting": "Yes - Mandatory",
+        "Pre-Bid Meeting Date": "12/01/2025 1:00 PM (PST)",
+        "Pre-Bid Meeting Location": "See Section 2.2 for location details for the MANDATORY job walk."
+      },
+      "Online Q&A": {
+        "Online Q&A": "Yes",
+        "Q&A Deadline": "12/04/2025 2:00 PM (PST)"
+      },
+      "Contact Information": {
+        "Contact Info": "Zachary DeVine 408-630-2495\nzdevine@valleywater.org",
+        "Bids to": "",
+        "Owner's Agent": ""
+      },
+      "Description": {
+        "Scope of Services": "Valley Water seeks General B contractors for the successful completion of the Water Quality Lab Counters project. The project replaces existing laminate laboratory countertops and sinks with new laboratory-grade epoxy resin work surfaces while preserving the base cabinetry. The contractor shall field-verify dimensions, prepare shop drawings for approval, and fabricate all epoxy components to the approved sizes, thicknesses, edges, cutouts, and openings. Provide all anchorage, fasteners, sealants, and penetrations necessary to achieve a watertight and chemically resistant installation compatible with laboratory use. Perform selective demolition with protection of adjacent casework and equipment, implement dust control, and maintain daily housekeeping so laboratory operations continue safely. Reconnection of water and waste services is an additive alternate to be performed by properly licensed plumbing personnel, with all joints sealed and leak-tested before turnover. Coordinate sequencing with Facilities and Laboratory staff, schedule any temporary service interruptions, and restore the space to full service at the end of each work shift. Deliverables include field measurements, submittals, product data and warranties, and closeout documentation with as-built dimensions and maintenance recommendations.",
+        "Other Details": "",
+        "Notes": "",
+        "Special Notices": "All questions and/or requests for clarification concerning this solicitation must be submitted through the Q&A feature on this portal before the date and time stated on the bid information and/or the Q&A tab.\nThe undersigned understands and agrees to be bound to the proposed Scope of Services and Cost Proposal for 180 days from the date of proposal submittal.\nProposers may not communicate with Valley Water Board Members, staff, or consultants who currently provide services for Valley Water. All inquiries regarding this upcoming solicitation should be directed to person named in the Contact Information section.\nAll bidders must complete and submit a verified electronic Bidder’s Bond (e-Bond) through either Surety2000 at http://www.surety2000.com or Tinubu at https://www.tinubu.com/ebonding in PlanetBids before the latest date/time for submitting Bid Proposals. Upload the e-Bond (in PDF), with the Bond Verification Number written on it, in the required attachment field called “Bid Bond\". Please refer to ITB Section 1.10. for more detailed instructions.",
+        "Local Programs & Policies": ""
+      }
+    },
+    "Prospective Bidders": [
+      {
+        "Vendor": [
+          "ACCO Engineered Systems, Inc.",
+          "888 East Walnut Street",
+          "Pasadena, California 91101",
+          "Contact: Cindi Adler",
+          "Phone: 818-244-6571",
+          "pb@accoes.com"
+        ],
+        "Type": "CADIR",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no"
+      },
+      {
+        "Vendor": [
+          "Allied Solutions",
+          "300 Veterans Way",
+          "Carmel, Indiana 46032",
+          "Contact: Jason Collier",
+          "Phone: 877-328-4432",
+          "contracts@alliedsolutionenterprise.com"
+        ],
+        "Type": "",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no"
+      },
+      {
+        "Vendor": [
+          "Builders Exchange of Santa Clara",
+          "400 Reed Street",
+          "Santa Clara, California 95050",
+          "Contact: Kanani Fonseca",
+          "Phone: 408-727-4000",
+          "kf@bxscco.com"
+        ],
+        "Type": "Local",
+        "Status": "Non-Bidder, receive communications",
+        "Pre-Bid Meeting Attendee": "no"
+      },
+      {
+        "Vendor": [
+          "DH and Company",
+          "118 South King Street",
+          "Carlsbad, New Mexico 88220",
+          "Contact: Dara Harsh",
+          "Phone: 448-447-2348",
+          "Daraharsh@gmail.com"
+        ],
+        "Type": "",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no"
+      },
+      {
+        "Vendor": [
+          "MFS Construction",
+          "234 E Gish Road, Suite 100",
+          "San Jose, California 95112",
+          "Contact: Darius Boodoosingh",
+          "Phone: 408-352-5386",
+          "estimating@mfsbuilds.com"
+        ],
+        "Type": "DGS, MBE, CADIR, Local",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no"
+      },
+      {
+        "Vendor": [
+          "One Day Installation and Repairs Inc",
+          "482 Reynolds Circle",
+          "San Jose, California 95112",
+          "Contact: Gabriel Valencia",
+          "Phone: 408-687-1432",
+          "onedayir@yahoo.com"
+        ],
+        "Type": "MBE, DGS, CADIR, Local",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no"
+      },
+      {
+        "Vendor": [
+          "Stephen Ciari Plumbing and Heating, Inc.",
+          "1054 Elm St",
+          "San Jose, California 95126",
+          "Contact: Marc Walleen",
+          "Phone: 408-930-6470",
+          "marc@ciariplumbing.com"
+        ],
+        "Type": "Local",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no"
+      },
+      {
+        "Vendor": [
+          "The San Francisco Builders Exchange",
+          "850 S Van Ness Ave",
+          "San Francisco, California 94110",
+          "Contact: Deanna Johnson",
+          "Phone: 415-282-8220",
+          "Fax: 415-821-0363",
+          "djohnsonsf@sbcglobal.net"
+        ],
+        "Type": "",
+        "Status": "Non-Bidder, receive communications",
+        "Pre-Bid Meeting Attendee": "no"
+      }
+    ],
+    "Bid Title": "WATER QUALITY LABORATORY COUNTER TOPS AND SINK REPLACEMENT"
+  },
+  {
+    "Bid Information": {
+      "Bid Detail": {
+        "Project Title": "HIGH SPEED ROLL-UP DOOR REPLACEMENT",
+        "Invitation #": "VW0647",
+        "Bid Posting Date": "11/10/2025 9:30 AM (PST)",
+        "Project Stage": "Bidding",
+        "Bid Due Date": "12/15/2025 2:00 PM (PST)",
+        "Response Format": "Electronic",
+        "Project Type": "Bid",
+        "Response Types": "Line Items\nRequired Submittal Checklist (required)\nBid Form (required)\nBid Questionnaire (required)\nList of Subcontractors (required)\nReferences (required)\nDisqualification Questionnaire (required)\nConflict of Interest Disclosure Document (required)\nNon-Collusion Declaration (required)\nSmall Business Outreach Program Affidavit (required)\nLocal Business Enterprise Consideration (required)\nW-9 Certification (required)\nContractor Safety Qualification Packet (required)",
+        "Type of Award": "Lump Sum",
+        "Categories": "90900 - Building Construction Services, New (Incl. Maintenance And Repair Services)\n91014 - Door Installation, Maintenance, And Repair (Metal)\n91055 - Overhead Door Installation, Maintenance, And Repair",
+        "License Requirements": "",
+        "Department": "Purchasing Services Unit #820",
+        "Address": "5750 Almaden Expressway\nSan Jose, California\n95118",
+        "County": "Santa Clara",
+        "Bid Valid": "",
+        "Liquidated Damages": "",
+        "Estimated Bid Value": "",
+        "Start/Delivery Date": "",
+        "Project Duration": ""
+      },
+      "Pre-Bid Meeting Information RSVP": {
+        "Pre-Bid Meeting": "Yes - Mandatory",
+        "Pre-Bid Meeting Date": "12/01/2025 10:00 AM (PST)",
+        "Pre-Bid Meeting Location": "See Section 2.2 for location details for the MANDATORY job walk."
+      },
+      "Online Q&A": {
+        "Online Q&A": "Yes",
+        "Q&A Deadline": "12/04/2025 2:00 PM (PST)"
+      },
+      "Contact Information": {
+        "Contact Info": "Zachary DeVine 408-630-2495\nzdevine@valleywater.org",
+        "Bids to": "",
+        "Owner's Agent": ""
+      },
+      "Description": {
+        "Scope of Services": "Valley Water seeks a qualified contractor to remove existing gates and furnish and install new high-speed roll-up doors at two Main Campus sites, Winfield Warehouse and the Crest Building in San Jose. At Winfield, the work includes demolishing two swing gates and installing a new door for an opening about 20 by 16 feet with a minimum opening speed of 60 inches per second, a multi-layer ultraviolet-protected reinforced steel slat curtain, new steel framing, a direct drive motor rated 1 to 2 horsepower, and a NEMA 4X control panel with interior push-button controls and no exterior access, with LiftMaster or equal acceptable. Valley Water will provide 460 volt three phase power within three feet of the control box, and the contractor will make all electrical connections to the control panel, floor loop, and photoelectric safety sensors. At the Crest Building, the work includes removing one existing roll-up gate and installing a new door for an opening about 20 by 7 feet with a minimum opening speed of 45 inches per second, a direct drive motor, NEMA 4X controls, an interior push-button station, and exterior integration by dry contact to an existing card reader.",
+        "Other Details": "",
+        "Notes": "",
+        "Special Notices": "All questions and/or requests for clarification concerning this solicitation must be submitted through the Q&A feature on this portal before the date and time stated on the bid information and/or the Q&A tab.\nThe undersigned understands and agrees to be bound to the proposed Scope of Services and Cost Proposal for 180 days from the date of proposal submittal.\nProposers may not communicate with Valley Water Board Members, staff, or consultants who currently provide services for Valley Water. All inquiries regarding this upcoming solicitation should be directed to person named in the Contact Information section.\nAll bidders must complete and submit a verified electronic Bidder’s Bond (e-Bond) through either Surety2000 at http://www.surety2000.com or Tinubu at https://www.tinubu.com/ebonding in PlanetBids before the latest date/time for submitting Bid Proposals. Upload the e-Bond (in PDF), with the Bond Verification Number written on it, in the required attachment field called “Bid Bond\". Please refer to ITB Section 1.10. for more detailed instructions.",
+        "Local Programs & Policies": ""
+      }
+    },
+    "Prospective Bidders": [
+      {
+        "Vendor": [
+          "BEET INC",
+          "614 E Ovington St., Lancaster",
+          "Lancaster, California 93535",
+          "Contact: Rafael Sosa",
+          "Phone: 661-210-3998",
+          "bidding@beetcorp.com"
+        ],
+        "Type": "WBE",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no"
+      },
+      {
+        "Vendor": [
+          "Builders Exchange of Santa Clara",
+          "400 Reed Street",
+          "Santa Clara, California 95050",
+          "Contact: Kanani Fonseca",
+          "Phone: 408-727-4000",
+          "kf@bxscco.com"
+        ],
+        "Type": "Local",
+        "Status": "Non-Bidder, receive communications",
+        "Pre-Bid Meeting Attendee": "no"
+      },
+      {
+        "Vendor": [
+          "CMIP LLC",
+          "190 Sierra Ct, Ste B113",
+          "Palmdale, California 93550",
+          "Contact: Valentine Dos Santos",
+          "Phone: 661-221-9502",
+          "rafael@cmip.llc"
+        ],
+        "Type": "DGS, CADIR",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no"
+      },
+      {
+        "Vendor": [
+          "Construction Bid Source LLC",
+          "416 Cottonwood Lane",
+          "Holly Springs, North Carolina 27540",
+          "Contact: Pearl Regis",
+          "Phone: 888-786-9450",
+          "Fax: 209-772-3573",
+          "pearl@constructionbidsource.com"
+        ],
+        "Type": "",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no"
+      },
+      {
+        "Vendor": [
+          "D. W. Nicholson Corporation",
+          "24747 Clawiter Road",
+          "Hayward, California 94545",
+          "Contact: Phil Kenaga",
+          "Phone: 510-723-0773",
+          "Fax: 510-783-5736",
+          "pkenaga@dwnicholson.com"
+        ],
+        "Type": "",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no"
+      },
+      {
+        "Vendor": [
+          "DH and Company",
+          "118 South King Street",
+          "Carlsbad, New Mexico 88220",
+          "Contact: Dara Harsh",
+          "Phone: 448-447-2348",
+          "Daraharsh@gmail.com"
+        ],
+        "Type": "",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no"
+      },
+      {
+        "Vendor": [
+          "ITECH SOLUTION",
+          "po box 270040",
+          "san jose, California 95127",
+          "Contact: miguel plascencia",
+          "Phone: 408-832-8150",
+          "miguel@i-techsolution.com"
+        ],
+        "Type": "Local",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no"
+      },
+      {
+        "Vendor": [
+          "Rusty Bucket Construction",
+          "614 E Ovington St. Lancaster",
+          "St. Lancaster, California 93535",
+          "Contact: Neymar Delgado",
+          "Phone: 661-221-5046",
+          "bidding@rusty-b.com"
+        ],
+        "Type": "",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no"
+      },
+      {
+        "Vendor": [
+          "Sloan Security Group",
+          "6828 W. Melrose St.",
+          "Boise, Idaho 83709",
+          "Contact: Jeff Starck",
+          "Phone: 206-561-5728",
+          "jeff.starck@sloansg.com"
+        ],
+        "Type": "",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no"
+      },
+      {
+        "Vendor": [
+          "South Coast Industrial Door",
+          "1275 Graphite Drive",
+          "Corona, California 92881",
+          "Contact: Jacquelyn",
+          "Phone: 951-551-9330",
+          "jacquelyn@southcoastdoor.com"
+        ],
+        "Type": "DGS, CADIR",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no"
+      },
+      {
+        "Vendor": [
+          "The San Francisco Builders Exchange",
+          "850 S Van Ness Ave",
+          "San Francisco, California 94110",
+          "Contact: Deanna Johnson",
+          "Phone: 415-282-8220",
+          "Fax: 415-821-0363",
+          "djohnsonsf@sbcglobal.net"
+        ],
+        "Type": "",
+        "Status": "Non-Bidder, receive communications",
+        "Pre-Bid Meeting Attendee": "no"
+      }
+    ],
+    "Bid Title": "HIGH SPEED ROLL-UP DOOR REPLACEMENT"
+  },
+  {
+    "Bid Information": {
+      "Bid Detail": {
+        "Project Title": "C0714 - Almaden Valley Pipeline Replacement Project - Phase 1",
+        "Invitation #": "VW0600",
+        "Bid Posting Date": "10/31/2025 11:38 AM (PST)",
+        "Project Stage": "Bidding",
+        "Bid Due Date": "12/17/2025 2:00 PM (PST)",
+        "Response Format": "Electronic",
+        "Project Type": "Bid",
+        "Response Types": "Line Items\nSubcontractor\nBid Bond\nBid Form 3 Non-Collusion Affidavit (required)\nBid Form 4 SBE Outreach Program (required)\nBid Form 6 Iran Contracting Act Bid Certification (required)\nBid Form 7 Bidder's General Information (required)\nBid Form 8 CARB Bidder Certification (required)\nBid Form 10 Escrow Bid Documents\nBid Form 11 Project Labor Agreement Acknowledgement (required)\nBid Form 12 Russia Sanction Compliance Bid Certification (required)",
+        "Type of Award": "Lump Sum",
+        "Categories": "28700 - Electronic Equipment, Components, Parts, And Accessories\n63000 - Paint, Protective Coatings, Varnish, Wallpaper, And Related Products\n80100 - Signs, Sign Materials, Sign Making Equipment, And Related Supplies\n89500 - Welding Equipment And Supplies\n90779 - Surveying Services (Not Aerial)\n91027 - Garbage/Trash Removal, Disposal And/Or Treatment\n91056 - Panel Wall Systems Installation, Maintenance, And Repair\n91063 - Public Utilities: Water, Sewer And Gas Maintenance And Repair\n91071 - Shoring And Reinforcement Services\n91076 - Welding Maintenance And Repair Services (Incl. Brazing, Casting, And Soldering)\n91200 - Construction Services, General (Incl. Maintenance And Repair Services)\n91240 - Demolition Services, Construction services\n91300 - Construction Services, Heavy (Incl. Maintenance And Repair Services)\n91396 - Paving/Resurfacing, Street (Major And Residential)\n91430 - Concrete\n91438 - Electrical\n91479 - Structural And Reinforcement Steel\n91485 - Welding\n91831 - Construction Consulting\n92500 - Engineering Services, Professional\n95826 - Construction Management Services\n95876 - Pipeline Management Services\n96185 - Utility Services, Electric, Gas, Water\n96218 - Cable Construction, Installation And Maintenance (Fiber Optic, Communication, Computer, Etc.)\n96286 - Transportation Of Goods And Other Freight Services\n96289 - Vehicle Transporting Services\n96800 - Public Works And Related Services\n96888 - Tree And Shrub Removal Services\n98888 - Tree Trimming And Pruning Services\n91219 - Construction, Clearing or grubbing services\n91340 - Construction, Pipelines\n96712 - Aggregate Material\n91355 - Construction, Utility/Underground Projects\n92517 - Civil Engineering\n95877 - Project Management Services\n92588 - Structural Engineering\n92521 - Corrosion Control; Cathodic Protection; Electrolysis/Engineering\n92533 - Engineer Services, Professional\n92551 - Hazardous Waste Engineering Services (Incl. Remedial Investigations and Feasibility Studies for Waste Sites)\n92570 - Municipal Engineering\n92586 - Surveyor Services, Land\n92615 - Air Quality Monitoring Services\n92662 - Noise Testing Services\n67071 - Valves, Butterfly, All Kinds",
+        "License Requirements": "Class A",
+        "Restriction": "Downloads and eBidding",
+        "Restricted To": "Must be in one of the following groups:\nVW0600 Almaden Valley Pipeline Replacement Phase 1",
+        "Department": "Construction Contracts & Support #335",
+        "Address": "5750 Almaden Expressway\nSan Jose, California\n95118",
+        "County": "Santa Clara",
+        "Bid Valid": "Please refer to the Instructions to Bidders, Section 21. AWARD OF CONTRACT.",
+        "Liquidated Damages": "Please see the Special Provisions of the Project Specifications.",
+        "Estimated Bid Value": "$40M - $60",
+        "Start/Delivery Date": "",
+        "Project Duration": "1157 days"
+      },
+      "Bid Bond": {
+        "Bid Bond": "10.00%",
+        "Payment Bond": "100.00%",
+        "Performance Bond": "100.00%"
+      },
+      "Pre-Bid Meeting Information": {
+        "Pre-Bid Meeting": "Yes - Mandatory",
+        "Pre-Bid Meeting Date": "11/13/2025 10:00 AM (PST)",
+        "Pre-Bid Meeting Location": "See the \"Notes\" section below for registration information for the Mandatory, Virtual Pre-Bid Meeting. After registering, you will receive a confirmation email containing information about joining the meeting. An executed Non-Disclosure Agreement must be received and processed before attendance at the Mandatory PreBid meeting is allowed."
+      },
+      "Online Q&A": {
+        "Online Q&A": "Yes",
+        "Q&A Deadline": "12/08/2025 5:00 PM (PST)"
+      },
+      "Contact Information": {
+        "Contact Info": "Lori Gregory 408-265-2600\nlgregory@valleywater.org",
+        "Bids to": "",
+        "Owner's Agent": ""
+      },
+      "Description": {
+        "Scope of Services": "Please refer to the Notice to Bidders for the full Summary of Work for this Project.",
+        "Other Details": "All bidders must complete and submit a verified electronic Bidder’s Bond (e-Bond) through either Surety2000 at https://www.surety2000.com or Tinubu at https://www.tinubu.com/ebonding in PlanetBids before the latest date/time for submitting Bid Proposals. The Contract ID for this project is VW0600.\n\nUpload the e-Bond (in PDF), with the Bond Verification Number written on it, in the required attachment field called “Bid Bond\". See Section 17. Bidder’s Security, of the Notice to Bidders for the electronic Bidder's Bond submittal procedure.\n\nPlease note that your bonding agent must be registered with Surety2000 or Tinubu to create a valid e-Bond. Bidders that are new to Surety2000 or Tinubu are strongly encouraged to register and acquire their e-Bond at least two (2) days prior to the Bid Opening\n\nFor registration to Surety2000, please go to https://dashboard.surety2000.com/#/register. If you have any questions or concerns about your e-Bond thru Surety2000, please contact their customer support team at 1-800-660-3263 or email help@surety2000.com.\n\nFor registration to Tinubu, please go to https://www.tinubu.com/ebonding. If you have any questions or concerns about your e-Bond thru Tinubu, please contact their customer support team at supportba@tinubu.com.\n\nThe Bids will be made available to the public to view in PlanetBids on the date stated in the Notice to Bidders, Section 1. NOTICE.",
+        "Notes": "To join the Mandatory Pre-Bid Meeting via ZOOM:\n\nWhen: November 13, 2025, at 10:00 AM Pacific Time (US and Canada)\n\nRegister in advance for this meeting:\n\nTo attend click HERE\n\nAfter registering, you will receive a confirmation email containing information about joining the meeting.\n\nAn executed Non-Disclosure Agreement must be received and processed by Valley Water before entry to the Pre-Bid Meeting is allowed. Please ensure the timely submission of the NDA to avoid missing the Mandatory Pre-Bid.",
+        "Special Notices": "All questions and/or requests for clarification concerning this solicitation must be submitted through the Q&A feature on this portal before the date and time stated on the bid information and/or the Q&A tab.\nNon-Disclosure Agreement (NDA) - Vendor must register at the Valley Water Vendor Portal and complete the NDA (Available at the Documents tab) prior to downloading the Contract Documents. NDA must be signed, and the executed NDA sent to the scvwdplanroom@valleywater.org.",
+        "Local Programs & Policies": ""
+      }
+    },
+    "Prospective Bidders": [
+      {
+        "Vendor": [
+          "A & B Construction",
+          "66 Franklin Street",
+          "Oakland, California 94607",
+          "Contact: Rayme Ratliff",
+          "Phone: 510-999-6000",
+          "rratliff@a-bconstruction.net"
+        ],
+        "Type": "",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Prime"
+      },
+      {
+        "Vendor": [
+          "All West Equipment",
+          "286 Rickenbacker Circle",
+          "Livermore, California 94551",
+          "Contact: Ashley Phillips",
+          "Phone: 925-961-8888",
+          "ashley.phillips@frankaolsen.com"
+        ],
+        "Type": "",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Supplier"
+      },
+      {
+        "Vendor": [
+          "Anvil Builders Inc.",
+          "1550 Park Ave",
+          "Emeryville, California 94608",
+          "Contact: Alan Guy",
+          "Phone: 415-285-5000",
+          "Fax: 415-285-5005",
+          "estimating@anvilbuilders.com"
+        ],
+        "Type": "CADIR",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Prime"
+      },
+      {
+        "Vendor": [
+          "Blocka Construction, Inc.",
+          "445 Boulder Court",
+          "Pleasanton, California 94566",
+          "Contact: Lori Magruder",
+          "Phone: 510-657-3686 ext. 42",
+          "bids@blockainc.com"
+        ],
+        "Type": "",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Other"
+      },
+      {
+        "Vendor": [
+          "Blue Arc Electric Inc.",
+          "2130 Trade Zone Blvd., Suite 20",
+          "San Jose, California 95131",
+          "Contact: Jared Kroner",
+          "Phone: 408-209-5256",
+          "jkroner@bluearcelectric.com"
+        ],
+        "Type": "DGS, Local",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "yes",
+        "Classifications": "Subcontractor"
+      },
+      {
+        "Vendor": [
+          "Bray Process Control West Coast",
+          "1181 Quarry Lane",
+          "Suite 150",
+          "Pleasanton, California 94566",
+          "Contact: Todd Wolfe",
+          "Phone: 925-484-4898",
+          "todd.wolfe@bray.com"
+        ],
+        "Type": "",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Supplier"
+      },
+      {
+        "Vendor": [
+          "Brierley Associates Corporation",
+          "920 Country Club Drive",
+          "Suite 2A",
+          "Moraga, California 94556",
+          "Contact: Desi Dikova",
+          "Phone: 925-247-9000 ext. 122",
+          "Fax: 315-434-8896",
+          "marketing@brierleyassociates.com"
+        ],
+        "Type": "",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Subcontractor"
+      },
+      {
+        "Vendor": [
+          "BT Trucking Inc",
+          "2020 17th St Suite 2016",
+          "Bakersfield, California 93301",
+          "Contact: Joyce Buchan",
+          "Phone: 661-460-8328",
+          "joyceb@bttruckinginc.com"
+        ],
+        "Type": "",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Subcontractor"
+      },
+      {
+        "Vendor": [
+          "Builders Exchange of Santa Clara",
+          "400 Reed Street",
+          "Santa Clara, California 95050",
+          "Contact: Kanani Fonseca",
+          "Phone: 408-727-4000",
+          "kf@bxscco.com"
+        ],
+        "Type": "Local",
+        "Status": "Non-Bidder, receive communications",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Other"
+      },
+      {
+        "Vendor": [
+          "California Land Surveying",
+          "PO Box 1175",
+          "Three Rivers, California 93271",
+          "Contact: Charles Gilbert",
+          "Phone: 559-740-6009",
+          "californialandsurveying@gmail.com"
+        ],
+        "Type": "DGS, MICRO",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Subcontractor"
+      },
+      {
+        "Vendor": [
+          "Carboline Global Inc",
+          "1890 Broadway St. #102",
+          "San Francisco, California 94109",
+          "Contact: Patrick Byrne",
+          "Phone: 415-660-6070",
+          "Fax: 415-563-8538",
+          "pbyrne@carboline.com"
+        ],
+        "Type": "",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Supplier"
+      },
+      {
+        "Vendor": [
+          "Certified Coatings Company",
+          "2320 Cordelia Road",
+          "Fairfield, California 94534",
+          "Contact: Ashley Toms",
+          "Phone: 707-639-4427",
+          "Fax: 707-432-0574",
+          "toms@muehlhan.com"
+        ],
+        "Type": "CADIR",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Subcontractor"
+      },
+      {
+        "Vendor": [
+          "CKC Automation",
+          "4705 Industrial Way",
+          "Benicia, California 94510",
+          "Contact: Dan Kent",
+          "Phone: 4582469199",
+          "dan.kent@ckcautomation.com"
+        ],
+        "Type": "",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Subcontractor"
+      },
+      {
+        "Vendor": [
+          "Con-Quest Contractors, Inc.",
+          "880 Mitten Raod",
+          "Suite 105",
+          "Burlingame, California 94010",
+          "Contact: Paul Loukianoff",
+          "Phone: 415-206-0524",
+          "bidday@cqcontractors.com"
+        ],
+        "Type": "DGS",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Prime"
+      },
+      {
+        "Vendor": [
+          "ConstructConnect",
+          "3825 Edwards Rd.",
+          "Ste. 800",
+          "Cincinnati, Ohio 45209",
+          "Contact: Michael Stubbs",
+          "Phone: 513-458-5981",
+          "Fax: 866-570-8187",
+          "content@constructconnect.com"
+        ],
+        "Type": "DGS",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Other"
+      },
+      {
+        "Vendor": [
+          "Construction Testing Services",
+          "2118 Rheem Drive",
+          "Pleasanton, California 94588",
+          "Contact: Yasmin Monterroso",
+          "Phone: 925-462-5151",
+          "ymonterroso@cts-1.com"
+        ],
+        "Type": "CADIR",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Other"
+      },
+      {
+        "Vendor": [
+          "Corrpro Companies Inc.",
+          "2625C Barrington Ct",
+          "Hayward, California 94545",
+          "Contact: Wes McKinney",
+          "Phone: 562-547-1098",
+          "wmckinney@aegion.com"
+        ],
+        "Type": "",
+        "Status": "Non-Bidder, receive communications",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Other"
+      },
+      {
+        "Vendor": [
+          "Cratus, Inc",
+          "945 Taraval Street, #302",
+          "San Francisco, California 94116",
+          "Contact: Michael",
+          "Phone: 415-939-2840",
+          "estimating@cratusinc.com"
+        ],
+        "Type": "CADIR",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "yes",
+        "Classifications": "Prime"
+      },
+      {
+        "Vendor": [
+          "Dabri, Inc.",
+          "1900 Camden Ave.",
+          "San Jose, California 95124",
+          "Contact: Domonique Kaur",
+          "Phone: 415-839-8142",
+          "dkaur@dabri.com"
+        ],
+        "Type": "DGS, DBE, MBE, WBE, VSBE, Local",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Subcontractor"
+      },
+      {
+        "Vendor": [
+          "Dean's Certified Welding, Inc.",
+          "27645 Commerce Center Dr",
+          "Temecula, California 92590",
+          "Contact: Bill Naddi",
+          "Phone: 951-704-8198",
+          "bill@deanswelding.com"
+        ],
+        "Type": "DGS",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "yes",
+        "Classifications": "Subcontractor"
+      },
+      {
+        "Vendor": [
+          "DelVal Flow Controls USA, LLC",
+          "6535 Industrial Dr",
+          "Ste 103",
+          "Geismar, Louisiana 70734",
+          "Contact: Rajib Raychaudhury",
+          "Phone: 346-901-1386",
+          "rajib@delvalflow.com"
+        ],
+        "Type": "",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "yes",
+        "Classifications": "Supplier"
+      },
+      {
+        "Vendor": [
+          "Drill Tech Drilling & Shoring, Inc.",
+          "2200 Wymore Way",
+          "Antioch, California 94509",
+          "Contact: Paul Vadnais",
+          "Phone: 925-978-2060",
+          "Fax: 925-978-2063",
+          "paul.vadnais@drilltechdrilling.com"
+        ],
+        "Type": "",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "yes",
+        "Classifications": "Prime"
+      },
+      {
+        "Vendor": [
+          "Farwest Corrosion Control Company",
+          "12029 Regentview Ave",
+          "Downey, California 90241",
+          "Contact: Estimating",
+          "Phone: 310-532-9524",
+          "Fax: 310-532-3934",
+          "estimating@farwestcorrosion.com"
+        ],
+        "Type": "MBE",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Subcontractor"
+      },
+      {
+        "Vendor": [
+          "FM General Engineering",
+          "24426 Saint Thomas Ave",
+          "Moreno Valley, California 92551",
+          "Contact: Javier Magana",
+          "Phone: 951-616-7989",
+          "javier.magana@FMGeneralEngineering.com"
+        ],
+        "Type": "CADIR, MBE",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Subcontractor"
+      },
+      {
+        "Vendor": [
+          "G3 Quality, Inc.",
+          "13850 Cerritos Corporate Drive, Suite E",
+          "Cerritos, California 90703",
+          "Contact: Jessica Corson",
+          "Phone: 562-321-9840",
+          "bd@g3quality.com"
+        ],
+        "Type": "DGS",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Subcontractor"
+      },
+      {
+        "Vendor": [
+          "Garney Pacific, Inc.",
+          "17510 Bethany Rd",
+          "Tracy, California 95391",
+          "Contact: Bill E Williams",
+          "Phone: 925-800-1848",
+          "gpiestimating@garney.com"
+        ],
+        "Type": "CADIR",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "yes",
+        "Classifications": "Prime"
+      },
+      {
+        "Vendor": [
+          "GovGuide",
+          "1916 N Dinwiddie St.",
+          "Arlington, Virginia 22207",
+          "Contact: Connor Fusselman",
+          "Phone: 407-619-6738",
+          "rfp@yourgovguide.com"
+        ],
+        "Type": "",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Other"
+      },
+      {
+        "Vendor": [
+          "Granite Construction Company",
+          "715 Comstock Street",
+          "Santa Clara, California 95054",
+          "Contact: John G Boies",
+          "Phone: 408-327-7000",
+          "Fax: 408-327-7090",
+          "patricia.arnett@gcinc.com"
+        ],
+        "Type": "CADIR, Local",
+        "Status": "Non-Bidder, receive communications",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Prime"
+      },
+      {
+        "Vendor": [
+          "HELIX Environmental Planning",
+          "7578 El Cajon Boulevard",
+          "La Mesa, California 91942",
+          "Contact: Tiffany",
+          "Phone: 619-462-1515",
+          "tiffanyt@helixepi.com"
+        ],
+        "Type": "",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Subcontractor"
+      },
+      {
+        "Vendor": [
+          "Henkel",
+          "One Henkel Way",
+          "Rocky Hill, Connecticut 06067",
+          "Contact: Joel Ogle",
+          "Phone: 928-273-0296",
+          "joel.ogle@henkel.com"
+        ],
+        "Type": "",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Supplier"
+      },
+      {
+        "Vendor": [
+          "Infrastructure Quality Consulting",
+          "1240 N Simon Cir.",
+          "Anaheim, California 92806",
+          "Contact: Jonah Dominek",
+          "Phone: 858-692-8771",
+          "jonah@infrastructureqc.com"
+        ],
+        "Type": "DGS",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Subcontractor"
+      },
+      {
+        "Vendor": [
+          "J.F. Shea Construction, Inc.",
+          "667 Brea Canyon Road",
+          "Suite 30",
+          "Walnut, California 91789",
+          "Contact: Lori Olivas",
+          "Phone: 909-595-4397",
+          "Fax: 909-444-4268",
+          "estimating-water@jfshea.com"
+        ],
+        "Type": "CADIR",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "yes",
+        "Classifications": "Prime"
+      },
+      {
+        "Vendor": [
+          "JMB Construction, Inc",
+          "132 South Maple Ave",
+          "South San Francisco, California 94080",
+          "Contact: Colin Larkin",
+          "Phone: 650-267-5292",
+          "clarkin@jmbconstruction.com"
+        ],
+        "Type": "CADIR",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Prime"
+      },
+      {
+        "Vendor": [
+          "Joe Hill Consulting Engineers",
+          "693 Polk Street, Suite 208",
+          "San Francisco, California 94109",
+          "Contact: Rolando Bueno",
+          "Phone: 415-335-7168",
+          "rbueno@joehillce.com"
+        ],
+        "Type": "",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Other"
+      },
+      {
+        "Vendor": [
+          "Joseph J. Albanese, Inc.",
+          "2450 Walsh Ave",
+          "Santa Clara, California 95050",
+          "Contact: Angelina Castillo",
+          "Phone: 408-727-5700",
+          "estimating@jjalbanese.com"
+        ],
+        "Type": "CADIR, Local",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Prime"
+      },
+      {
+        "Vendor": [
+          "Kartar Truck Lines Inc",
+          "P O Box 23481",
+          "san jose, California 95153",
+          "Contact: KULVIR BANSEL",
+          "Phone: 408-568-2159",
+          "kulvir@kartartrucklines.com"
+        ],
+        "Type": "Local",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Subcontractor"
+      },
+      {
+        "Vendor": [
+          "KPR Consulting, Inc.",
+          "9891 Irvine Center dr.",
+          "suite 200",
+          "Irvine, California 92618",
+          "Contact: Kamron Roshann",
+          "Phone: 949-679-3030 ext. 101",
+          "kroshan@kprconsultinginc.com"
+        ],
+        "Type": "MBE, WBE, DGS, MICRO",
+        "Status": "Non-Bidder, receive communications",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Supplier"
+      },
+      {
+        "Vendor": [
+          "Magellan Construction Inc.",
+          "1650 Zanker Rd Suite 130",
+          "San Jose, California 95112",
+          "Contact: Sal Duran",
+          "Phone: 510-789-8807",
+          "sduran@magellancoinc.com"
+        ],
+        "Type": "DGS, CADIR, W-9, DBE, Local",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Subcontractor"
+      },
+      {
+        "Vendor": [
+          "Malcolm Drilling Company, Inc.",
+          "3503 Breakwater Court",
+          "Hayward, California 94545",
+          "Contact: Alexandra Hernandez",
+          "Phone: 510-780-9181",
+          "Fax: 510-780-9177",
+          "ahernandez@malcolmdrilling.com"
+        ],
+        "Type": "CADIR",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Subcontractor"
+      },
+      {
+        "Vendor": [
+          "McGuire and Hester",
+          "2810 Harbor Bay Parkway",
+          "Alameda, California 94502",
+          "Contact: Mabel Cater",
+          "Phone: 510-632-7676",
+          "Fax: 510-562-5209",
+          "estimating@mcguireandhester.com"
+        ],
+        "Type": "CADIR",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Other"
+      },
+      {
+        "Vendor": [
+          "Mladen Buntich Construction",
+          "1500 West 9th Street",
+          "Upland, California 91786",
+          "Contact: Chris Whitehead",
+          "Phone: 909-920-9977",
+          "estimating@buntich.com"
+        ],
+        "Type": "CADIR",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "yes",
+        "Classifications": "Prime"
+      },
+      {
+        "Vendor": [
+          "Morgner Construction Management",
+          "1880 Century Park East, Suite 1402",
+          "Los Angeles, California 90067",
+          "Contact: Monique Morgner",
+          "Phone: 323-900-0030 ext. 0",
+          "Fax: 646-417-5517",
+          "estimating@morgnerco.com"
+        ],
+        "Type": "MBE, WBE, DBE, DGS, FSD, CADIR",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Subcontractor"
+      },
+      {
+        "Vendor": [
+          "Mountain Cascade, Inc.",
+          "555 Exchange Court",
+          "Livermore, California 94550",
+          "Contact: David Hicks",
+          "Phone: 925-373-8370",
+          "Fax: 925-373-0940",
+          "estimating@mountaincascade.com"
+        ],
+        "Type": "",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "yes",
+        "Classifications": "Prime"
+      },
+      {
+        "Vendor": [
+          "MZB Traffic Management Inc.",
+          "1192 Athlone Lane",
+          "Corona, California 92882",
+          "Contact: Humayun Aziz",
+          "Phone: 949-254-4792",
+          "info@mzbinc.com"
+        ],
+        "Type": "DBE",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Subcontractor"
+      },
+      {
+        "Vendor": [
+          "Northwest Pipe Company",
+          "12351 Rancho Road",
+          "Adelanto, California 92301",
+          "Contact: Michael LaBroad",
+          "Phone: 909-839-3978",
+          "mlabroad@nwpipe.com"
+        ],
+        "Type": "",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "yes",
+        "Classifications": "Supplier"
+      },
+      {
+        "Vendor": [
+          "Northwest Pipe Company",
+          "201 NE Park Plaza",
+          "Vancouver, Washington 98684",
+          "Contact: Michael DeMascio",
+          "Phone: 909-257-6553",
+          "mdemascio@nwpipe.com"
+        ],
+        "Type": "",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Supplier"
+      },
+      {
+        "Vendor": [
+          "NTK Construction, Inc.",
+          "501 Cesar Chavez, Suite 115",
+          "San Francisco, California 94124",
+          "Contact: Tin Tran",
+          "Phone: 415-643-1900",
+          "ttran@ntkconstruction.com"
+        ],
+        "Type": "",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Prime"
+      },
+      {
+        "Vendor": [
+          "Obayashi",
+          "950 Tower Lane",
+          "Foster City, California 94404",
+          "Contact: Obayashi Corporation",
+          "Phone: 650-952-4910",
+          "info@obayashi-usa.com"
+        ],
+        "Type": "",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "yes",
+        "Classifications": "Prime"
+      },
+      {
+        "Vendor": [
+          "Pace Supply Company (Stockton)",
+          "4727 FITE COURT",
+          "STOCKTON, California 95215",
+          "Contact: Julie Gomez",
+          "Phone: 209-337-7030",
+          "juliegomez@pacesupply.com"
+        ],
+        "Type": "",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Supplier"
+      },
+      {
+        "Vendor": [
+          "Pacific Boring",
+          "1985 W Mountain View Ave",
+          "Caruthers, California 93609",
+          "Contact: Ted Miller",
+          "Phone: 559-864-9444",
+          "ted@pacificboring.com"
+        ],
+        "Type": "",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Subcontractor"
+      },
+      {
+        "Vendor": [
+          "Piping and Corrosion Specialties, Inc",
+          "8371 Jumpers Hole Road",
+          "Millersville, Maryland 21108",
+          "Contact: Thomas E. Mehalick",
+          "Phone: 410-544-3232",
+          "Fax: 410-544-1600",
+          "tmehalick@pipingandcorrosion.com"
+        ],
+        "Type": "",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Subcontractor"
+      },
+      {
+        "Vendor": [
+          "Rain for Rent",
+          "5301 Live Oak Ave",
+          "Oakley, California 94561",
+          "Contact: Garrett Johnson",
+          "Phone: 925-250-5647",
+          "gjohnson@rainforrent.com"
+        ],
+        "Type": "CADIR",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "yes",
+        "Classifications": "Subcontractor"
+      },
+      {
+        "Vendor": [
+          "Ranger Pipelines Inc",
+          "1790 Yosemite Ave",
+          "San Francisco, California 94124",
+          "Contact: Thomas Grover",
+          "Phone: 415-822-3700",
+          "tomg@rangerpipelines.com"
+        ],
+        "Type": "",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Prime"
+      },
+      {
+        "Vendor": [
+          "Ranger Pipelines Incorporated",
+          "1790 Yosemite Ave.",
+          "P. O. Box 24109",
+          "San Francisco, California 94124",
+          "Contact: Thomas Grover",
+          "Phone: 415-822-3700",
+          "Fax: 415-822-3703",
+          "estimating@rangerpipelines.com"
+        ],
+        "Type": "CADIR",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "yes",
+        "Classifications": "Prime"
+      },
+      {
+        "Vendor": [
+          "REDWOOD PAINTING CO INC.",
+          "PO BOX 1269",
+          "PITTSBURG, California 94565",
+          "Contact: Robert Grangnelli",
+          "Phone: 925-432-4500",
+          "rgrangnelli@redwoodptg.com"
+        ],
+        "Type": "",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Subcontractor"
+      },
+      {
+        "Vendor": [
+          "RMA Group",
+          "3150 Fitzgerald Road",
+          "Rancho Cordova, California 95742",
+          "Contact: Stefane",
+          "Phone: 909-989-1751",
+          "marketing@rmacompanies.com"
+        ],
+        "Type": "",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Subcontractor"
+      },
+      {
+        "Vendor": [
+          "S.D Electric Inc.",
+          "2145 ELKINS WAY",
+          "Suite E",
+          "Brentwood, CA., California 94513",
+          "Contact: Nancy Negron",
+          "Phone: 209-832-0870",
+          "nancy@sdelectricinc.com"
+        ],
+        "Type": "",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Subcontractor"
+      },
+      {
+        "Vendor": [
+          "Sam Hill & Sons, Inc.",
+          "PO Box 55670",
+          "Ventura, California 93005",
+          "Contact: Scott Anderson",
+          "Phone: 805-644-6278",
+          "estimating@samhillandsons.com"
+        ],
+        "Type": "CADIR",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Prime"
+      },
+      {
+        "Vendor": [
+          "SCB Consulting",
+          "132 Jeter Street",
+          "Redwood City, California 94062",
+          "Contact: Steve Benner",
+          "Phone: 209-819-9143",
+          "snbenner@gmail.com"
+        ],
+        "Type": "",
+        "Status": "Non-Bidder, receive communications",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Other"
+      },
+      {
+        "Vendor": [
+          "SEMA Construction, Inc.",
+          "42690 Rio Nedo Suite G",
+          "Temecula, California 92590",
+          "Contact: Caroline Del Mazzio",
+          "Phone: 951-292-4420",
+          "estimating.ca@semaconstruction.com"
+        ],
+        "Type": "CADIR",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Prime"
+      },
+      {
+        "Vendor": [
+          "Sequoia Ecological Consulting, Inc.",
+          "1342 Creekside Drive",
+          "Suite 310",
+          "Walnut Creek, California 94596",
+          "Contact: Melissa",
+          "Phone: 925-855-5500",
+          "bids@sequoiaeco.com"
+        ],
+        "Type": "WBE, DBE, DGS, MICRO",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Subcontractor"
+      },
+      {
+        "Vendor": [
+          "Sierra Mountain Construction, Inc.",
+          "19500 Nugget Boulevard",
+          "Sonora, California 95370",
+          "Contact: Estimating",
+          "Phone: 415-830-0169",
+          "estimating@sierramtn.net"
+        ],
+        "Type": "CADIR",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "yes",
+        "Classifications": "Prime"
+      },
+      {
+        "Vendor": [
+          "Spiniello Infrastructure West, Inc.",
+          "2650 Pomona Blvd.",
+          "Pomona, California 91768",
+          "Contact: Tony White",
+          "Phone: 909-629-9876",
+          "estimating@spiniellowest.com"
+        ],
+        "Type": "CADIR",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Subcontractor"
+      },
+      {
+        "Vendor": [
+          "Steve P. Rados, Inc.",
+          "2002 E. McFadden Ave., Ste 200",
+          "P.O. Box 15128",
+          "Santa Ana, California 92735-2186",
+          "Contact: Robert Wojcik",
+          "Phone: 916-475-1654",
+          "Fax: 916-475-1655",
+          "rwojcik@rados.com"
+        ],
+        "Type": "CADIR",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "yes",
+        "Classifications": "Prime"
+      },
+      {
+        "Vendor": [
+          "STEVE P. RADOS, INC.",
+          "2002 E. McFadden Ave., #200",
+          "Santa Ana, California 92705",
+          "Contact: Lucy Gonzalez",
+          "Phone: 714-835-4612",
+          "bid@rados.com"
+        ],
+        "Type": "",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "yes",
+        "Classifications": "Prime"
+      },
+      {
+        "Vendor": [
+          "Stevens Creek Quarry Inc.",
+          "21771 Stevens Creek Blvd",
+          "Ste 100",
+          "Cupertino, California 95014",
+          "Contact: Mark Mallin",
+          "Phone: 408-253-2512",
+          "mmallin@scqinc.com"
+        ],
+        "Type": "Local",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Supplier"
+      },
+      {
+        "Vendor": [
+          "Structural Technologies",
+          "10150 Old Columbia Road",
+          "Columbia, Maryland 21046",
+          "Contact: Ian McFatridge",
+          "Phone: 360-909-0705",
+          "imcfatridge@structuraltec.com"
+        ],
+        "Type": "",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Subcontractor"
+      },
+      {
+        "Vendor": [
+          "SWCA Environmental Consultants",
+          "60 Stone Pine Road",
+          "Suite 100",
+          "Half Moon Bay, California 94019",
+          "Contact: Christy Gompert",
+          "Phone: 650-440-4160",
+          "pasmktg@swca.com"
+        ],
+        "Type": "",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Prime"
+      },
+      {
+        "Vendor": [
+          "The San Francisco Builders Exchange",
+          "850 S Van Ness Ave",
+          "San Francisco, California 94110",
+          "Contact: Deanna Johnson",
+          "Phone: 415-282-8220",
+          "Fax: 415-821-0363",
+          "djohnsonsf@sbcglobal.net"
+        ],
+        "Type": "",
+        "Status": "Non-Bidder, receive communications",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Other"
+      },
+      {
+        "Vendor": [
+          "Thompson Builders Corporation",
+          "5400 Hanna Ranch Road",
+          "Novato, California 94945",
+          "Contact: Kelsey Heaphy",
+          "Phone: 415-456-8972",
+          "Fax: 415-459-0665",
+          "bids@tbcorp.com"
+        ],
+        "Type": "CADIR",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "yes",
+        "Classifications": "Prime"
+      },
+      {
+        "Vendor": [
+          "True Welding LLC",
+          "820 Walnut Ave #100",
+          "Vallejo, California 94592",
+          "Contact: Michael Mitchell",
+          "Phone: 707-712-1675",
+          "michael@trueweldingllc.com"
+        ],
+        "Type": "MBE, CADIR",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Subcontractor"
+      },
+      {
+        "Vendor": [
+          "United Rentals",
+          "2412 E Carmel Ave",
+          "Mesa, Arizona 85204",
+          "Contact: Chuck Peterson",
+          "Phone: 623-284-9170",
+          "chpeterso@ur.com"
+        ],
+        "Type": "",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Supplier"
+      },
+      {
+        "Vendor": [
+          "VAG USA LLC",
+          "234 Clay Ave",
+          "Mars, Pennsylvania 16046",
+          "Contact: Gene Darin",
+          "Phone: 603-490-1784",
+          "g.darin@vag-group.com"
+        ],
+        "Type": "",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Supplier"
+      },
+      {
+        "Vendor": [
+          "Vibrasure Consulting Engineers, Inc.",
+          "1015 Florida St",
+          "San Francisco, California 94110",
+          "Contact: Tyler Rynberg",
+          "Phone: 415-946-8487",
+          "info@vibrasure.com"
+        ],
+        "Type": "DGS, CADIR",
+        "Status": "Non-Bidder, receive communications",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Subcontractor"
+      },
+      {
+        "Vendor": [
+          "Victaulic",
+          "4901 Kesslerville Road",
+          "Easton, Pennsylvania 18040",
+          "Contact: Jason Stoddard",
+          "Phone: 415-416-7172",
+          "jason.stoddard@victaulic.com"
+        ],
+        "Type": "",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Supplier"
+      }
+    ],
+    "Bid Title": "C0714 - Almaden Valley Pipeline Replacement Project - Phase 1"
+  },
+  {
+    "Bid Information": {
+      "Bid Detail": {
+        "Project Title": "C0726 – Live Oak Restoration Reach Project (Prequalification)",
+        "Invitation #": "VW0626",
+        "Bid Posting Date": "11/05/2025 5:48 PM (PST)",
+        "Project Stage": "Bidding",
+        "Bid Due Date": "12/30/2025 2:00 PM (PST)",
+        "Response Format": "Electronic",
+        "Project Type": "RFQual (Request for Qualification)",
+        "Response Types": "Response File\n5. Contractor Prequalification Questionnaire (required)\nPart I. Organization, History, Organizational Performance, Compliance with Civil and Criminal Laws (required)\nPart II. Essential Requirements for Prequalification (required)\nPART IV. Comparable Project Experience (required)\nPART V. Required Attachments and Enclosures (required)\nPART VI. Certification (required)\nAppendix B – Affidavit of Compliance with California’s Skilled and Trained Workforce (required)",
+        "Type of Award": "Lump Sum",
+        "Categories": "13500 - Bricks, Clay, Refractory Materials, Stone, And Tile Products\n15000 - Builder'S Supplies\n33000 - Fencing\n44500 - Hand Tools (Powered And Non-Powered), Accessories And Supplies\n72000 - Pumping Equipment And Accessories\n76000 - Road And Highway Equipment: Earth Handling, Grading, Moving, Packing, Etc.\n90632 - Fisheries; Fish Ladders - Architectural\n90654 - Irrigation; Drainage; Flood Control - Architectural\n91051 - Masonry, Concrete, And Stucco Maintenance, Finishing, And Repair (Includes Inside Concrete Sawing And Grouting Work)\n91200 - Construction Services, General (Incl. Maintenance And Repair Services)\n91300 - Construction Services, Heavy (Incl. Maintenance And Repair Services)\n91400 - Construction Services, Trade (New Construction)\n91430 - Concrete\n92600 - Environmental And Ecological Services\n95897 - Wildlife/Fish Management Services (Including Endangered Species And Wildlife Census)\n96239 - Hauling Services\n96800 - Public Works And Related Services\n96873 - Storm Drain Cleaning, Repair, And Sludge Removal Services\n96874 - Street Sweeping Services\n96881 - Traffic Sign Maintenance And Repair\n96888 - Tree And Shrub Removal Services\n96893 - Well Pointing Services (Dewatering)\n98814 - Erosion Control Services\n98815 - Fence Installation, Maintenance And Repair\n98832 - Grading (Of Parking Lots, Etc. - Not Road Building)\n98838 - Hydromulching Services\n98852 - Landscaping (Including Design, Fertilizing, Planting, Etc., But Not Grounds Maintenance Or Tree Trimming Services)\n98888 - Tree Trimming And Pruning Services\n91315 - Construction, Canal or Aqueduct\n91219 - Construction, Clearing or grubbing services\n91340 - Construction, Pipelines\n91355 - Construction, Utility/Underground Projects\n92517 - Civil Engineering\n92540 - Fisheries; Fish Ladders - Engineering\n92593 - Traffic and Transportation Engineering\n92629 - Contaminated Groundwater Services (Including Discharge Pipe Installation)\n92682 - Safety Services, Environmental\n92683 - Site Assessment, Environmental\n92688 - Storm Water Discharge Testing Services\n95840 - Fishery Management Services (Including Data Collection, Research and Experimentation, Resources Protection, etc.)\n96141 - Global Positioning Systems Surveying Services",
+        "License Requirements": "Class A",
+        "Department": "Construction Contracts & Support #335",
+        "Address": "5750 Almaden Expressway\nSan Jose, California\n95118",
+        "County": "Santa Clara",
+        "Bid Valid": "",
+        "Liquidated Damages": "",
+        "Estimated Bid Value": "$5M - $6M",
+        "Start/Delivery Date": "",
+        "Project Duration": ""
+      },
+      "Bid Bond": {
+        "Bid Bond": "0.00%",
+        "Payment Bond": "0.00%",
+        "Performance Bond": "0.00%"
+      },
+      "Pre-Bid Meeting Information RSVP": {
+        "Pre-Bid Meeting": "Yes - Mandatory",
+        "Pre-Bid Meeting Date": "11/18/2025 10:00 AM (PST)",
+        "Pre-Bid Meeting Location": "2280B Cochrane Road, Morgan Hill, CA 95037 Note: Please confirm your intent to attend the prequalification conference/site visit 24 hours in advance by registering at the Valley Water Vendor Portal. Reasonable efforts will be made to accommodate persons with disabilities wishing to attend the Pre-Bid meeting. Please send an email to scvwdplanroom@valleywater.org to request accommodations at least two (2) business days before the prequalification conference."
+      },
+      "Online Q&A": {
+        "Online Q&A": "Yes",
+        "Q&A Deadline": "12/15/2025 5:00 PM (PST)"
+      },
+      "Contact Information": {
+        "Contact Info": "Yasmin Rouholiman 408-630-3024\nYRouholiman@valleywater.org",
+        "Bids to": "",
+        "Owner's Agent": ""
+      },
+      "Description": {
+        "Scope of Services": "The objective of the Live Oak Restoration Reach Project (Project) is to improve habitat conditions for steelhead spawning and rearing. The Project will divert and bypass creek flows,  install spawning gravels, construct a new shallow and sinuous channel in place of an existing deep pool, and install large wood structures at various locations along the creek’s banks.",
+        "Other Details": "Notice is hereby given that the Santa Clara Valley Water District (Valley Water) has determined that all General Contractors wishing to bid on the Live Oak Restoration Reach Project (Project) must be prequalified prior to submitting a bid on the Project. Bids will not be accepted from any contractor that has failed to comply with the requirements stated in this Prequalification Application. A current Class A California Contractor's License is required to bid on the Project.",
+        "Notes": "",
+        "Special Notices": "",
+        "Local Programs & Policies": ""
+      }
+    },
+    "Prospective Bidders": [
+      {
+        "Vendor": [
+          "A & B Construction",
+          "225 3rd Street",
+          "Oakland, California 94607",
+          "Contact: Rayme Ratliff",
+          "Phone: 510-999-6000",
+          "rratliff@a-bconstruction.net"
+        ],
+        "Type": "",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Prime"
+      },
+      {
+        "Vendor": [
+          "A. Teichert & Son, Inc.",
+          "5200 Franklin Drive Suite 115",
+          "Pleasanton, California 94588",
+          "Contact: Jason Theriault",
+          "Phone: 925-621-5700",
+          "Fax: 925-621-5799",
+          "estimating@teichert.com"
+        ],
+        "Type": "CADIR",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Prime"
+      },
+      {
+        "Vendor": [
+          "Apex Enterprises Inc.",
+          "461 Ophir Road",
+          "Oroville, California 95966",
+          "Contact: Logan Bamford",
+          "Phone: 530-403-3183",
+          "lwb@apexenterprisesinc.com"
+        ],
+        "Type": "DGS",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Prime"
+      },
+      {
+        "Vendor": [
+          "Aspen Environmental Group",
+          "5020 Chesebro Road",
+          "Suite 200",
+          "Agoura Hills, California 91301",
+          "Contact: Stephanie Siefert",
+          "Phone: 818-338-6652",
+          "business@aspeneg.com"
+        ],
+        "Type": "DGS",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Prime"
+      },
+      {
+        "Vendor": [
+          "Badger Daylighting",
+          "1420 Industrial Ave",
+          "San Jose, California 95112",
+          "Contact: Dave Johnson",
+          "Phone: 669-292-3540",
+          "davjohnson@badgerinc.com"
+        ],
+        "Type": "Local",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Subcontractor"
+      },
+      {
+        "Vendor": [
+          "Bp-Pak, Inc.",
+          "400 Reed Street",
+          "Santa Clara, California 95050",
+          "Contact: Behrouz Behrouzian",
+          "Phone: 408-650-6753",
+          "info@bp-pakinc.com"
+        ],
+        "Type": "CADIR, VSBE, Local",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Prime"
+      },
+      {
+        "Vendor": [
+          "BrightView Landscape Services, Inc.",
+          "825 Mabury Road",
+          "San Jose, California 95133",
+          "Contact: Clint Christman",
+          "Phone: 818-740-8060",
+          "Clint.christman@brightview.com"
+        ],
+        "Type": "CADIR, Local",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Subcontractor"
+      },
+      {
+        "Vendor": [
+          "Builders Exchange of Santa Clara",
+          "400 Reed Street",
+          "Santa Clara, California 95050",
+          "Contact: Kanani Fonseca",
+          "Phone: 408-727-4000",
+          "kf@bxscco.com"
+        ],
+        "Type": "Local",
+        "Status": "Non-Bidder, receive communications",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Other"
+      },
+      {
+        "Vendor": [
+          "Con-Quest Contractors, Inc.",
+          "880 Mitten Raod",
+          "Suite 105",
+          "Burlingame, California 94010",
+          "Contact: Paul Loukianoff",
+          "Phone: 415-206-0524",
+          "bidday@cqcontractors.com"
+        ],
+        "Type": "DGS",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Prime"
+      },
+      {
+        "Vendor": [
+          "Condor Country Consulting, Inc",
+          "815 Estudillo St.",
+          "Martinez, California 94553",
+          "Contact: Kathryn Monroy-Dexter",
+          "Phone: 925-335-9308 ext. 117",
+          "kathryn@condorcountry.com"
+        ],
+        "Type": "DGS, MICRO",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Subcontractor"
+      },
+      {
+        "Vendor": [
+          "Confluence Restoration Inc.",
+          "721 Seaside Street",
+          "Santa Cruz, California 95060",
+          "Contact: Ryan Yarbrough",
+          "Phone: 831-621-8084",
+          "Ryan@confluencerestoration.com"
+        ],
+        "Type": "DGS, MICRO",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Subcontractor"
+      },
+      {
+        "Vendor": [
+          "ConstructConnect",
+          "3825 Edwards Rd.",
+          "Ste. 800",
+          "Cincinnati, Ohio 45209",
+          "Contact: Michael Stubbs",
+          "Phone: 513-458-5981",
+          "Fax: 866-570-8187",
+          "content@constructconnect.com"
+        ],
+        "Type": "DGS",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Subcontractor"
+      },
+      {
+        "Vendor": [
+          "D N B Infrastructure, Inc",
+          "8589 Thys Ct",
+          "Sacramento, California 95828",
+          "Contact: Andre Catellier",
+          "Phone: 916-379-0957",
+          "estimating@rnr-construction.com"
+        ],
+        "Type": "FSD",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Prime"
+      },
+      {
+        "Vendor": [
+          "Darnell Shaw Environmental-DSE",
+          "P.O Box 1573",
+          "Palo Alto, California 94302",
+          "Contact: Darnell Shaw",
+          "Phone: 415-994-6463",
+          "water@dsenviro.com"
+        ],
+        "Type": "Local",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Subcontractor"
+      },
+      {
+        "Vendor": [
+          "DH and Company",
+          "118 South King Street",
+          "Carlsbad, New Mexico 88220",
+          "Contact: Dara Harsh",
+          "Phone: 448-447-2348",
+          "Daraharsh@gmail.com"
+        ],
+        "Type": "",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Other"
+      },
+      {
+        "Vendor": [
+          "dixon marine services",
+          "12786 Sir Francis Drake Blvd",
+          "Inverness, California 94937",
+          "Contact: Kalloch Fox",
+          "Phone: 415-669-7369",
+          "bids@dixonmarineservices.com"
+        ],
+        "Type": "WBE, DGS",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Prime"
+      },
+      {
+        "Vendor": [
+          "Ecological Concerns, Inc.",
+          "125 Walk Circle",
+          "Santa Cruz, California 95060",
+          "Contact: Sheere",
+          "Phone: 831-459-0656",
+          "Fax: 831-459-0656",
+          "sheere@ecologicalconcerns.com"
+        ],
+        "Type": "",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Subcontractor"
+      },
+      {
+        "Vendor": [
+          "Empire Landscapinginc",
+          "26945 County Road 97D",
+          "Davis, California 95616",
+          "Contact: Ahmet Gulcu",
+          "Phone: 530-400-3943",
+          "empirelandscapinginc@gmail.com"
+        ],
+        "Type": "DGS, CADIR",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Prime"
+      },
+      {
+        "Vendor": [
+          "Fees Trucking & Construction",
+          "PO Box 869",
+          "Pixley, California 93256",
+          "Contact: Kevin Fees",
+          "Phone: 559-901-6969",
+          "Fax: 559-757-1216",
+          "kevindalefees@gmail.com"
+        ],
+        "Type": "FSD, MICRO, CADIR",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Prime"
+      },
+      {
+        "Vendor": [
+          "Ford Construction Company",
+          "300 W. Pine Street",
+          "Lodi, California 95240",
+          "Contact: Jerry Middleton",
+          "Phone: 209-333-1116",
+          "Fax: 209-333-8597",
+          "est@ford-construction.com"
+        ],
+        "Type": "",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Prime"
+      },
+      {
+        "Vendor": [
+          "Galeb Paving, Inc.",
+          "12340 Saratoga-Sunnyvale Rd",
+          "Saratoga, California 95070",
+          "Contact: Lee Pellicciotti",
+          "Phone: 408-253-4747",
+          "Fax: 408-253-4753",
+          "lee@galebpaving.com"
+        ],
+        "Type": "CADIR, Local",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Prime"
+      },
+      {
+        "Vendor": [
+          "Gecko Golf Construction, Inc.",
+          "2973 Harbor Blvd. # 716",
+          "Costa Mesa, California 92626",
+          "Contact: Keiko Frederick",
+          "Phone: 714-697-1711",
+          "GeckoGconstruction@gmail.com"
+        ],
+        "Type": "",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Subcontractor"
+      },
+      {
+        "Vendor": [
+          "Ghilotti Construction Company, Inc.",
+          "246 Ghilotti Avenue",
+          "Santa Rosa, California 95404",
+          "Contact: Annette Conley",
+          "Phone: 707-585-1221",
+          "Fax: 707-585-1601",
+          "annette@ghilotti.com"
+        ],
+        "Type": "CADIR",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Prime"
+      },
+      {
+        "Vendor": [
+          "Granite Construction Company",
+          "715 Comstock St",
+          "Santa Clara, California 95054",
+          "Contact: John G Boies",
+          "Phone: 408-327-7000",
+          "Fax: 408-327-7090",
+          "patricia.arnett@gcinc.com"
+        ],
+        "Type": "CADIR, Local",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Prime"
+      },
+      {
+        "Vendor": [
+          "Granite Rock Company",
+          "5225 Hellyer Avenue, Suite 220",
+          "San Jose, California 95138",
+          "Contact: Bryan Jones",
+          "Phone: 408-574-1400",
+          "Fax: 408-365-9548",
+          "estimating@graniterock.com"
+        ],
+        "Type": "CADIR, Local",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Prime"
+      },
+      {
+        "Vendor": [
+          "Ground Control Inc.",
+          "1485 Bayshore Blvd.",
+          "Suite 451",
+          "San Francisco, California 94124",
+          "Contact: Jae Shin",
+          "Phone: 415-508-8589",
+          "jae@groundci.com"
+        ],
+        "Type": "DGS, MBE, MICRO, DBE",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Prime"
+      },
+      {
+        "Vendor": [
+          "Hanford Applied Restoration & Conservation",
+          "775 Baywood Drive, Suite 207",
+          "Petaluma, California 94954",
+          "Contact: Estimating Dept.",
+          "Phone: 707-981-1155",
+          "Fax: 707-996-6641",
+          "estimating@hanfordarc.com"
+        ],
+        "Type": "CADIR",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Prime"
+      },
+      {
+        "Vendor": [
+          "HELIX Environmental Planning",
+          "1677 Eureka Road, Suite 100",
+          "Roseville, California 95661",
+          "Contact: Ann Marie",
+          "Phone: 916-435-1202",
+          "annmariep@helixepi.com"
+        ],
+        "Type": "",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Prime"
+      },
+      {
+        "Vendor": [
+          "Interstate Grading & Paving, Inc",
+          "128 S. Maple Ave",
+          "So. San Francisco, California 94080",
+          "Contact: Tina-Marie Mason",
+          "Phone: 650-952-7333",
+          "Fax: 650-952-6851",
+          "tina@igpinc.com"
+        ],
+        "Type": "CADIR",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Prime"
+      },
+      {
+        "Vendor": [
+          "Irish Excavation",
+          "305 Vineyard Town Center",
+          "Suite 109",
+          "Morgan Hill, California 95037",
+          "Contact: Sean O'Donoghue",
+          "Phone: 408-659-6136",
+          "sean@irishexcavation.com"
+        ],
+        "Type": "CADIR, DGS, MICRO, Local",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Other"
+      },
+      {
+        "Vendor": [
+          "Joseph J. Albanese, Inc.",
+          "2450 Walsh Ave",
+          "Santa Clara, California 95050",
+          "Contact: Angelina Castillo",
+          "Phone: 408-727-5700",
+          "estimating@jjalbanese.com"
+        ],
+        "Type": "CADIR, Local",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Prime"
+      },
+      {
+        "Vendor": [
+          "KCI Environmental, Inc.",
+          "P. O. Box 3307",
+          "San Luis Obispo, California 93403-3307",
+          "Contact: Kim O'Byan",
+          "Phone: 805-543-3311 ext. 305",
+          "Fax: 805-543-3429",
+          "curtb@kcienv.com"
+        ],
+        "Type": "DGS, CADIR",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Subcontractor"
+      },
+      {
+        "Vendor": [
+          "Landology, Inc.",
+          "313 Judah Street, Suite 5",
+          "Roseville, California 95677",
+          "Contact: matt hennessey",
+          "Phone: 916-626-1884",
+          "matt@landologyinc.com"
+        ],
+        "Type": "WBE, DGS, CADIR, DBE",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Prime"
+      },
+      {
+        "Vendor": [
+          "LDC Millwrights & Mechanical",
+          "34539 Bentley Ct",
+          "Fremont, California 94555",
+          "Contact: Steve Medeiros",
+          "Phone: 510-514-2535",
+          "LDCMillwrights@gmail.com"
+        ],
+        "Type": "DGS",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Subcontractor"
+      },
+      {
+        "Vendor": [
+          "McGuire and Hester",
+          "2810 Harbor Bay Parkway",
+          "Alameda, California 94502",
+          "Contact: Mabel Cater",
+          "Phone: 510-632-7676",
+          "Fax: 510-562-5209",
+          "estimating@mcguireandhester.com"
+        ],
+        "Type": "CADIR",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Prime"
+      },
+      {
+        "Vendor": [
+          "Mountain Cascade, Inc.",
+          "555 Exchange Court",
+          "Livermore, California 94550",
+          "Contact: David Hicks",
+          "Phone: 925-373-8370",
+          "Fax: 925-373-0940",
+          "estimating@mountaincascade.com"
+        ],
+        "Type": "",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Prime"
+      },
+      {
+        "Vendor": [
+          "MZB Traffic Management Inc.",
+          "1192 Athlone Lane",
+          "Corona, California 92882",
+          "Contact: Humayun Aziz",
+          "Phone: 949-254-4792",
+          "info@mzbinc.com"
+        ],
+        "Type": "DBE",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Subcontractor"
+      },
+      {
+        "Vendor": [
+          "Orchard Bay landscaping LLC",
+          "8224 church st",
+          "gilroy, California 95020",
+          "Contact: Juan Rivera",
+          "Phone: 669-258-7836",
+          "OrchardbayLandscaping@gmail.com"
+        ],
+        "Type": "DBE, FSD, Local",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Subcontractor"
+      },
+      {
+        "Vendor": [
+          "Passenger Construction Corp.",
+          "32051 Westwood Dr.",
+          "Fort Bragg, California 95437",
+          "Contact: Mark Cederborg",
+          "Phone: 707-975-3105",
+          "mark@passengerconstruction.com"
+        ],
+        "Type": "",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Prime"
+      },
+      {
+        "Vendor": [
+          "Path Forward Partners, Inc. (Environmental Consultant)",
+          "1970 Broadway",
+          "Suite 1220",
+          "oakland, California 94612",
+          "Contact: David Grunat",
+          "Phone: 510-756-0741",
+          "david@pathfw.net"
+        ],
+        "Type": "DGS, MICRO, CADIR",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Subcontractor"
+      },
+      {
+        "Vendor": [
+          "PRO-TEC Safety Consultants Inc.",
+          "249 Onondaga Ave",
+          "San Francisco, California 94112",
+          "Contact: Ralph Morales",
+          "Phone: 415-294-1438",
+          "ralph@protecsafetyinc.com"
+        ],
+        "Type": "DBE, DGS, CADIR",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Subcontractor"
+      },
+      {
+        "Vendor": [
+          "Prunuske Chatham, Inc.",
+          "103 Morris Street, Suite A-5",
+          "Sebastopol, California 95472",
+          "Contact: Will Johnson",
+          "Phone: 707-889-3678",
+          "will@pcz.com"
+        ],
+        "Type": "DGS, CADIR",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Prime"
+      },
+      {
+        "Vendor": [
+          "Rain for Rent",
+          "469 El Camino Real",
+          "Salinas, California 93908",
+          "Contact: Clint Hebrew",
+          "Phone: 831-578-5800",
+          "chebrew@rainforrent.com"
+        ],
+        "Type": "CADIR",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Subcontractor"
+      },
+      {
+        "Vendor": [
+          "Skilled Fence Builder Inc.",
+          "3705",
+          "Canyon Terrace Dr",
+          "San Bernardino, California 92407",
+          "Contact: William Escalante",
+          "Phone: 909-561-2760",
+          "williamsfbco@gmail.com"
+        ],
+        "Type": "CADIR",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Subcontractor"
+      },
+      {
+        "Vendor": [
+          "SWCA Environmental Consultants",
+          "60 Stone Pine Road",
+          "Suite 100",
+          "Half Moon Bay, California 94019",
+          "Contact: Brittney Leyva",
+          "Phone: 650-440-4160",
+          "pasmktg@swca.com"
+        ],
+        "Type": "",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Subcontractor"
+      },
+      {
+        "Vendor": [
+          "The San Francisco Builders Exchange",
+          "850 S Van Ness Ave",
+          "San Francisco, California 94110",
+          "Contact: Deanna Johnson",
+          "Phone: 415-282-8220",
+          "Fax: 415-821-0363",
+          "djohnsonsf@sbcglobal.net"
+        ],
+        "Type": "",
+        "Status": "Non-Bidder, receive communications",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Other"
+      },
+      {
+        "Vendor": [
+          "Thomas Gast & Associates Environmental Consultants",
+          "PO Box 1137",
+          "Arcata, California 95518",
+          "Contact: Thomas G Gast",
+          "Phone: 707-822-8544",
+          "tgast@tgaec.com"
+        ],
+        "Type": "DGS, MICRO",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Subcontractor"
+      },
+      {
+        "Vendor": [
+          "Thompson Builders Corporation",
+          "5400 Hanna Ranch Road",
+          "Novato, California 94945",
+          "Contact: Kelsey Heaphy",
+          "Phone: 415-456-8972",
+          "Fax: 415-459-0665",
+          "bids@tbcorp.com"
+        ],
+        "Type": "CADIR",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Prime"
+      },
+      {
+        "Vendor": [
+          "Triangle Properties",
+          "3500 American River Drive",
+          "Sacramento, California 95864",
+          "Contact: Jessica Johnston",
+          "Phone: 916-696-0119",
+          "jjohnston@teichert.com"
+        ],
+        "Type": "",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Prime"
+      },
+      {
+        "Vendor": [
+          "Watearth",
+          "3371 Glendale Blvd, Suite 101",
+          "Los Angeles, California 90039",
+          "Contact: Jennifer J. Walker",
+          "Phone: 877-302-2084",
+          "sales@watearth.com"
+        ],
+        "Type": "DGS, DBE, WBE, FSD",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Subcontractor"
+      }
+    ],
+    "Bid Title": "C0726 – Live Oak Restoration Reach Project (Prequalification)"
+  }
+]

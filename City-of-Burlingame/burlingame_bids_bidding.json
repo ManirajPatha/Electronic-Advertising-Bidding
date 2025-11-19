@@ -1,0 +1,1525 @@
+[
+  {
+    "Bid Information": {
+      "Bid Detail": {
+        "Project Title": "As-Needed Paving Services for Water Division",
+        "Invitation #": "",
+        "Bid Posting Date": "11/04/2025 7:26 AM (PST)",
+        "Project Stage": "Bidding",
+        "Bid Due Date": "11/18/2025 2:00 PM (PST)",
+        "Response Format": "Electronic",
+        "Project Type": "RFP (Request for Proposal)",
+        "Response Types": "Line Items\nSubcontractor\nCARB Compliance Statement and Certificate (required)",
+        "Type of Award": "Lump Sum",
+        "Categories": "237990 - Other Heavy and Civil Engineering Construction\n238110 - Poured Concrete Foundation and Structure Contractors\n541330 - Engineering Services",
+        "License Requirements": "Must have an active Class A license issued by the Contractors State License Board.",
+        "Department": "Public Works - Operations",
+        "Address": "1361 N. Carolan Ave.\nBurlingame, California\n94010",
+        "County": "San Mateo",
+        "Bid Valid": "",
+        "Liquidated Damages": "",
+        "Estimated Bid Value": "",
+        "Start/Delivery Date": "",
+        "Project Duration": "The awarded contract will be valid until June 30, 2026 with two 1-year renewal options (commencing on July 1st) at the election of the City."
+      },
+      "Bid Bond": {
+        "Bid Bond": "0.00%",
+        "Payment Bond": "0.00%",
+        "Performance Bond": "0.00%"
+      },
+      "Pre-Bid Meeting Information": {
+        "Pre-Bid Meeting": "No"
+      },
+      "Online Q&A": {
+        "Online Q&A": "Yes",
+        "Q&A Deadline": "11/12/2025 2:00 PM (PST)"
+      },
+      "Contact Information": {
+        "Contact Info": "Tim McAuliffe 650-558-7682\ntmcauliffe@burlingame.org",
+        "Bids to": "",
+        "Owner's Agent": ""
+      },
+      "Description": {
+        "Scope of Services": "The City of Burlingame wishes to establish a contractual relationship to provide paving services on an as-needed basis. The paving services to be provided, includes but it not limited to, for asphalt concrete (AC) and Portland cement concrete (PCC) pavement repair at various locations within the City right-of-way. The contract is for “as-needed services” and is not a guarantee that the City will contact you to perform such services.\n\nThe awarded contract will be valid until June 30, 2026 with two 1-year renewal options (commencing on July 1st) at the election of the City. Total charges under this contract are not to exceed $75,000.\n\nThe City reserves the right to award multiple contracts in order to meet its operational needs.\n\nContractor shall meet the following requirements if awarded the contract:\n\n• Must have an active Class A license issued by the Contractors State License Board.\n• Must meet the insurance and licensing requirements outlined in the City of Burlingame Contractor Requirements.\n• Contractor must be able to meet the requirements in the attached sample agreement and scope of work if awarded the contract.\n• Prevailing wage rates must be paid for all work associated with this project.\n• The City of Burlingame recognizes that prevailing wage increases may occur during the term of the contract, and consequently will allow labor rate increases of up to 5 percent per year to ensure that the labor rates reflect the current prevailing wage.",
+        "Other Details": "",
+        "Notes": "Technical Support: In the event you encounter technical difficulties, please contact the PlanetBids team as shown below (Mon-Fri from 5 A.M. to 5 P.M.): support@planetbids.com or call 818-992-1771.",
+        "Special Notices": "",
+        "Local Programs & Policies": ""
+      }
+    },
+    "Prospective Bidders": [
+      {
+        "Vendor": [
+          "Always Paving Inc.",
+          "5221 Sussex Place",
+          "Newark, California 94560",
+          "Contact: Harold Hutson",
+          "Phone: 510-789-6610",
+          "harold@alwayspavinginc.com"
+        ],
+        "Type": "CADIR",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Prime"
+      },
+      {
+        "Vendor": [
+          "Bay Area Paving",
+          "PO Box 340",
+          "San Carlos, California 94070",
+          "Contact: Chris Quinn",
+          "Phone: 650-787-7453",
+          "bayareapaving@comcast.net"
+        ],
+        "Type": "CADIR",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Prime"
+      },
+      {
+        "Vendor": [
+          "bids.cmip@gmail.com",
+          "190 Sierra Ct Ste B113",
+          "Palmdale, California 93550",
+          "Contact: Valentine Dos Santos",
+          "Phone: 661-221-9502",
+          "bids.cmip@gmail.com"
+        ],
+        "Type": "",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Prime"
+      },
+      {
+        "Vendor": [
+          "Builders Exchange of Santa Clara",
+          "400 Reed Street",
+          "Santa Clara, California 95050",
+          "Contact: Kanani Fonseca",
+          "Phone: 408-727-4000",
+          "Fax: 408-727-2779",
+          "kf@bxscco.com"
+        ],
+        "Type": "",
+        "Status": "Non-Bidder, receive communications",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Other"
+      },
+      {
+        "Vendor": [
+          "golden bay construction, inc.",
+          "3826 Depot Road",
+          "Hayward, California 94545",
+          "Contact: johnny zanette",
+          "Phone: 510-783-2960 ext. 103",
+          "johnny@gbayinc.com"
+        ],
+        "Type": "CADIR",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Prime"
+      },
+      {
+        "Vendor": [
+          "Imperial Construction and Engineering, Inc.",
+          "8203 Sierra College Ave",
+          "Roseville, California 95661",
+          "Contact: Kathleen Wise",
+          "Phone: 650-888-4891",
+          "kathleen@iceconeng.com"
+        ],
+        "Type": "CADIR",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Prime"
+      },
+      {
+        "Vendor": [
+          "Interstate Grading & Paving, Inc",
+          "128 So. Maple Ave",
+          "South San Francisco, California 94080",
+          "Contact: Tina-Marie Mason",
+          "Phone: 650-952-7333",
+          "Fax: 650-952-6851",
+          "tina@igpinc.com"
+        ],
+        "Type": "CADIR",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Prime"
+      },
+      {
+        "Vendor": [
+          "Joseph J. Albanese, Inc.",
+          "2450 Walsh Ave",
+          "Santa Clara, California 95051",
+          "Contact: Angelina Castillo",
+          "Phone: 408-727-5700",
+          "estimating@jjalbanese.com"
+        ],
+        "Type": "",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Prime"
+      },
+      {
+        "Vendor": [
+          "Mission Constructors, Inc.",
+          "195 Bayshore Blvd",
+          "San Francisco, California 94124",
+          "Contact: Christian Escobar",
+          "Phone: 408-614-5195",
+          "christian@missionconst.com"
+        ],
+        "Type": "",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Prime"
+      },
+      {
+        "Vendor": [
+          "Nissim Painting, Inc.",
+          "148 Berryessa Dr.",
+          "Napa, California 94558",
+          "Contact: Jack Nissim",
+          "Phone: 415-566-5111",
+          "estimate@nissimpainting.com"
+        ],
+        "Type": "CADIR",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Prime"
+      },
+      {
+        "Vendor": [
+          "Raposo Engineering Inc",
+          "2613 Erskine Ln",
+          "Hayward, California 94545",
+          "Contact: Mark Raposo",
+          "Phone: 650-622-6152",
+          "mark@raposoengineering.com"
+        ],
+        "Type": "CADIR",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Prime"
+      }
+    ],
+    "Bid Title": "As-Needed Paving Services for Water Division"
+  },
+  {
+    "Bid Information": {
+      "Bid Detail": {
+        "Project Title": "As-Needed Recoating Services for Water Division",
+        "Invitation #": "",
+        "Bid Posting Date": "11/04/2025 7:20 AM (PST)",
+        "Project Stage": "Bidding",
+        "Bid Due Date": "11/18/2025 2:00 PM (PST)",
+        "Response Format": "Electronic",
+        "Project Type": "RFP (Request for Proposal)",
+        "Response Types": "Line Items\nSubcontractor",
+        "Type of Award": "Lump Sum",
+        "Categories": "238320 - Painting and Wall Covering Contractors",
+        "License Requirements": "Must have an active C-33 license issued by the California Contractors State License Board.",
+        "Department": "Public Works - Operations",
+        "Address": "1361 N. Carolan Ave.\nBurlingame, California\n94010",
+        "County": "San Mateo",
+        "Bid Valid": "",
+        "Liquidated Damages": "",
+        "Estimated Bid Value": "",
+        "Start/Delivery Date": "",
+        "Project Duration": "The length of the contract is upon execution until June 30, 2028 with two 1-year renewal options at the discretion of the City."
+      },
+      "Bid Bond": {
+        "Bid Bond": "0.00%",
+        "Payment Bond": "0.00%",
+        "Performance Bond": "0.00%"
+      },
+      "Pre-Bid Meeting Information": {
+        "Pre-Bid Meeting": "No"
+      },
+      "Online Q&A": {
+        "Online Q&A": "Yes",
+        "Q&A Deadline": "11/12/2025 2:00 PM (PST)"
+      },
+      "Contact Information": {
+        "Contact Info": "Tim McAuliffe 650-558-7682\ntmcauliffe@burlingame.org",
+        "Bids to": "",
+        "Owner's Agent": ""
+      },
+      "Description": {
+        "Scope of Services": "The City of Burlingame wishes to establish a contractual relationship to provide recoating services and materials on an on-call basis when needed by the City. Specifically, we are inviting companies to provide their hourly labor rates (regular and overtime, prevailing wage) for as-needed recoating services to recoat piping, motors, and appurtenances as directed by the Water Division.\n\nThe length of the contract is upon execution until June 30, 2028 with two 1-year renewal options at the discretion of the City. Services under this contract are not to exceed $25,000 per fiscal year. The contract is for “on-call services as-needed” and is not a guarantee that the City will contact you to perform these services.\n\nThe City reserves the right to award multiple contracts in order to meet its operational needs.\n\nContractor shall meet the following requirements if awarded the contract:\n\n• Must have an active C-33 license issued by the California Contractors State License Board.\n• Must pay prevailing wages and meet the City’s insurance and business license requirements before starting work. See Sample Agreement and “City of Burlingame Contractor Requirements” for more details.\n• The City of Burlingame recognizes that prevailing wage increases may occur during the term of the contract, and consequently will allow labor rate increases of up to 5 percent per year to ensure that the labor rates reflect the current prevailing wage.",
+        "Other Details": "",
+        "Notes": "Technical Support: In the event you encounter technical difficulties, please contact the PlanetBids team as shown below (Mon-Fri from 5 A.M. to 5 P.M.): support@planetbids.com or call 818-992-1771.",
+        "Special Notices": "",
+        "Local Programs & Policies": ""
+      }
+    },
+    "Prospective Bidders": [
+      {
+        "Vendor": [
+          "Builders Exchange of Santa Clara",
+          "400 Reed Street",
+          "Santa Clara, California 95050",
+          "Contact: Kanani Fonseca",
+          "Phone: 408-727-4000",
+          "Fax: 408-727-2779",
+          "kf@bxscco.com"
+        ],
+        "Type": "",
+        "Status": "Non-Bidder, receive communications",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Other"
+      },
+      {
+        "Vendor": [
+          "FD Thomas",
+          "217 Bateman Dr",
+          "Central Point, Oregon 97502",
+          "Contact: Mike Kostenko",
+          "Phone: 541-664-3010",
+          "mikek@fdthomas.com"
+        ],
+        "Type": "CADIR",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Prime"
+      },
+      {
+        "Vendor": [
+          "New Kingdom Construction LLC",
+          "132 park place",
+          "apt2",
+          "millbrae, California 94030",
+          "Contact: ishaq lopez",
+          "Phone: 650-898-4633",
+          "newkingdomhms@gmail.com"
+        ],
+        "Type": "",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Prime"
+      },
+      {
+        "Vendor": [
+          "Nissim Painting, Inc.",
+          "148 Berryessa Dr.",
+          "Napa, California 94558",
+          "Contact: Jack Nissim",
+          "Phone: 415-566-5111",
+          "estimate@nissimpainting.com"
+        ],
+        "Type": "CADIR",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Prime"
+      },
+      {
+        "Vendor": [
+          "Perfection Painting Corp",
+          "24820 Orchard Village, Ste A#310",
+          "6612341957",
+          "SANTA CLARITA, California 91355",
+          "Contact: Carlos Zarate",
+          "Phone: 661-234-1905",
+          "perfectionptgco@gmail.com"
+        ],
+        "Type": "CADIR",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Prime"
+      },
+      {
+        "Vendor": [
+          "Redwood Painting Co., Inc.",
+          "620 W 10th Street",
+          "Pittsburg, California 94565",
+          "Contact: Jamie Martinez",
+          "Phone: 925-432-4500",
+          "jmartinez@redwoodptg.com"
+        ],
+        "Type": "",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Prime"
+      },
+      {
+        "Vendor": [
+          "SAN FRANCISCO BUILDERS EXCHANGE",
+          "850 S VAN NESS AVE",
+          "SAN FRANCISCO, California 94110",
+          "Contact: DEANNA",
+          "Phone: 415-282-8220",
+          "Fax: 415-821-0363",
+          "DJOHNSONSF@SBCGLOBAL.NET"
+        ],
+        "Type": "",
+        "Status": "Non-Bidder, receive communications",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Other"
+      },
+      {
+        "Vendor": [
+          "Satellite Painting Inc.",
+          "5655 Silver Creek Valley Road 449",
+          "San Jose, California 95138",
+          "Contact: Sarahi Barradas",
+          "Phone: 408-264-1600",
+          "Fax: 408-264-0300",
+          "sarahi@gmail.com"
+        ],
+        "Type": "CADIR",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Prime"
+      },
+      {
+        "Vendor": [
+          "Top Coat Tier Painting, Inc.",
+          "205 North Delaware Street",
+          "San Mateo, California 94401",
+          "Contact: Alexander Clemente",
+          "Phone: 650-720-3411",
+          "sales@topcoattierpaint.com"
+        ],
+        "Type": "CADIR",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Prime"
+      },
+      {
+        "Vendor": [
+          "Vivid-Accent Painting Co.",
+          "225 Main St 1953",
+          "Watsonville, California 95076",
+          "Contact: Bernardo Sanchez",
+          "Phone: 831-419-1452",
+          "vividaccent.co@gmail.com"
+        ],
+        "Type": "",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Prime"
+      }
+    ],
+    "Bid Title": "As-Needed Recoating Services for Water Division"
+  },
+  {
+    "Bid Information": {
+      "Bid Detail": {
+        "Project Title": "Pump, Motor, and Mechanical Repair Services",
+        "Invitation #": "",
+        "Bid Posting Date": "11/04/2025 7:30 AM (PST)",
+        "Project Stage": "Bidding",
+        "Bid Due Date": "11/18/2025 4:00 PM (PST)",
+        "Response Format": "Electronic",
+        "Project Type": "RFP (Request for Proposal)",
+        "Response Types": "Response File\nAttachment D - Bid Response Form (required)\nAttachment E - Statement of Experience (required)\nAttachment F - Designation of Subcontractors (required)",
+        "Type of Award": "Lump Sum",
+        "Categories": "811219 - Other Electronic and Precision Equipment Repair and Maintenance\n811310 - Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Main",
+        "License Requirements": "The contractor shall possess a Class C-61/D21 (Machinery and Pumps), C-36 and/or C-10 license issued by the Contractors State License Board prior to submitting a proposal.",
+        "Department": "Public Works - Operations",
+        "Address": "1361 N. Carolan Ave.\nBurlingame, California\n94010",
+        "County": "San Mateo",
+        "Bid Valid": "",
+        "Liquidated Damages": "",
+        "Estimated Bid Value": "",
+        "Start/Delivery Date": "",
+        "Project Duration": "The awarded contract will be valid until June 30, 2026."
+      },
+      "Bid Bond": {
+        "Bid Bond": "0.00%",
+        "Payment Bond": "0.00%",
+        "Performance Bond": "0.00%"
+      },
+      "Pre-Bid Meeting Information": {
+        "Pre-Bid Meeting": "No"
+      },
+      "Online Q&A": {
+        "Online Q&A": "Yes",
+        "Q&A Deadline": "11/12/2025 2:00 PM (PST)"
+      },
+      "Contact Information": {
+        "Contact Info": "Lilliana Cifuentes 650-558-7670\nlcifuentes@burlingame.org",
+        "Bids to": "",
+        "Owner's Agent": ""
+      },
+      "Description": {
+        "Scope of Services": "The work includes, but is not limited to, all labor and equipment to repair, replace, adjust, and maintain pumps, motors, and related mechanical systems; inspection; testing; and emergency response. The Contractor must be able to respond to emergency repairs within 24 hours and to non-emergency repairs within 48 hours. The contract is for “as-needed services” and is not a guarantee that the City will contact you to perform such services. The awarded contract will be valid until June 30, 2026. Total charges under this contract are not to exceed $75,000. The City reserves the right to award multiple contracts in order to meet its operational needs. See Attachment A for additional scope details.\nContractor shall meet the following requirements if awarded the contract:\n• The contractor shall possess a Class C-61/D21 (Machinery and Pumps), C-36 and/or C-10 license issued by the Contractors State License Board prior to submitting a proposal. Contractor must provide the City with proof of the license when submitting their proposal.\n\n• Must meet the insurance and licensing requirements outlined in the City of Burlingame Contractor Requirements.\n\n• Contractor must be able to meet the requirements in the attached sample agreement and scope of work if awarded the contract.\n\n• Prevailing wage rates must be paid for all work associated with this project. Workers employed in the work must be paid at rates at least equal to the then current prevailing wage scale as determined by the State Director of the Department of Industrial Relations. Contractors and subcontractors are required to be registered with the Department of Industrial Relations prior to submitting a proposal. All contractors and subcontractors will be required to furnish electronic certified payroll records directly to the Department of Industrial Relations.\n\n• The City of Burlingame recognizes that prevailing wage increases may occur during the term of the contract, and consequently will allow labor rate increases of up to 5 percent per year to ensure that the labor rates reflect the current prevailing wage.",
+        "Other Details": "",
+        "Notes": "Technical Support: In the event you encounter technical difficulties during the uploading process, please contact the PlanetBids team as shown below (Mon-Fri from 5 A.M. to 5 P.M.): support@planetbids.com or call 818-992-1771, ext. 0",
+        "Special Notices": "",
+        "Local Programs & Policies": ""
+      }
+    },
+    "Prospective Bidders": [
+      {
+        "Vendor": [
+          "Builders Exchange of Santa Clara",
+          "400 Reed Street",
+          "Santa Clara, California 95050",
+          "Contact: Kanani Fonseca",
+          "Phone: 408-727-4000",
+          "Fax: 408-727-2779",
+          "kf@bxscco.com"
+        ],
+        "Type": "",
+        "Status": "Non-Bidder, receive communications",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Other"
+      },
+      {
+        "Vendor": [
+          "DXP Enterprises",
+          "1340 N Jefferson Street",
+          "Anaheim, California 92807",
+          "Contact: Cole Thomas",
+          "Phone: 714-779-0911",
+          "Bids@dxpe.com"
+        ],
+        "Type": "CADIR",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Supplier"
+      },
+      {
+        "Vendor": [
+          "Koffler Electrical Mechanical Apparatus Repair, Inc.",
+          "527 Whitney Street",
+          "San Leandro, California 94577",
+          "Contact: Ren Anderson",
+          "Phone: 510-567-0630",
+          "Fax: 510-567-0636",
+          "ren@koffler.com"
+        ],
+        "Type": "CADIR",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Prime"
+      },
+      {
+        "Vendor": [
+          "Pump Repair Service Company",
+          "PO Box 34327",
+          "San Francisco, California 94134",
+          "Contact: Jim Sedlack",
+          "Phone: 415-467-2150",
+          "Fax: 415-467-7442",
+          "jsedlack@pumprepairservice.com"
+        ],
+        "Type": "CADIR",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Supplier"
+      },
+      {
+        "Vendor": [
+          "PumpMan NorCal",
+          "4000 S Moorland Ave",
+          "Santa Rosa, California 95407",
+          "Contact: Billy Wier",
+          "Phone: 707-292-3287",
+          "jason.smith@pumpmannorcal.com"
+        ],
+        "Type": "",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Prime"
+      },
+      {
+        "Vendor": [
+          "RF MacDonald",
+          "25920 Eden Landing Road",
+          "Hayward, California 94544",
+          "Contact: Jerry Eaves",
+          "Phone: 916-639-4189",
+          "jerry.eaves@rfmacdonald.com"
+        ],
+        "Type": "CADIR",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Prime"
+      },
+      {
+        "Vendor": [
+          "Silicon Valley Mechanical Inc.",
+          "2115 Ringwood Ave",
+          "San Jose, California 95131",
+          "Contact: Bryan Lancaster",
+          "Phone: 669-288-2889",
+          "blancaster@svminc.com"
+        ],
+        "Type": "",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Prime"
+      }
+    ],
+    "Bid Title": "Pump, Motor, and Mechanical Repair Services"
+  },
+  {
+    "Bid Information": {
+      "Bid Detail": {
+        "Project Title": "Janitorial Services",
+        "Invitation #": "",
+        "Bid Posting Date": "10/28/2025 4:19 PM (PST)",
+        "Project Stage": "Bidding",
+        "Bid Due Date": "11/21/2025 2:00 PM (PST)",
+        "Response Format": "Electronic",
+        "Project Type": "RFP (Request for Proposal)",
+        "Response Types": "Response File\nExhibit C - Minimum Qualifications Form (required)\nExhibit D - Pricing Form (required)\nExhibit E - Contract Certifications (required)",
+        "Type of Award": "Lump Sum",
+        "Categories": "561720 - Janitorial Services",
+        "License Requirements": "",
+        "Department": "Public Works - Operations",
+        "Address": "1361 N. Carolan Ave.\nBurlingame, California\n94010",
+        "County": "San Mateo",
+        "Bid Valid": "",
+        "Liquidated Damages": "",
+        "Estimated Bid Value": "",
+        "Start/Delivery Date": "The work shall consist of janitorial services at City buildings starting tentatively in February 2026.",
+        "Project Duration": "The Term of the final Agreement is for three (3) years with two (2) one (1) year options at the election of the City."
+      },
+      "Bid Bond": {
+        "Bid Bond": "0.00%",
+        "Payment Bond": "100.00%",
+        "Performance Bond": "0.00%"
+      },
+      "Pre-Bid Meeting Information": {
+        "Pre-Bid Meeting": "Yes - Not Mandatory",
+        "Pre-Bid Meeting Date": "11/05/2025 9:00 AM (PST)",
+        "Pre-Bid Meeting Location": "Interested Proposers are strongly encouraged to attend a non-mandatory pre-proposal site walk on Wednesday, November 5, 2025, at 9:00 AM (PST). The site walk will begin at the Public Works Corporation Yard’s Training Room: 1361 N. Carolan Avenue, Burlingame, CA 94010. All Interested Proposers must be present at 9:00 A.M. on Wednesday, November 5, 2025. The walk-through will take an estimated 2-3 hours."
+      },
+      "Online Q&A": {
+        "Online Q&A": "Yes",
+        "Q&A Deadline": "11/06/2025 2:00 PM (PST)"
+      },
+      "Contact Information": {
+        "Contact Info": "Johnson Woo 650-558-7670\njwoo@burlingame.org",
+        "Bids to": "",
+        "Owner's Agent": ""
+      },
+      "Description": {
+        "Scope of Services": "PUBLIC NOTICE IS HEREBY GIVEN that proposals for JANITORIAL SERVICES will be received by the City of Burlingame (“City”) via PlanteBids System™, a fully automated web-based vendor and bid management system. Prospective proposers should visit https://pbsystem.planetbids.com/portal/46106/portal-home to register, download RFP documents, and submit their proposals. All proposals must be submitted to PlanetBids System™ before 2:00 P.M. (PST) on Friday, November 21, 2025. Proposals received after this date will not be accepted.\nThe City is requesting proposals to provide: Janitorial services at various City-owned facilities.\nThe work shall consist of janitorial services at City buildings starting tentatively in January 2026. The Term of the final Agreement is for three (3) years with two (2) one (1) year options at the election of the City.",
+        "Other Details": "The award of this contract is subject to available budget adequate to carry out the provisions of the proposed agreement including the identified Scope of Work (Exhibit B). The City reserves the right to reject any or all proposals determined not to be in the best interest of the City.\n\nAll addenda will be published on the PlanetBids System™ website.\n\nAll questions, interpretations, or clarifications, either administratively or technical must be requested in writing via PlanetBids System™. Oral statements regarding this RFP by any persons should be considered unverified information unless confirmed in writing. To ensure a response, questions must be received by 2:00 PM (PST) on Thursday, November 6, 2025.\n\nInterested Proposers are strongly encouraged to attend a non-mandatory pre-proposal site walk on Wednesday, November 5, 2025, at 9:00 AM (PST). The site walk will begin at the Public Works Corporation Yard’s Training Room: 1361 N. Carolan Avenue, Burlingame, CA 94010. All Interested Proposers must be present at 9:00 A.M. on Wednesday, November 5, 2025. The walk-through will take an estimated 2-3 hours.",
+        "Notes": "Technical Support: In the event you encounter technical difficulties during the uploading process, please contact the PlanetBids team as shown below (Mon-Fri from 5 A.M. to 5 P.M.): support@planetbids.com or call 818-992-1771.",
+        "Special Notices": "",
+        "Local Programs & Policies": ""
+      }
+    },
+    "Prospective Bidders": [
+      {
+        "Vendor": [
+          "Abacus Service Corporation",
+          "25925 Telegraph Road, Suite 110",
+          "Southfield, Michigan 48033",
+          "Contact: April Szlaga",
+          "Phone: 866-402-2228 ext. 8005",
+          "governmentsales@abacusservice.com"
+        ],
+        "Type": "",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Other"
+      },
+      {
+        "Vendor": [
+          "Aim to please janitorial.com",
+          "1485 Bayshore Blvd #129",
+          "San Francisco, California 94124",
+          "Contact: chris washington",
+          "Phone: 415-850-6314",
+          "Fax: 415-468-5500",
+          "cw@atpjanitorial.com"
+        ],
+        "Type": "CADIR",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "yes",
+        "Classifications": "Prime"
+      },
+      {
+        "Vendor": [
+          "Allied Solutions",
+          "300 Veterans Way",
+          "Carmel, Indiana 46032",
+          "Contact: Jason Collier",
+          "Phone: 877-328-4432",
+          "contracts@alliedsolutionenterprise.com"
+        ],
+        "Type": "",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Subcontractor"
+      },
+      {
+        "Vendor": [
+          "BRIGHT BUCKET CLEANERS LLC",
+          "1950 Broadway",
+          "Unit# 3703",
+          "Oakland, California 94612",
+          "Contact: Makky",
+          "Phone: 510-514-9395",
+          "brightbucketcleaners@gmail.com"
+        ],
+        "Type": "CADIR",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Prime"
+      },
+      {
+        "Vendor": [
+          "Builders Exchange of Santa Clara",
+          "400 Reed Street",
+          "Santa Clara, California 95050",
+          "Contact: Kanani Fonseca",
+          "Phone: 408-727-4000",
+          "Fax: 408-727-2779",
+          "kf@bxscco.com"
+        ],
+        "Type": "",
+        "Status": "Non-Bidder, receive communications",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Other"
+      },
+      {
+        "Vendor": [
+          "Built-Clean Solution LLC",
+          "3421 Sophia way",
+          "Sacramento, California 95820",
+          "Contact: Yadanny Figueroa",
+          "Phone: 916-807-8535",
+          "yadanny@built-clean.com"
+        ],
+        "Type": "",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Prime"
+      },
+      {
+        "Vendor": [
+          "CCS Facilities",
+          "3001 Red Hill Ave",
+          "9492448682",
+          "Costa Mesa, California 92626",
+          "Contact: Maryll Betzold",
+          "Phone: 720-955-5421",
+          "rfp@ccsbts.com"
+        ],
+        "Type": "",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "yes",
+        "Classifications": "Prime"
+      },
+      {
+        "Vendor": [
+          "Clean Solution Services Inc",
+          "307 Paris Street",
+          "San Francisco, California 94112",
+          "Contact: Jose Echeverria",
+          "Phone: 415-309-3701",
+          "info@cleansolutionservices.com"
+        ],
+        "Type": "",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Prime"
+      },
+      {
+        "Vendor": [
+          "Construct Connect",
+          "30 Technology Pkwy South",
+          "Suite 100",
+          "Norcross, Georgia 30092",
+          "Contact: Ashely Welker",
+          "Phone: 323-602-5079 ext. 75313",
+          "Fax: 866-570-8187",
+          "content@constructconnect.com"
+        ],
+        "Type": "",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Subcontractor"
+      },
+      {
+        "Vendor": [
+          "Dexterra Services LLC",
+          "4925 Greenville Avenue, Suite 200, #404",
+          "Dallas, Texas 75206",
+          "Contact: Ian Hodge",
+          "Phone: 888-820-0388",
+          "ian.hodge@dexterra.com"
+        ],
+        "Type": "",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Prime"
+      },
+      {
+        "Vendor": [
+          "Dozeles Professional Cleaning",
+          "276 Alta Vista Way",
+          "Daly City, California 94014",
+          "Contact: Leticia Maia",
+          "Phone: 650-290-0280",
+          "dozelescleaning@gmail.com"
+        ],
+        "Type": "CADIR",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Supplier"
+      },
+      {
+        "Vendor": [
+          "Ecobrite Franchising",
+          "2975 W Executive Pkwy Suite 141",
+          "Lehi, Utah 84048",
+          "Contact: Ana Beatriz",
+          "Phone: 954-994-6168",
+          "ana.beatriz@rffenterprises.com"
+        ],
+        "Type": "",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Other"
+      },
+      {
+        "Vendor": [
+          "Excellence Professional Cleaning Inc.",
+          "331 L st",
+          "Chula Vista, California 91911",
+          "Contact: Julio Renteria",
+          "Phone: 619-426-0066",
+          "julio@excellencepc.com"
+        ],
+        "Type": "",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Prime"
+      },
+      {
+        "Vendor": [
+          "GovGuide",
+          "1916 N Dinwiddie St.",
+          "Arlington, Virginia 22207",
+          "Contact: Connor Fusselman",
+          "Phone: 407-619-6738",
+          "rfp@yourgovguide.com"
+        ],
+        "Type": "",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Other"
+      },
+      {
+        "Vendor": [
+          "Impec Group",
+          "330 Scott Blvd #8",
+          "Santa Clara, California 95054",
+          "Contact: Joe",
+          "Phone: 408-784-2508",
+          "jcigolini@impecgroup.com"
+        ],
+        "Type": "",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "yes",
+        "Classifications": "Prime"
+      },
+      {
+        "Vendor": [
+          "Imperial Maintenance Services, Inc",
+          "8830 Cherry Hills Place",
+          "Stockton, California 95209",
+          "Contact: Marc Lopez",
+          "Phone: 916-267-5473",
+          "marc@imscleans.com"
+        ],
+        "Type": "",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Prime"
+      },
+      {
+        "Vendor": [
+          "Karla's Janitorial & Suppliers",
+          "1485 Bayshore Blvd MB #205",
+          "Suite # 399",
+          "San Francisco, California 94124",
+          "Contact: Sheyla Garcia",
+          "Phone: 415-494-5347",
+          "management@karlasjanitorial.com"
+        ],
+        "Type": "CADIR",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "yes",
+        "Classifications": "Prime"
+      },
+      {
+        "Vendor": [
+          "Kleen-Tech Services Corp.",
+          "4117 Clipper Court",
+          "Fremont, California 94538",
+          "Contact: Tracy White",
+          "Phone: 866-385-0672",
+          "Bids@Kleen-Tech.com"
+        ],
+        "Type": "",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "yes",
+        "Classifications": "Prime"
+      },
+      {
+        "Vendor": [
+          "MasterCorp Commercial Services",
+          "4700 Millenia Blvd",
+          "Orlando, Florida 32839",
+          "Contact: Katie Davis",
+          "Phone: 931-459-4480",
+          "katie.davis@mastercorp.com"
+        ],
+        "Type": "",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Prime"
+      },
+      {
+        "Vendor": [
+          "Network Facility Management LLC",
+          "761 Mabury Road STE 65",
+          "San Jose, California 95133",
+          "Contact: Edgar Cabrales",
+          "Phone: 408-398-3805",
+          "edgar@networkfs.net"
+        ],
+        "Type": "CADIR",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Prime"
+      },
+      {
+        "Vendor": [
+          "H.N.W. Building Maintenance, Inc.",
+          "2560 Teepee Drive, Suite C",
+          "Stockton, California 95205",
+          "Contact: Chris King",
+          "Phone: 209-470-9794",
+          "Chris@olyclean.com"
+        ],
+        "Type": "",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Prime"
+      },
+      {
+        "Vendor": [
+          "Platinum Cleaning & Facility Services",
+          "15303 Ventura Blvd., Suite 800",
+          "Sherman Oaks, California 90807",
+          "Contact: Ryan Lynn",
+          "Phone: 215-688-4033",
+          "gary@platinumcleaning.com"
+        ],
+        "Type": "",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Prime"
+      },
+      {
+        "Vendor": [
+          "Platinum Facility Services",
+          "3060 kenneth st",
+          "Santa clara, California 95054",
+          "Contact: Kevin Lazar",
+          "Phone: 408-941-3004",
+          "kevin@platinumfacilityservices.com"
+        ],
+        "Type": "",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "yes",
+        "Classifications": "Prime"
+      },
+      {
+        "Vendor": [
+          "Premier Property Preservation",
+          "7449 Studio Rd",
+          "West Hills, California 91304",
+          "Contact: Jon Varsobia",
+          "Phone: 818-796-6033",
+          "premier@pppreserves.com"
+        ],
+        "Type": "CADIR",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Prime"
+      },
+      {
+        "Vendor": [
+          "PRIDE Industries One, Inc.",
+          "10030 Foothills Blvd",
+          "Roseville, California 95747",
+          "Contact: Tim Vanover",
+          "Phone: 916-417-4266",
+          "tim.vanover@prideindustries.com"
+        ],
+        "Type": "",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Prime"
+      },
+      {
+        "Vendor": [
+          "Sherrod and Sons Cleaning Services",
+          "1315 South Olive Street",
+          "Santa Ana, California 92707",
+          "Contact: Damon Sherrod",
+          "Phone: 213-281-5359",
+          "damonsherrod39@gmail.com"
+        ],
+        "Type": "",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Prime"
+      },
+      {
+        "Vendor": [
+          "Top Coat Tier Painting, Inc.",
+          "205 North Delaware Street",
+          "San Mateo, California 94401",
+          "Contact: Alexander Clemente",
+          "Phone: 650-720-3411",
+          "sales@topcoattierpaint.com"
+        ],
+        "Type": "CADIR",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Prime"
+      },
+      {
+        "Vendor": [
+          "Top notch acq",
+          "5630 N. Sheridan rd",
+          "Chicago, Illinois 60660",
+          "Contact: Jamaal Banks",
+          "Phone: 240-701-9562",
+          "jamaalb@topnotchacquisitions.com"
+        ],
+        "Type": "",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Prime"
+      },
+      {
+        "Vendor": [
+          "Transpacific Building Maintenance, Inc.",
+          "3020 Scott Blvd",
+          "Santa Clara, California 95054",
+          "Contact: Jose Vibal",
+          "Phone: 408-275-6670",
+          "tbm@tbmfirst.net"
+        ],
+        "Type": "CADIR",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "yes",
+        "Classifications": "Prime"
+      },
+      {
+        "Vendor": [
+          "Universal Building Services and Supply Co.",
+          "3120 Pierce Street",
+          "Richmond, California 94804",
+          "Contact: Kristin Kirkman",
+          "Phone: 510-527-1078",
+          "Kristink@ubsco.com"
+        ],
+        "Type": "",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "yes",
+        "Classifications": "Prime"
+      }
+    ],
+    "Bid Title": "Janitorial Services"
+  },
+  {
+    "Bid Information": {
+      "Bid Detail": {
+        "Project Title": "2025-2026 Large Tree Pruning and Removal",
+        "Invitation #": "",
+        "Bid Posting Date": "11/05/2025 1:15 PM (PST)",
+        "Project Stage": "Bidding",
+        "Bid Due Date": "11/26/2025 2:00 PM (PST)",
+        "Response Format": "Electronic",
+        "Project Type": "Bid",
+        "Response Types": "Line Items\nSubcontractor\nBid Bond\nProposal Packet - Submit with Bid (required)",
+        "Type of Award": "Lump Sum",
+        "Categories": "561730 - Landscaping Services",
+        "License Requirements": "",
+        "Department": "Parks & Recreation",
+        "Address": "850 Burlingame Ave.\nBurlingame, California\n94010",
+        "County": "San Mateo",
+        "Bid Valid": "",
+        "Liquidated Damages": "",
+        "Estimated Bid Value": "",
+        "Start/Delivery Date": "",
+        "Project Duration": ""
+      },
+      "Bid Bond": {
+        "Bid Bond": "10.00%",
+        "Payment Bond": "100.00%",
+        "Performance Bond": "0.00%"
+      },
+      "Pre-Bid Meeting Information RSVP": {
+        "Pre-Bid Meeting": "Yes - Mandatory",
+        "Pre-Bid Meeting Date": "11/19/2025 10:00 AM (PST)",
+        "Pre-Bid Meeting Location": "Mandatory pre-proposal meeting will take place at the corner of Trousdale Ave. and Skyline Blvd., Burlingame, CA 94010."
+      },
+      "Online Q&A": {
+        "Online Q&A": "Yes",
+        "Q&A Deadline": "11/21/2025 12:00 PM (PST)"
+      },
+      "Contact Information": {
+        "Contact Info": "Richard Holtz 650-558-7333\nrholtz@burlingame.org",
+        "Bids to": "",
+        "Owner's Agent": ""
+      },
+      "Description": {
+        "Scope of Services": "For the 2025-2026 Large Tree Pruning and Removal, the work consists of tree removal and pruning of eucalyptus trees and other species growing adjacent railroad tracks and Skyline Blvd, Sanchez Avenue, and La Mesa Court.\n\nContractor shall be responsible for following all OSHA and ANSI regulations for safe and effective tree work. Additionally, contractor shall follow California DOT requirements for traffic control relating to direction of both vehicle and bicycle traffic. All traffic modifications shall be approved by Burlingame Public Works via an approved encroachment permit. Visit https://www.burlingame.org/900/Encroachment-Permit to view and or complete the application. Work hours are limited to weekdays between 8:00 A.M. – 5:00 P.M.",
+        "Other Details": "For the 2025-2026 Large Tree Pruning and Removal, the City will be receiving bids for this project via PB System™, a fully automated web-based vendor and bid management system. Prospective bidders should visit https://pbsystem.planetbids.com/portal/46106/portal-home to register, download bid documents, and submit their bid. All bids must be submitted to PB System™ before 2:00 P.M. on Wednesday, November 26, 2025. Bid results will be publicly opened and read at 2:30 P.M. on Wednesday, November 26, 2025. Those submitting a bid will be sent an email with the conference call information for the bid opening. Additionally, the bid results will be displayed in the PB System™ after they are publicly read.\n\nSpecial Provisions, Specifications and Plans, including prevailing wage rates to be paid in compliance with Section 1773.2 of the California Labor Code and related provisions, may be inspected in the office of the City Engineer during normal working hours at City Hall, 501 Primrose Road, Burlingame, California. Prevailing wage rates are also available for review at the State of California Department of Industrial Relations’ Web site.\n\nA mandatory pre-proposal meeting associated with this project will be held on Wednesday, November 19, 2025, at 10:00 A.M., at the corner of Trousdale Ave. and Skyline Blvd., Burlingame, CA 94010.\n\nAny questions regarding this project should be submitted through the online Q&A feature of PB System™. Questions can be submitted until 12:00 P.M. on Friday, November 21, 2025. Answers will be made available via PB System™.\n\nThe Contractor shall possess a C-61/D49 license prior to submitting a bid.\n\nNo contractors and subcontractor may be listed on the bid proposal for a public works project unless registered with the Department of Industrial Relations pursuant to Labor Code section 1725.5 [with limited exceptions from this requirement for bid purposes only under Labor Code section 1771.5(a)].\n\nAll contractors and subcontractors will be required to furnish electronic certified payroll records directly to the Labor Commissioner (aka Division of Labor Standards Enforcement).\n\nAll contractors and subcontractors will be required to submit a California Air Resources Board (CARB) compliance statement with the bid proposal. Failure to submit this statement may result in a nonresponsive bid.",
+        "Notes": "",
+        "Special Notices": "",
+        "Local Programs & Policies": ""
+      }
+    },
+    "Prospective Bidders": [
+      {
+        "Vendor": [
+          "A Plus Tree, LLC",
+          "400 Capitol Mall",
+          "Ste.900",
+          "Sacramento, California 95814",
+          "Contact: Emily Spillett-Brownlie",
+          "Phone: 707-373-8594",
+          "emily@aplustree.com"
+        ],
+        "Type": "CADIR",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Prime"
+      },
+      {
+        "Vendor": [
+          "AAA TREE SERVICE",
+          "32680 pines airpark rd",
+          "winchester, California 92596",
+          "Contact: ryan",
+          "Phone: 909-973-1348",
+          "ryan@aaatree1.com"
+        ],
+        "Type": "",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Prime"
+      },
+      {
+        "Vendor": [
+          "Allied Solutions",
+          "300 Veterans Way",
+          "Carmel, Indiana 46032",
+          "Contact: Jason Collier",
+          "Phone: 877-328-4432",
+          "contracts@alliedsolutionenterprise.com"
+        ],
+        "Type": "",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Subcontractor"
+      },
+      {
+        "Vendor": [
+          "Anvil Builders Inc.",
+          "1550 Park Ave",
+          "Emeryville, California 94608",
+          "Contact: Knox Trapa",
+          "Phone: 415-285-5000",
+          "estimating@anvilbuilders.com"
+        ],
+        "Type": "CADIR",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Prime"
+      },
+      {
+        "Vendor": [
+          "Arboricultural Specialties, Inc.",
+          "2828 8th Street",
+          "Berkeley, California 94710",
+          "Contact: Ben Brunelle",
+          "Phone: 510-549-3954",
+          "Fax: 510-548-0214",
+          "paul@professionaltreecare.com"
+        ],
+        "Type": "CADIR",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Prime"
+      },
+      {
+        "Vendor": [
+          "Bay Area Tree Specialists",
+          "541 W Capitol Expy PMB 287",
+          "San Jose, California 95121",
+          "Contact: Richard Smith",
+          "Phone: 408-836-9147",
+          "Fax: 408-784-7285",
+          "bids@bayareatreespecialists.com"
+        ],
+        "Type": "CADIR",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Prime"
+      },
+      {
+        "Vendor": [
+          "Bayscape Management, Inc",
+          "P.O. Box 880",
+          "Alviso, California 95002",
+          "Contact: Alex Padilla",
+          "Phone: 408-288-2940 ext. 229",
+          "alexp@bayscape.net"
+        ],
+        "Type": "CADIR",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Prime"
+      },
+      {
+        "Vendor": [
+          "BrightView",
+          "1564 Rollins Rd",
+          "Burlingame, California 94010",
+          "Contact: Vim Mahabir",
+          "Phone: 925-416-9355",
+          "vim.mahabir@brightview.com"
+        ],
+        "Type": "",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Prime"
+      },
+      {
+        "Vendor": [
+          "Builders Exchange of Santa Clara",
+          "400 Reed Street",
+          "Santa Clara, California 95050",
+          "Contact: Kanani Fonseca",
+          "Phone: 408-727-4000",
+          "Fax: 408-727-2779",
+          "kf@bxscco.com"
+        ],
+        "Type": "",
+        "Status": "Non-Bidder, receive communications",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Other"
+      },
+      {
+        "Vendor": [
+          "CA Traffic Solution",
+          "8201 Elder Creek Rd Suite 3A",
+          "Sacramento, California 95824",
+          "Contact: Gabriel Solis",
+          "Phone: 916-245-1768",
+          "g.solis@catrafficsolution.com"
+        ],
+        "Type": "",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Subcontractor"
+      },
+      {
+        "Vendor": [
+          "California Expert Tree Solutions",
+          "300 Muir Mill Road",
+          "Willits, California 95490",
+          "Contact: Paul Sousa",
+          "Phone: 408-910-5143",
+          "office@californiatreesolutions.com"
+        ],
+        "Type": "CADIR",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Prime"
+      },
+      {
+        "Vendor": [
+          "Community Tree Service, LLC",
+          "416 Salinas Rd",
+          "Royal Oaks, California 95076",
+          "Contact: Vanessa Benitez",
+          "Phone: 562-307-7127",
+          "vbenitez@communitytree.com"
+        ],
+        "Type": "",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Prime"
+      },
+      {
+        "Vendor": [
+          "Construct Connect",
+          "30 Technology Pkwy South",
+          "Suite 100",
+          "Norcross, Georgia 30092",
+          "Contact: Ashely Welker",
+          "Phone: 323-602-5079 ext. 75313",
+          "Fax: 866-570-8187",
+          "content@constructconnect.com"
+        ],
+        "Type": "",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Other"
+      },
+      {
+        "Vendor": [
+          "Davey Tree",
+          "1400 Mission Road",
+          "Colma, California 94014",
+          "Contact: Jamie Eisenhauer",
+          "Phone: 707-484-0439",
+          "Jamie.Eisenhauer@davey.com"
+        ],
+        "Type": "CADIR",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Prime"
+      },
+      {
+        "Vendor": [
+          "Greentek Services, LLC",
+          "2015 Challenger Ave, Suite A",
+          "Oroville, California 95965",
+          "Contact: Spencer",
+          "Phone: 530-680-6295",
+          "sriddle@greentekcorp.com"
+        ],
+        "Type": "",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Prime"
+      },
+      {
+        "Vendor": [
+          "Hamilton Tree Service",
+          "4949 Pacheco Blvd",
+          "Martinez, California 94553",
+          "Contact: Brittany Collins",
+          "Phone: 925-228-1010",
+          "office@hamiltontree.com"
+        ],
+        "Type": "",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Prime"
+      },
+      {
+        "Vendor": [
+          "Huerta's Tree Service & Development Inc",
+          "P.O. Box 968",
+          "Los Gatos, California 95031",
+          "Contact: Alfonso Huerta",
+          "Phone: 831-713-3366",
+          "alfonso@huertastreeservice.com"
+        ],
+        "Type": "",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Prime"
+      },
+      {
+        "Vendor": [
+          "JPS Tree Service LLC",
+          "50 E Longfellow Ave",
+          "Pontiac, Michigan 48340",
+          "Contact: Alcides Caceres",
+          "Phone: 313-722-2410",
+          "ceo@jpstreeservicecommercial.com"
+        ],
+        "Type": "",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Prime"
+      },
+      {
+        "Vendor": [
+          "Lagestic LLC",
+          "2323 Broadway",
+          "Oakland, California 94612",
+          "Contact: Davis Winder",
+          "Phone: 415-649-6110",
+          "estimating@lagestic.com"
+        ],
+        "Type": "CADIR",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Prime"
+      },
+      {
+        "Vendor": [
+          "MRG GENERAL CONSTRUCTION INC",
+          "708 CHARCOT AVE",
+          "San Jose, California 95131",
+          "Contact: Vincent Yoon",
+          "Phone: 510-688-8896",
+          "mrginc789@gmail.com"
+        ],
+        "Type": "CADIR",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Subcontractor"
+      },
+      {
+        "Vendor": [
+          "Rapid Response Force LLC",
+          "300 Park Center Drive",
+          "Suite 1",
+          "Hollister, California 95023",
+          "Contact: Scott Van Boerum",
+          "Phone: 973-580-6300",
+          "scott@rapidresponseforce.com"
+        ],
+        "Type": "CADIR",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Prime"
+      },
+      {
+        "Vendor": [
+          "ROLLING GREEN INC",
+          "401 W. 4th St.",
+          "San Bernardino, California 92401",
+          "Contact: Pablo Vargas",
+          "Phone: 951-360-9294",
+          "Fax: 888-846-9020",
+          "pablo.vargas@rgtreecare.com"
+        ],
+        "Type": "CADIR",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Prime"
+      },
+      {
+        "Vendor": [
+          "San Jose Conservation Corps",
+          "1560 Berger Road",
+          "San Jose, California 95112",
+          "Contact: Robert Walker",
+          "Phone: 650-796-1054",
+          "rwalker@sjcccs.org"
+        ],
+        "Type": "CADIR",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Prime"
+      },
+      {
+        "Vendor": [
+          "SkyView Tree Experts, Inc",
+          "PO Box 8326",
+          "Santa Rosa, California 95407",
+          "Contact: Dan Dunn",
+          "Phone: 707-890-1215",
+          "dan@skyview-tree.com"
+        ],
+        "Type": "CADIR",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Prime"
+      },
+      {
+        "Vendor": [
+          "T&S Tree Services LLC",
+          "13053 Eberle Rd.",
+          "Bakersfield, California 93313",
+          "Contact: Roberto Meza",
+          "Phone: 661-535-5414",
+          "office@tnstreeservices.com"
+        ],
+        "Type": "CADIR",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Prime"
+      },
+      {
+        "Vendor": [
+          "Thomas Swift",
+          "700 Tysons Corner",
+          "Tysons, Virginia 23523",
+          "Contact: Thomas Swift",
+          "Phone: 202-789-7110",
+          "thomas.swift@govbright.com"
+        ],
+        "Type": "",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Prime"
+      },
+      {
+        "Vendor": [
+          "United Pacific Services Inc",
+          "5529 Leeds Street",
+          "South Gate, California 90280",
+          "Contact: Eric Franklin",
+          "Phone: 562-691-4600 ext. 226",
+          "Fax: 562-691-8839",
+          "eric@unitedpac.com"
+        ],
+        "Type": "CADIR",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Prime"
+      },
+      {
+        "Vendor": [
+          "Utility Tree Service, LLC",
+          "16486 Bernardo Center Dr",
+          "Suite 328",
+          "San Diego, California 92128",
+          "Contact: David Kindt",
+          "Phone: 714-600-5085",
+          "dkindt@utilitytreeservice.com"
+        ],
+        "Type": "CADIR",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Prime"
+      },
+      {
+        "Vendor": [
+          "West Coast Arborists, Inc.",
+          "2200 E. Via Burton St.",
+          "Anaheim, California 92806",
+          "Contact: Victor Gonzalez",
+          "Phone: 714-991-1900 ext. 153",
+          "vgonzalez@wcainc.com"
+        ],
+        "Type": "CADIR",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Prime"
+      },
+      {
+        "Vendor": [
+          "West Coast Tree Service, Inc.",
+          "16578 Laverne Ln",
+          "Anderson, California 96007",
+          "Contact: Kevin Mellado",
+          "Phone: 559-909-5826",
+          "bids@westcoasttreeservice.com"
+        ],
+        "Type": "",
+        "Status": "Bidder",
+        "Pre-Bid Meeting Attendee": "no",
+        "Classifications": "Prime"
+      }
+    ],
+    "Bid Title": "2025-2026 Large Tree Pruning and Removal"
+  }
+]
