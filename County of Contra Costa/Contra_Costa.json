@@ -1,0 +1,691 @@
+[
+    {
+        "link": "https://www.cccplanroom.com/projects/2072/details/rfp-sherman-recovery-center",
+        "name": "RFP - Sherman Recovery Center",
+        "company": "Costa County",
+        "location": "CCC",
+        "description": "The COUNTY OF CONTRA COSTA (\u201cCounty\u201d), will receive competitive sealed Proposals from prequalified bidders who pre-qualified pursuant to the process described in the document entitled Request for Prequalification of Design/Build Entities for the Contra Costa County Sherman Recovery Center Project, dated September 2, 2025 (\u201cBidders\u201d) for the following public work: Sherman Recovery Center.",
+        "dates_info": "Prebid: 11/18/25 9:00am<br>Bid: 1/22/26 2:00pm",
+        "bid_due_status": "Bids due in 2 months",
+        "bid_date": "1/22/26 2:00pm",
+        "mobile_status": "Bids due in 2 months",
+        "notes": {
+            "full_text": "All inquiries and requests for information shall be submitted by electronic mail (e-mail) to Contra Costa County and Vanir Construction Management, Inc.\nMailing and street address for the Contra Costa County Public Works Department: Contra Costa County\nPublic Works Department, Capital Projects Division\n255 Glacier Drive Martinez, CA 94553\nContra Costa County Capital Projects:\nJeffrey K. Acuff, Sr. Project Manager\nEmail:\nJeff.Acuff@pw.cccounty.us\nTelephone: (925) 655-3130\nVanir Construction Management, Inc\nQendrese Alalusi, Project Manager\nEmail:\nqendrese.alalusi@vanir.com\nTelephone: (510) 915-3336Pre-Proposal Conference. The County and its Project management consultant, Vanir Construction Management, Inc. (Vanir) will conduct one (1) pre-Proposal submission conference, which all Bidders should attend in order for its Proposal to be considered. The proposed times and locations listed below are subject to change. In response to questions arising at the pre-Proposal conference, the County will post any addendum. County will issue minutes of the pre-Proposal conferences, which shall constitute the sole and exclusive record and statement of the results of the pre-Proposal conferences. The minutes issued by County are not Contract Documents.\nVirtual Pre-Proposal Conference: November 18, 9:00AM - 10:00AM via MS TEAMS Virtual Conference Room.",
+            "emails": [
+                "Jeff.Acuff@pw.cccounty.us",
+                "qendrese.alalusi@vanir.com"
+            ],
+            "phones": [
+                "(925) 655-3130",
+                "(510) 915-3336"
+            ],
+            "pre_proposal_conference": "November 18, 9:00AM - 10:00AM via MS TEAMS Virtual Conference Room."
+        },
+        "planholders": [
+            {
+                "date": "11/13/25 2:54 pm",
+                "company": {
+                    "name": "Bay Area Builders Exchange",
+                    "address": "3055 Alvarado Street\nSan Leandro, CA 94577"
+                },
+                "contact": {
+                    "name": "Jeannie Kwan",
+                    "title": "Plan Room Coordinator",
+                    "phones": [
+                        "Tel: 510-483-8880",
+                        "Fax: 510-352-1509"
+                    ]
+                }
+            },
+            {
+                "date": "11/13/25 2:54 pm",
+                "company": {
+                    "name": "Builder's Exchange of San Joaquin County",
+                    "address": "4561 Quail Lakes Drive, Suite B-2\nStockton, CA 95207"
+                },
+                "contact": {
+                    "name": "Joshlyn Hurles",
+                    "title": "Planroom Coordinator",
+                    "phones": [
+                        "Tel: (209) 478- 1000"
+                    ]
+                }
+            },
+            {
+                "date": "11/13/25 2:54 pm",
+                "company": {
+                    "name": "Builders Exchange of Santa Clara",
+                    "address": "400 Reed Street\nSanta Clara, CA 95050"
+                },
+                "contact": {
+                    "name": "Kanani Fonseca",
+                    "title": "",
+                    "phones": [
+                        "Tel: 408-727-4000"
+                    ]
+                }
+            },
+            {
+                "date": "11/16/25 1:22 pm",
+                "company": {
+                    "name": "Cahill Contractors LLC",
+                    "address": "425 California St\nSuite 2200\nSan Francisco, CA 94104"
+                },
+                "contact": {
+                    "name": "Veronica Ritona",
+                    "title": "",
+                    "phones": [
+                        "Tel: 707-477-8133",
+                        "Fax: n/a"
+                    ]
+                }
+            },
+            {
+                "date": "11/16/25 7:52 pm",
+                "company": {
+                    "name": "Cahill Contractors LLC",
+                    "address": "425 California St\nSuite 2200\nSan Francisco, CA 94104"
+                },
+                "contact": {
+                    "name": "Joyce Chang",
+                    "title": "Design Manager",
+                    "phones": [
+                        "Tel: 4159610171",
+                        "Fax: n/a"
+                    ]
+                }
+            },
+            {
+                "date": "11/13/25 2:54 pm",
+                "company": {
+                    "name": "Construction Bidboard, Inc.",
+                    "address": "11622 El Camino Real # 100\nSan Diego, CA"
+                },
+                "contact": {
+                    "name": "000 Plan Room",
+                    "title": "",
+                    "phones": [
+                        "Tel: 800-479-5314"
+                    ]
+                }
+            },
+            {
+                "date": "11/14/25 11:14 pm",
+                "company": {
+                    "name": "Dodge Data & Analytics",
+                    "address": "2860 S State Hwy 161\nSte 160 #501\nGrand Prairie, TX 75052"
+                },
+                "contact": {
+                    "name": "Jayalakshmi L",
+                    "title": "Other",
+                    "phones": [
+                        "Tel: 413-376-7032",
+                        "Fax: 609-336-2767"
+                    ]
+                }
+            },
+            {
+                "date": "11/13/25 2:54 pm",
+                "company": {
+                    "name": "Dodge Data and Analytics",
+                    "address": "2860 S State Highway 161\nSuite 501\nGrand Prairie, TX 75052"
+                },
+                "contact": {
+                    "name": "000 Plan Room",
+                    "title": "",
+                    "phones": [
+                        "Tel: 413-304-2008",
+                        "Fax: 306-336-2767"
+                    ]
+                }
+            },
+            {
+                "date": "11/13/25 4:39 pm",
+                "company": {
+                    "name": "Gilbane Building Company",
+                    "address": "2033 Gateway Place\nSuite 450\nSan Jose, CA 95110"
+                },
+                "contact": {
+                    "name": "Angeles Garcia-Pineda",
+                    "title": "Market Leader",
+                    "phones": [
+                        "Tel: 4158506986"
+                    ]
+                }
+            },
+            {
+                "date": "11/13/25 2:54 pm",
+                "company": {
+                    "name": "Marin Builders Exchange",
+                    "address": "660 Las Gallinas Avenue\nSan Rafael, CA 94903"
+                },
+                "contact": {
+                    "name": "000 Plan Room",
+                    "title": "",
+                    "phones": [
+                        "Tel: 415-462-1220"
+                    ]
+                }
+            },
+            {
+                "date": "11/14/25 10:37 am",
+                "company": {
+                    "name": "Net Positive Consulting Engineers",
+                    "address": "5 River Park Pl East, STE 303, Fresno CA, 93720\nFresno, CA 93720"
+                },
+                "contact": {
+                    "name": "Cody Pedersen",
+                    "title": "Marketing Coordinator",
+                    "phones": [
+                        "Tel: 5599407293"
+                    ]
+                }
+            },
+            {
+                "date": "11/14/25 8:14 am",
+                "company": {
+                    "name": "Overaa Construction",
+                    "address": "200 Parr Boulevard\nRichmond, CA 94801"
+                },
+                "contact": {
+                    "name": "Katy Hada",
+                    "title": "Senior Marketing Coordinator",
+                    "phones": [
+                        "Tel: 510-234-0926"
+                    ]
+                }
+            },
+            {
+                "date": "11/13/25 2:54 pm",
+                "company": {
+                    "name": "Stockton Builder's Exchange",
+                    "address": "7500 North West Lane\nStockton, CA 95210"
+                },
+                "contact": {
+                    "name": "Jan Luna",
+                    "title": "",
+                    "phones": [
+                        "Tel: 209-478-1005"
+                    ]
+                }
+            },
+            {
+                "date": "11/13/25 2:54 pm",
+                "company": {
+                    "name": "Valley Contractors Exchange",
+                    "address": "951 8th ST.\nChico, CA 95928"
+                },
+                "contact": {
+                    "name": "Elizabeth  Carter",
+                    "title": "",
+                    "phones": [
+                        "Tel: 530-343-1994"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "link": "https://www.cccplanroom.com/projects/2051/details/brookside-mental-health-rehabilitation-center",
+        "name": "Brookside Mental Health Rehabilitation Center",
+        "company": "Costa County",
+        "location": "CA",
+        "description": "The Project consists of the retrofit and adaptive reuse of an existing one-story, wood-framed building to create a 46-bed MHRC facility including new care suites, sleeping rooms, medical and wellness spaces, staff offices, as well as recreational and dining areas. The construction consists of hazardous material abatement, selective demolition, structural seismic upgrades, interior and exterior remodel and replacement of all MEP systems. Scope also includes upgrading commercial kitchen, installation of new fire protection, security, and access control systems, and providing new doors, windows, finishes, and anti-ligature fixtures throughout. Site improvements include new accessible entries, parking and path of travel upgrades, landscape enhancements, C3 bioretention planters, new covered patios, trash enclosure and emergency generator installation.",
+        "dates_info": "Prebid: 11/4/25 10:00am<br>Bid: 12/17/25 2:00pm",
+        "bid_due_status": "Bids due in 30 days",
+        "bid_date": "12/17/25 2:00pm",
+        "mobile_status": "Bids due in 30 days",
+        "notes": {
+            "full_text": "The budgetary estimate for the scope of work is approximately $19,000,000.\nAttendance at least one, pre-bid conference / site visit is\nmandatory\n. Pre-Bid conferences will be held on Tuesday, November 4, 2025 at 10:00 a.m. and Thursday, November 6, 2025 at 2:00 p.m. at 847B Brookside Drive, Richmond, CA. All participants are required to sign in at the site. The site visit is expected to take approximately 1.5 hours. If mandatory, failure to attend or arrival after the material start of the meeting will render bid ineligible.\nPre-bid RFI Questions regarding the contract documents should be directed in writing to the Capital Projects Management Division at\ndiane.strassmaier@pw.cccounty.us\ncc:\ntierra.andrews@vanir.com\n. All questions must be received no later than December 5, 2025 at 3:00 p.m.",
+            "emails": [
+                "diane.strassmaier@pw.cccounty.us",
+                "tierra.andrews@vanir.com"
+            ],
+            "phones": []
+        },
+        "planholders": [
+            {
+                "date": "10/17/25 4:12 pm",
+                "company": {
+                    "name": "Bay Area Builders Exchange",
+                    "address": "3055 Alvarado Street\nSan Leandro, CA 94577"
+                },
+                "contact": {
+                    "name": "Jeannie Kwan",
+                    "title": "Plan Room Coordinator",
+                    "phones": [
+                        "Tel: 510-483-8880",
+                        "Fax: 510-352-1509"
+                    ]
+                }
+            },
+            {
+                "date": "10/17/25 4:12 pm",
+                "company": {
+                    "name": "Builder's Exchange of San Joaquin County",
+                    "address": "4561 Quail Lakes Drive, Suite B-2\nStockton, CA 95207"
+                },
+                "contact": {
+                    "name": "Joshlyn Hurles",
+                    "title": "Planroom Coordinator",
+                    "phones": [
+                        "Tel: (209) 478- 1000"
+                    ]
+                }
+            },
+            {
+                "date": "10/17/25 4:19 pm",
+                "company": {
+                    "name": "Builders Exchange of Santa Clara",
+                    "address": "400 Reed Street\nSanta Clara, CA 95050"
+                },
+                "contact": {
+                    "name": "Kanani Fonseca",
+                    "title": "",
+                    "phones": [
+                        "Tel: 408-727-4000"
+                    ]
+                }
+            },
+            {
+                "date": "10/22/25 11:16 am",
+                "company": {
+                    "name": "C. Overaa & Co.",
+                    "address": "200 Parr Blvd\nRichmond, CA 94801"
+                },
+                "contact": {
+                    "name": "Jennifer Bristow",
+                    "title": "",
+                    "phones": [
+                        "Tel: 5102340926",
+                        "Fax: 5102372435"
+                    ]
+                }
+            },
+            {
+                "date": "10/17/25 4:19 pm",
+                "company": {
+                    "name": "ConstructConnect",
+                    "address": "30 Technology Pkwy., South\n#100\nNorcross, GA 30092"
+                },
+                "contact": {
+                    "name": "CMD/iSq Ft Constructconnect",
+                    "title": "",
+                    "phones": [
+                        "Tel: (800) 699-8640"
+                    ]
+                }
+            },
+            {
+                "date": "10/17/25 4:12 pm",
+                "company": {
+                    "name": "Construction Bidboard, Inc.",
+                    "address": "11622 El Camino Real # 100\nSan Diego, CA"
+                },
+                "contact": {
+                    "name": "000 Plan Room",
+                    "title": "",
+                    "phones": [
+                        "Tel: 800-479-5314"
+                    ]
+                }
+            },
+            {
+                "date": "10/17/25 4:12 pm",
+                "company": {
+                    "name": "Dodge Data and Analytics",
+                    "address": "2860 S State Highway 161\nSuite 501\nGrand Prairie, TX 75052"
+                },
+                "contact": {
+                    "name": "000 Plan Room",
+                    "title": "",
+                    "phones": [
+                        "Tel: 413-304-2008",
+                        "Fax: 306-336-2767"
+                    ]
+                }
+            },
+            {
+                "date": "10/27/25 10:51 am",
+                "company": {
+                    "name": "Guzman Construction Group, Inc.",
+                    "address": "885 Folsom Street\nSan Francisco, CA 94107"
+                },
+                "contact": {
+                    "name": "Daniella Jimenez",
+                    "title": "",
+                    "phones": [
+                        "Tel: 4158212522"
+                    ]
+                }
+            },
+            {
+                "date": "11/13/25 10:26 am",
+                "company": {
+                    "name": "Lathrop Construction",
+                    "address": "4001 Park Road\nBenicia, CA 94510"
+                },
+                "contact": {
+                    "name": "Rick Martellaro",
+                    "title": "",
+                    "phones": [
+                        "Tel: 7077468000"
+                    ]
+                }
+            },
+            {
+                "date": "10/17/25 4:12 pm",
+                "company": {
+                    "name": "Marin Builders Exchange",
+                    "address": "660 Las Gallinas Avenue\nSan Rafael, CA 94903"
+                },
+                "contact": {
+                    "name": "000 Plan Room",
+                    "title": "",
+                    "phones": [
+                        "Tel: 415-462-1220"
+                    ]
+                }
+            },
+            {
+                "date": "11/12/25 2:42 pm",
+                "company": {
+                    "name": "Nibbi Bros, Associates, Inc.",
+                    "address": ""
+                },
+                "contact": {
+                    "name": "Hannah A.",
+                    "title": "",
+                    "phones": []
+                }
+            },
+            {
+                "date": "11/7/25 2:23 pm",
+                "company": {
+                    "name": "Nibbi Bros. Associates, Inc.",
+                    "address": "1000 Brannan Street\nSuite 102\nSan Francisco, CA 94103"
+                },
+                "contact": {
+                    "name": "Muhammed Salam",
+                    "title": "Business Development Coordinator",
+                    "phones": [
+                        "Tel: 4152871539"
+                    ]
+                }
+            },
+            {
+                "date": "11/12/25 2:41 pm",
+                "company": {
+                    "name": "Nibbi Bros. Associates, Inc.",
+                    "address": ""
+                },
+                "contact": {
+                    "name": "Noe",
+                    "title": "V.",
+                    "phones": []
+                }
+            },
+            {
+                "date": "11/11/25 9:14 pm",
+                "company": {
+                    "name": "Singular Builders",
+                    "address": "101 Montgomery Street\n20th Floor\nSan Francisco, CA 94104"
+                },
+                "contact": {
+                    "name": "Wendy Sitler",
+                    "title": "Project Manager",
+                    "phones": [
+                        "Tel: 5107170515"
+                    ]
+                }
+            },
+            {
+                "date": "10/17/25 4:12 pm",
+                "company": {
+                    "name": "Stockton Builder's Exchange",
+                    "address": "7500 North West Lane\nStockton, CA 95210"
+                },
+                "contact": {
+                    "name": "Jan Luna",
+                    "title": "",
+                    "phones": [
+                        "Tel: 209-478-1005"
+                    ]
+                }
+            },
+            {
+                "date": "10/17/25 4:12 pm",
+                "company": {
+                    "name": "Valley Contractors Exchange",
+                    "address": "951 8th ST.\nChico, CA 95928"
+                },
+                "contact": {
+                    "name": "Elizabeth  Carter",
+                    "title": "",
+                    "phones": [
+                        "Tel: 530-343-1994"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "link": "https://www.cccplanroom.com/projects/2040/details/old-juvenile-hall-demolition",
+        "name": "Old Juvenile Hall Demolition",
+        "company": "Costa County",
+        "location": "Works Department Conference Room G in BLDG 500, 255 Glacier Drive, Martinez, California",
+        "description": "",
+        "dates_info": "Prebid: 10/21/25 11:00am<br>Bid: 12/3/25 2:00pm",
+        "bid_due_status": "Bids due in 16 days",
+        "bid_date": "12/3/25 2:00pm",
+        "mobile_status": "Bids due in 16 days",
+        "notes": {
+            "full_text": "The project includes two phases:\nPhase 1 - Provide security fencing along the perimeter of the scope of work area. - Installation of new temporary contractor laydown area. - Installation of H-piles to support existing walls and new concrete retaining walls. - Infill existing windows at stairwells to remain. - Installation of new steel for fence truss support and new chain link fence at new concrete wall. - Installation of the new emergency generator, concrete pad, chain link enclosure, conduits, feeders, panels, etc. Provide a fully functioning emergency generator power connection into the electrical panel in the Monticello basement. - Installation of new concrete/chain link security wall at play yard east. Installation of chain link security fencing at basketball court area north and east sides. - Removal and abatement of all hazardous materials indicated on the contract documents and hazardous reports provided by owner.\nPhase 2 - Removal of existing emergency generator, chain link enclosure, and all remaining electrical elements between the existing generator and the new generator locations. - All other demolition or new construction activities indicated on the contract documents include: o The demolition and removal of the old juvenile hall, boys\u2019 and girls\u2019 wings, classroom building and site features shown to be removed. o Removal of existing buildings/footings, concrete security walls, utility tunnels, and other building features defined on the drawings. Removal of all mechanical, electrical, fire alarm, fire sprinklers, and plumbing elements within the building. o Removal of all site utilities shown to be removed to their point of connection. Cap utility connections at their source. o Removal of hardscape materials, trees, shrubs, fencing, concrete walls, security fencing & enclosures. - Install new storm drains and drop inlets. - Backfill trenches to 90% compaction. Provide as-built drawings of all underground utilities removed. - Import engineered fill and grading per documents - Install new irrigation system, landscaping, and hydroseed site per contract documents.\nThe estimated construction contract cost (Base bid) is $6,217,000.00, including a $200,000 owner\u2019s contingency.\nA pre-bid conference will be held on October 21, 2025 at 11:00 a.m., at the Training Center, 100 Glacier Dr., Martinez, CA 94553. Discussion will cover recommended outreach efforts, resources, and any other subjects of interest to attendees. Immediately following the pre-bid conference on October 21, 2025, there will be an in- person Job Site Visit at 202 Glacier Dr., Martinez, CA 94553.\n**Because of the restrictive nature of the facilities, the exterior of the buildings and site will only be open for inspection by bidders on October 21, 2025.",
+            "emails": [],
+            "phones": []
+        },
+        "planholders": [
+            {
+                "date": "10/8/25 2:24 pm",
+                "company": {
+                    "name": "Bay Area Builders Exchange",
+                    "address": "3055 Alvarado Street\nSan Leandro, CA 94577"
+                },
+                "contact": {
+                    "name": "Jeannie Kwan",
+                    "title": "Plan Room Coordinator",
+                    "phones": [
+                        "Tel: 510-483-8880",
+                        "Fax: 510-352-1509"
+                    ]
+                }
+            },
+            {
+                "date": "10/8/25 2:24 pm",
+                "company": {
+                    "name": "Builder's Exchange of San Joaquin County",
+                    "address": "4561 Quail Lakes Drive, Suite B-2\nStockton, CA 95207"
+                },
+                "contact": {
+                    "name": "Joshlyn Hurles",
+                    "title": "Planroom Coordinator",
+                    "phones": [
+                        "Tel: (209) 478- 1000"
+                    ]
+                }
+            },
+            {
+                "date": "10/15/25 6:48 am",
+                "company": {
+                    "name": "Construct Connect",
+                    "address": ""
+                },
+                "contact": {
+                    "name": "Rye Jumuad",
+                    "title": "",
+                    "phones": [
+                        "Tel: 323.602.5079"
+                    ]
+                }
+            },
+            {
+                "date": "10/8/25 2:24 pm",
+                "company": {
+                    "name": "Construction Bidboard, Inc.",
+                    "address": "11622 El Camino Real # 100\nSan Diego, CA"
+                },
+                "contact": {
+                    "name": "000 Plan Room",
+                    "title": "",
+                    "phones": [
+                        "Tel: 800-479-5314"
+                    ]
+                }
+            },
+            {
+                "date": "10/8/25 2:24 pm",
+                "company": {
+                    "name": "Dodge Data and Analytics",
+                    "address": "2860 S State Highway 161\nSuite 501\nGrand Prairie, TX 75052"
+                },
+                "contact": {
+                    "name": "000 Plan Room",
+                    "title": "",
+                    "phones": [
+                        "Tel: 413-304-2008",
+                        "Fax: 306-336-2767"
+                    ]
+                }
+            },
+            {
+                "date": "10/27/25 2:58 pm",
+                "company": {
+                    "name": "FRC, Inc.",
+                    "address": "9680 Old Redwood Highway\nWindsor, CA 95492"
+                },
+                "contact": {
+                    "name": "Frank Ruggirello",
+                    "title": "",
+                    "phones": [
+                        "Tel: 7078375065",
+                        "Fax: 707-837-5623"
+                    ]
+                }
+            },
+            {
+                "date": "10/10/25 9:21 am",
+                "company": {
+                    "name": "Goodfellow Bros, Inc",
+                    "address": "50 Contractors Street\nLivermore, CA 94551"
+                },
+                "contact": {
+                    "name": "Shawna Garcia",
+                    "title": "Estimating Assistant",
+                    "phones": [
+                        "Tel: 925-449-5764",
+                        "Fax: 925-449-5875"
+                    ]
+                }
+            },
+            {
+                "date": "10/16/25 11:41 am",
+                "company": {
+                    "name": "Integrated Demolition and Remediation Inc.",
+                    "address": "4938 E. La Palma Ave\nAnaheim, CA 92807"
+                },
+                "contact": {
+                    "name": "POOJA SHAH",
+                    "title": "Marketing",
+                    "phones": [
+                        "Tel: 714-340-3333",
+                        "Fax: 714-709-4729"
+                    ]
+                }
+            },
+            {
+                "date": "11/14/25 10:38 am",
+                "company": {
+                    "name": "M V P Construction LLC",
+                    "address": "428 N. Buchanan Circle #15\nPacheco, CA 94553"
+                },
+                "contact": {
+                    "name": "Michael Vila",
+                    "title": "President",
+                    "phones": [
+                        "Tel: 9255861478"
+                    ]
+                }
+            },
+            {
+                "date": "10/8/25 2:24 pm",
+                "company": {
+                    "name": "Marin Builders Exchange",
+                    "address": "660 Las Gallinas Avenue\nSan Rafael, CA 94903"
+                },
+                "contact": {
+                    "name": "000 Plan Room",
+                    "title": "",
+                    "phones": [
+                        "Tel: 415-462-1220"
+                    ]
+                }
+            },
+            {
+                "date": "10/21/25 1:53 pm",
+                "company": {
+                    "name": "Power 1",
+                    "address": "1300 Oliver Road\nSuite 185\nFairfield, CA 94534"
+                },
+                "contact": {
+                    "name": "Kris Huff",
+                    "title": "",
+                    "phones": [
+                        "Tel: 7079778247"
+                    ]
+                }
+            },
+            {
+                "date": "10/9/25 2:39 pm",
+                "company": {
+                    "name": "Resource Environmental, Inc.",
+                    "address": "13100 Alondra Blvd\nSuite 108\nLong Beach, CA 90805"
+                },
+                "contact": {
+                    "name": "Albert Sanchez",
+                    "title": "",
+                    "phones": [
+                        "Tel: 562-468-7000"
+                    ]
+                }
+            },
+            {
+                "date": "10/8/25 2:24 pm",
+                "company": {
+                    "name": "Stockton Builder's Exchange",
+                    "address": "7500 North West Lane\nStockton, CA 95210"
+                },
+                "contact": {
+                    "name": "Jan Luna",
+                    "title": "",
+                    "phones": [
+                        "Tel: 209-478-1005"
+                    ]
+                }
+            },
+            {
+                "date": "10/8/25 2:24 pm",
+                "company": {
+                    "name": "Valley Contractors Exchange",
+                    "address": "951 8th ST.\nChico, CA 95928"
+                },
+                "contact": {
+                    "name": "Elizabeth  Carter",
+                    "title": "",
+                    "phones": [
+                        "Tel: 530-343-1994"
+                    ]
+                }
+            }
+        ]
+    }
+]
