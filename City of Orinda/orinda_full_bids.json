@@ -18,6 +18,12 @@
         "Business Hours": "8:00 a.m. to 5:30 p.m.",
         "Miscellaneous": "A non-mandatory pre-bid meeting will be held at the Orinda Library located at 26 Orinda Way, Orinda CA 94563 on Thursday November 20, 2025  at 10:00 AM",
         "Related Documents": "Library Exterior Accent Tile NTB Nov",
+        "Documents": [
+            {
+                "title": "Library Exterior Accent Tile NTB Nov",
+                "url": "https://www.cityoforinda.gov/DocumentCenter/View/5565"
+            }
+        ],
         "Detail URL": "https://www.cityoforinda.gov/bids.aspx?bidID=108"
     },
     {
@@ -39,6 +45,12 @@
         "Qualifications": "The Contractor shall possess a valid Class C-7 License at the time the Contract is awarded.",
         "Miscellaneous": "See Notice to Bidders.\nA non-mandatory pre-bid meeting will be held at the City Hall, 22 Orinda Way, Orinda, CA 94563\nWednesday, November 24th at 2:00pm",
         "Related Documents": "NTB Verkada  Camera and Security Device Installation",
+        "Documents": [
+            {
+                "title": "NTB Verkada  Camera and Security Device Installation",
+                "url": "https://www.cityoforinda.gov/DocumentCenter/View/5570"
+            }
+        ],
         "Detail URL": "https://www.cityoforinda.gov/bids.aspx?bidID=109"
     }
 ]

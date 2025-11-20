@@ -44,6 +44,20 @@ def scrape_detail(url):
             elif value and current_key:
                 data[current_key] = value.get_text("\n", strip=True)
 
+    documents = []
+
+    doc_links = soup.find_all("a", href=lambda x: x and "/DocumentCenter/View/" in x)
+    
+    for link in doc_links:
+        doc_info = {
+            "title": clean_text(link),
+            "url": BASE + link.get("href").lstrip("/")
+        }
+        documents.append(doc_info)
+    
+    if documents:
+        data["Documents"] = documents
+
     data["Detail URL"] = url
 
     return data

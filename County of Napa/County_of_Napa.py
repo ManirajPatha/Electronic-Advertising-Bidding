@@ -3,6 +3,7 @@ from bs4 import BeautifulSoup
 import json
 import time
 import re
+from urllib.parse import urljoin
 
 class NapaCountyScraper:
     def __init__(self):
@@ -107,24 +108,32 @@ class NapaCountyScraper:
                                 if detail_text:
                                     bid_details[key] = detail_text
                            
-                            i += 2
                             continue
                     i += 1
            
             attachments = []
+            seen_urls = set()
+            
             links = soup.find_all('a', href=True)
             for link in links:
                 href = link.get('href', '')
-                if any(ext in href.lower() for ext in ['.pdf', '.doc', '.docx', '.xls', '.xlsx', '.zip']):
-                    if not href.startswith('http'):
-                        href = f"https://www.napacounty.gov/{href.lstrip('/')}"
-                   
+
+                is_document = (
+                    '/DocumentCenter/' in href or
+                    any(ext in href.lower() for ext in ['.pdf', '.doc', '.docx', '.xls', '.xlsx', '.zip', '.txt'])
+                )
+                
+                if is_document:
+                    absolute_url = urljoin('https://www.napacounty.gov/', href)
+                    
                     link_text = link.get_text(strip=True)
-                    if link_text and href not in [a['url'] for a in attachments]:
+                    
+                    if link_text and absolute_url not in seen_urls:
                         attachments.append({
                             'name': link_text,
-                            'url': href
+                            'url': absolute_url
                         })
+                        seen_urls.add(absolute_url)
            
             if attachments:
                 bid_details['attachments'] = attachments
@@ -177,7 +186,7 @@ class NapaCountyScraper:
                             bid_info['detail_link'] = title_link.get('href', '')
                            
                             if bid_info['detail_link'] and not bid_info['detail_link'].startswith('http'):
-                                bid_info['detail_link'] = f"https://www.napacounty.gov/{bid_info['detail_link']}"
+                                bid_info['detail_link'] = urljoin('https://www.napacounty.gov/', bid_info['detail_link'])
                        
                         small_spans = title_div.find_all('span', style=re.compile(r'font-size.*0\.75em', re.I))
                         for span in small_spans:
@@ -232,12 +241,13 @@ class NapaCountyScraper:
                 all_bids.extend(category_bids)
            
             detailed_bids = []
-            for bid in all_bids:
+            for i, bid in enumerate(all_bids, 1):
                 try:
                     detail_link = bid.get('detail_link')
                     if detail_link:
+                        print(f"Processing bid {i}/{len(all_bids)}: {bid.get('bid_number', 'Unknown')}")
                         details = self.extract_bid_details(detail_link)
-                       
+
                         bid.update(details)
                         detailed_bids.append(bid)
                    
@@ -272,7 +282,10 @@ def main():
     try:
         print("Starting to scrape Napa County bids...")
         bids = scraper.scrape_all_bids()
-        print(f"Scraped {len(bids)} bids")
+        print(f"\nScraped {len(bids)} bids")
+       
+        total_docs = sum(len(bid.get('attachments', [])) for bid in bids)
+        print(f"Found {total_docs} total document links")
        
         scraper.save_to_json(bids)
         print(f"Data saved to napa_county_bids.json")

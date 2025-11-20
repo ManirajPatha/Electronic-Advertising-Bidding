@@ -110,18 +110,60 @@ class HumboldtCountyScraper:
                     i += 1
           
             attachments = []
+            seen_urls = set()
+            
             links = soup.find_all('a', href=True)
             for link in links:
                 href = link.get('href', '')
-                if any(ext in href.lower() for ext in ['.pdf', '.doc', '.docx', '.xls', '.xlsx', '.zip']):
+                link_text = link.get_text(strip=True)
+                
+                if not link_text or not href:
+                    continue
+
+                is_document = False
+
+                if any(ext in href.lower() for ext in ['.pdf', '.doc', '.docx', '.xls', '.xlsx', '.zip', '.txt', '.csv']):
+                    is_document = True
+
+                if '/DocumentCenter/View/' in href:
+                    is_document = True
+
+                if link.get('target') == '_blank' and 'DocumentCenter' in href:
+                    is_document = True
+
+                if is_document:
                     if not href.startswith('http'):
-                        href = f"{self.base_domain}/{href.lstrip('/')}"
-                  
-                    link_text = link.get_text(strip=True)
-                    if link_text and href not in [a['url'] for a in attachments]:
+                        full_url = f"{self.base_domain}/{href.lstrip('/')}"
+                    else:
+                        full_url = href
+                    
+                    if full_url not in seen_urls:
+                        seen_urls.add(full_url)
                         attachments.append({
                             'name': link_text,
-                            'url': href
+                            'url': full_url
+                        })
+
+            related_docs = soup.find_all('div', {'class': 'relatedDocuments'})
+            for doc_div in related_docs:
+                doc_links = doc_div.find_all('a', href=True)
+                for link in doc_links:
+                    href = link.get('href', '')
+                    link_text = link.get_text(strip=True)
+                    
+                    if not href or not link_text:
+                        continue
+                    
+                    if not href.startswith('http'):
+                        full_url = f"{self.base_domain}/{href.lstrip('/')}"
+                    else:
+                        full_url = href
+                    
+                    if full_url not in seen_urls:
+                        seen_urls.add(full_url)
+                        attachments.append({
+                            'name': link_text,
+                            'url': full_url
                         })
           
             if attachments:

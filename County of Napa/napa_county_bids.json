@@ -1,6 +1,27 @@
 [
   {
     "category": "Construction, Roads and Public Works",
+    "detail_link": "https://www.napacounty.gov/bids.aspx?bidID=513",
+    "bid_number": "RDS 15-23 BRLS 5921(096)",
+    "preview": "Landscape and Irrigation Plans for Chiles Pope Bridge Replacement RDS 15-23 BRLS 5921(096)",
+    "status": "Open",
+    "bid_title": "Landscape and Irrigation Plans for Chiles Pope Bridge Replacement RDS 15-23 BRLS 5921(096)",
+    "description": "PROJECT DESCRIPTION: This project includes but is not limited to planting, irrigation, watering, and monitoring. ENGINEER'S ESTIMATE: $500,000.\nRESPONSES MUST BE SUBMITTED ELECTRONICALLY TO:https://procurement.opengov.com/portal/countyofnapa",
+    "publication_date_time": "11/18/2025 3:30 PM",
+    "publication_information": "NV Register",
+    "closing_date_time": "12/11/2025 11:30 AM",
+    "qualifications": "REQUIRED BIDDER LICENSE CLASS: Class A",
+    "related_documents": "RDS 15-23 Notice to Contractors (PDF)",
+    "attachments": [
+      {
+        "name": "RDS 15-23 Notice to Contractors (PDF)",
+        "url": "https://www.napacounty.gov/DocumentCenter/View/39832"
+      }
+    ],
+    "opengov_portal": "https://procurement.opengov.com/portal/countyofnapa"
+  },
+  {
+    "category": "Construction, Roads and Public Works",
     "detail_link": "https://www.napacounty.gov/bids.aspx?bidID=511",
     "bid_number": "LB 18-02",
     "preview": "LBRID Phase 2 Wastewater Ponds Rehabilitation Project, LB 18-02",
@@ -16,6 +37,29 @@
   },
   {
     "category": "Construction, Roads and Public Works",
+    "detail_link": "https://www.napacounty.gov/bids.aspx?bidID=512",
+    "bid_number": "PW 26-100",
+    "preview": "Napa County 555 Gateway Boulevard and BHTC Improvements, PW 26-100",
+    "status": "Open",
+    "bid_title": "Napa County 555 Gateway Boulevard and BHTC Improvements, PW 26-100",
+    "description": "PROJECT DESCRIPTION: The project includes but is not limited to: BHTC This is the conversion of a 72-bed staff secure re-entry building (currently used only for probation administration) to a Health and Human Services facility that includes a mental health resource center, sobering, detox, and other residential programs. The current project consists of a main building (V-A construction) and four dormitories (V-B construction).\n555 GATEWAY This project completes the tenant improvements to the existing 2-story building for use by Probation Child Support Services. While the majority of tenant improvements will be done under a separate contract (including conduit, j-boxes, and frame prep for electric strikes) the scope of this project includes systems furniture and other furniture procurement and installation and associated work. The projects also includes security and door access scope.\nhttps://procurement.opengov.com/portal/countyofnapa",
+    "publication_date_time": "11/18/2025 2:00 PM",
+    "publication_information": "NV Register",
+    "closing_date_time": "12/18/2025 11:30 AM",
+    "qualifications": "REQUIRED BIDDER LICENSE CLASS: Class B",
+    "special_requirements": "Mandatory Job walk",
+    "miscellaneous": "BHTC engineer's estimate: $2.5 Million555 Gateway Boulevard engineer's estimate: $1.5 Million",
+    "related_documents": "PW 26-100 Notice to Contractors (PDF)",
+    "attachments": [
+      {
+        "name": "PW 26-100 Notice to Contractors (PDF)",
+        "url": "https://www.napacounty.gov/DocumentCenter/View/39829"
+      }
+    ],
+    "opengov_portal": "https://procurement.opengov.com/portal/countyofnapa"
+  },
+  {
+    "category": "Construction, Roads and Public Works",
     "detail_link": "https://www.napacounty.gov/bids.aspx?bidID=121",
     "preview": "Napa County Public Works Annual Letter for 2025",
     "status": "Open",
@@ -24,7 +68,13 @@
     "publication_date_time": "11/14/2024 10:40 AM",
     "closing_date_time": "Open Until Contracted",
     "contact_person": "[email protected]",
-    "related_documents": "Napa County Public Works Annual letter 2025 (PDF)"
+    "related_documents": "Napa County Public Works Annual letter 2025 (PDF)",
+    "attachments": [
+      {
+        "name": "Napa County Public Works Annual letter 2025 (PDF)",
+        "url": "https://www.napacounty.gov/DocumentCenter/View/27011"
+      }
+    ]
   },
   {
     "category": "Construction, Roads and Public Works",
@@ -39,6 +89,12 @@
     "closing_date_time": "11/21/2025 4:30 PM",
     "qualifications": "The Contractor shall possess a Class A license at the time of contract award.",
     "related_documents": "Floodwalls North of the Bypass_FC26-01_NTC (PDF)",
+    "attachments": [
+      {
+        "name": "Floodwalls North of the Bypass_FC26-01_NTC (PDF)",
+        "url": "https://www.napacounty.gov/DocumentCenter/View/39460"
+      }
+    ],
     "opengov_portal": "https://procurement.opengov.com/portal/countyofnapa"
   }
 ]

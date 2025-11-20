@@ -6,6 +6,7 @@ from selenium.common.exceptions import TimeoutException, NoSuchElementException
 from bs4 import BeautifulSoup
 import json
 import time
+import re
 from datetime import datetime
 
 
@@ -35,19 +36,21 @@ class CalTransScraper:
                 return []
             
             items = []
-            rows = table.find('tbody').find_all('tr')
-            
-            for row in rows:
-                cols = row.find_all('td')
-                if len(cols) >= 5:
-                    item = {
-                        'item_no': cols[0].get_text(strip=True),
-                        'item_code': cols[1].get_text(strip=True),
-                        'description': cols[2].get_text(strip=True),
-                        'unit_of_measure': cols[3].get_text(strip=True),
-                        'estimated_quantity': cols[4].get_text(strip=True)
-                    }
-                    items.append(item)
+            tbody = table.find('tbody')
+            if tbody:
+                rows = tbody.find_all('tr')
+                
+                for row in rows:
+                    cols = row.find_all('td')
+                    if len(cols) >= 5:
+                        item = {
+                            'item_no': cols[0].get_text(strip=True),
+                            'item_code': cols[1].get_text(strip=True),
+                            'description': cols[2].get_text(strip=True),
+                            'unit_of_measure': cols[3].get_text(strip=True),
+                            'estimated_quantity': cols[4].get_text(strip=True)
+                        }
+                        items.append(item)
             
             return items
         except Exception as e:
@@ -68,31 +71,34 @@ class CalTransScraper:
                 return []
             
             inquiries = []
-            inquiry_blocks = inquiries_div.find_all('div', {'ng-repeat': 'item in c.data.list track by item.sys_id'})
+            inquiry_blocks = inquiries_div.find_all('div', recursive=True)
             
             for block in inquiry_blocks:
-                inquiry_text = block.find('p')
-                if inquiry_text:
-                    strong_tag = inquiry_text.find('strong')
-                    inquiry_title = strong_tag.get_text(strip=True) if strong_tag else ""
-                    
-                    question = inquiry_text.get_text(strip=True)
-                    
-                    em_tag = inquiry_text.find('em')
-                    submitted_date = em_tag.get_text(strip=True) if em_tag else ""
-                    
-                    responses = []
-                    response_divs = block.find_all('div', {'ng-repeat': 'response in item.responses'})
-                    for resp_div in response_divs:
-                        resp_text = resp_div.get_text(strip=True)
-                        responses.append(resp_text)
-                    
-                    inquiries.append({
-                        'inquiry_title': inquiry_title,
-                        'question': question,
-                        'submitted_date': submitted_date,
-                        'responses': responses
-                    })
+                if block.get('ng-repeat') and 'item in c.data.list' in str(block.get('ng-repeat')):
+                    inquiry_text = block.find('p')
+                    if inquiry_text:
+                        strong_tag = inquiry_text.find('strong')
+                        inquiry_title = strong_tag.get_text(strip=True) if strong_tag else ""
+                        
+                        question = inquiry_text.get_text(strip=True)
+                        
+                        em_tag = inquiry_text.find('em')
+                        submitted_date = em_tag.get_text(strip=True) if em_tag else ""
+                        
+                        responses = []
+                        response_divs = block.find_all('div')
+                        for resp_div in response_divs:
+                            if resp_div.get('ng-repeat') and 'response in item.responses' in str(resp_div.get('ng-repeat')):
+                                resp_text = resp_div.get_text(strip=True)
+                                if resp_text:
+                                    responses.append(resp_text)
+                        
+                        inquiries.append({
+                            'inquiry_title': inquiry_title,
+                            'question': question,
+                            'submitted_date': submitted_date,
+                            'responses': responses
+                        })
             
             return inquiries
         except Exception as e:
@@ -113,29 +119,30 @@ class CalTransScraper:
                 return []
             
             optins = []
-            optin_blocks = optins_div.find_all('div', {'ng-repeat': 'item in c.data.list track by item.sys_id'})
+            optin_blocks = optins_div.find_all('div', recursive=True)
             
             for block in optin_blocks:
-                contractor = self._extract_field(block, 'Contractor:')
-                contact = self._extract_field(block, 'Contact:')
-                address = self._extract_field(block, 'Address:')
-                phone = self._extract_field(block, 'Phone:')
-                fax = self._extract_field(block, 'Fax:')
-                email_tag = block.find('a', href=lambda x: x and 'mailto:' in x)
-                email = email_tag.get_text(strip=True) if email_tag else "N/A"
-                disadvantaged = self._extract_field(block, 'Disadvantaged status:')
-                services = self._extract_field(block, 'Services:')
-                
-                optins.append({
-                    'contractor': contractor,
-                    'contact': contact,
-                    'address': address,
-                    'phone': phone,
-                    'fax': fax,
-                    'email': email,
-                    'disadvantaged_status': disadvantaged,
-                    'services': services
-                })
+                if block.get('ng-repeat') and 'item in c.data.list' in str(block.get('ng-repeat')):
+                    contractor = self._extract_field(block, 'Contractor:')
+                    contact = self._extract_field(block, 'Contact:')
+                    address = self._extract_field(block, 'Address:')
+                    phone = self._extract_field(block, 'Phone:')
+                    fax = self._extract_field(block, 'Fax:')
+                    email_tag = block.find('a', href=lambda x: x and 'mailto:' in x)
+                    email = email_tag.get_text(strip=True) if email_tag else "N/A"
+                    disadvantaged = self._extract_field(block, 'Disadvantaged status:')
+                    services = self._extract_field(block, 'Services:')
+                    
+                    optins.append({
+                        'contractor': contractor,
+                        'contact': contact,
+                        'address': address,
+                        'phone': phone,
+                        'fax': fax,
+                        'email': email,
+                        'disadvantaged_status': disadvantaged,
+                        'services': services
+                    })
             
             return optins
         except Exception as e:
@@ -156,31 +163,32 @@ class CalTransScraper:
                 return []
             
             primes = []
-            prime_blocks = prime_div.find_all('div', {'ng-repeat': 'item in c.data.list track by item.sys_id'})
+            prime_blocks = prime_div.find_all('div', recursive=True)
             
             for block in prime_blocks:
-                contractor = self._extract_field(block, 'Contractor:')
-                contact = self._extract_field(block, 'Contact:')
-                address = self._extract_field(block, 'Address:')
-                phone = self._extract_field(block, 'Phone:')
-                fax = self._extract_field(block, 'Fax:')
-                email_tag = block.find('a', href=lambda x: x and 'mailto:' in x)
-                email = email_tag.get_text(strip=True) if email_tag else "N/A"
-                services = self._extract_field(block, 'Services needed:')
-                requirements = self._extract_field(block, 'Requirements:')
-                date_posted = self._extract_field(block, 'Date posted:')
-                
-                primes.append({
-                    'contractor': contractor,
-                    'contact': contact,
-                    'address': address,
-                    'phone': phone,
-                    'fax': fax,
-                    'email': email,
-                    'services_needed': services,
-                    'requirements': requirements,
-                    'date_posted': date_posted
-                })
+                if block.get('ng-repeat') and 'item in c.data.list' in str(block.get('ng-repeat')):
+                    contractor = self._extract_field(block, 'Contractor:')
+                    contact = self._extract_field(block, 'Contact:')
+                    address = self._extract_field(block, 'Address:')
+                    phone = self._extract_field(block, 'Phone:')
+                    fax = self._extract_field(block, 'Fax:')
+                    email_tag = block.find('a', href=lambda x: x and 'mailto:' in x)
+                    email = email_tag.get_text(strip=True) if email_tag else "N/A"
+                    services = self._extract_field(block, 'Services needed:')
+                    requirements = self._extract_field(block, 'Requirements:')
+                    date_posted = self._extract_field(block, 'Date posted:')
+                    
+                    primes.append({
+                        'contractor': contractor,
+                        'contact': contact,
+                        'address': address,
+                        'phone': phone,
+                        'fax': fax,
+                        'email': email,
+                        'services_needed': services,
+                        'requirements': requirements,
+                        'date_posted': date_posted
+                    })
             
             return primes
         except Exception as e:
@@ -201,27 +209,28 @@ class CalTransScraper:
                 return []
             
             holders = []
-            holder_blocks = holders_div.find_all('div', {'ng-repeat': 'item in c.data.list track by item.sys_id'})
+            holder_blocks = holders_div.find_all('div', recursive=True)
             
             for block in holder_blocks:
-                contractor = self._extract_field(block, 'Contractor:')
-                contact = self._extract_field(block, 'Contact:')
-                address = self._extract_field(block, 'Address:')
-                phone = self._extract_field(block, 'Phone:')
-                fax = self._extract_field(block, 'Fax:')
-                email_tag = block.find('a', href=lambda x: x and 'mailto:' in x)
-                email = email_tag.get_text(strip=True) if email_tag else "N/A"
-                date_downloaded = self._extract_field(block, 'Date Downloaded:')
-                
-                holders.append({
-                    'contractor': contractor,
-                    'contact': contact,
-                    'address': address,
-                    'phone': phone,
-                    'fax': fax,
-                    'email': email,
-                    'date_downloaded': date_downloaded
-                })
+                if block.get('ng-repeat') and 'item in c.data.list' in str(block.get('ng-repeat')):
+                    contractor = self._extract_field(block, 'Contractor:')
+                    contact = self._extract_field(block, 'Contact:')
+                    address = self._extract_field(block, 'Address:')
+                    phone = self._extract_field(block, 'Phone:')
+                    fax = self._extract_field(block, 'Fax:')
+                    email_tag = block.find('a', href=lambda x: x and 'mailto:' in x)
+                    email = email_tag.get_text(strip=True) if email_tag else "N/A"
+                    date_downloaded = self._extract_field(block, 'Date Downloaded:')
+                    
+                    holders.append({
+                        'contractor': contractor,
+                        'contact': contact,
+                        'address': address,
+                        'phone': phone,
+                        'fax': fax,
+                        'email': email,
+                        'date_downloaded': date_downloaded
+                    })
             
             return holders
         except Exception as e:
@@ -234,7 +243,13 @@ class CalTransScraper:
         if field_name in text:
             start = text.find(field_name) + len(field_name)
             end = text.find('\n', start) if '\n' in text[start:] else len(text)
-            return text[start:end].strip()
+            value = text[start:end].strip()
+            for next_field in ['Contractor:', 'Contact:', 'Address:', 'Phone:', 'Fax:', 'Email:', 
+                              'Disadvantaged status:', 'Services:', 'Services needed:', 
+                              'Requirements:', 'Date posted:', 'Date Downloaded:']:
+                if next_field in value:
+                    value = value[:value.find(next_field)].strip()
+            return value
         return "N/A"
     
     def scrape_opportunity_details(self, opportunity_url):
@@ -248,26 +263,41 @@ class CalTransScraper:
             name_div = soup.find('div', {'class': 'col-md-11'})
             name = name_div.find('h3').get_text(strip=True) if name_div and name_div.find('h3') else "N/A"
             
-            details_p = soup.find('p', text=lambda t: t and 'Date Advertised' in str(t))
-            date_advertised = ""
-            bids_open = ""
-            estimate = ""
+            date_advertised = "N/A"
+            bids_open = "N/A"
+            estimate = "N/A"
+            description = "N/A"
             
-            if details_p:
-                text = details_p.get_text()
+            ng_paragraphs = soup.find_all('p', {'class': 'ng-binding'})
+            
+            for p in ng_paragraphs:
+                text = p.get_text()
+                
+                date_adv_match = re.search(r'Date Advertised\s+(\d{4}-\d{2}-\d{2})', text)
+                if date_adv_match:
+                    date_advertised = date_adv_match.group(1)
+
+                bids_open_match = re.search(r'Bids Open\s+(\d{4}-\d{2}-\d{2})', text)
+                if bids_open_match:
+                    bids_open = bids_open_match.group(1)
+
+                estimate_match = re.search(r'Estimate:\s*\$?([\d,]+\.?\d*)', text)
+                if estimate_match:
+                    estimate = estimate_match.group(1)
+
                 if 'Date Advertised' in text:
-                    date_advertised = text.split('Date Advertised')[1].split('Bids')[0].strip()
-                if 'Bids Open' in text:
-                    bids_open = text.split('Bids Open')[1].split('Estimate')[0].strip()
-                if 'Estimate:' in text:
-                    estimate = text.split('Estimate:')[1].strip()
-            
-            description_p = soup.find('p', text=lambda t: t and 'COUNTY' in str(t))
-            description = description_p.get_text(strip=True) if description_p else "N/A"
-            
-            license_p = soup.find('p', text=lambda t: t and 'Class A license' in str(t) or t and 'Class C license' in str(t))
-            license_info = license_p.get_text(strip=True) if license_p else "N/A"
-            
+                    desc_part = text.split('Date Advertised')[0].strip()
+                    if desc_part and len(desc_part) > 10:
+                        description = desc_part
+
+            license_info = "N/A"
+            all_paragraphs = soup.find_all('p')
+            for p in all_paragraphs:
+                text = p.get_text()
+                if 'Class A license' in text or 'Class C license' in text or 'Class B license' in text:
+                    license_info = text.strip()
+                    break
+
             bid_items = self.scrape_bid_items_table()
             bidder_inquiries = self.scrape_bidder_inquiries()
             subcontractor_optins = self.scrape_subcontractor_optins()
@@ -293,6 +323,8 @@ class CalTransScraper:
             
         except Exception as e:
             print(f"Error scraping opportunity details: {e}")
+            import traceback
+            traceback.print_exc()
             return None
     
     def scrape_all_opportunities(self):
@@ -301,29 +333,28 @@ class CalTransScraper:
             url = "https://ppmoe.dot.ca.gov/cc?id=cc_advertisement"
             self.driver.get(url)
             time.sleep(3)
-            
+
             self.wait.until(
                 EC.presence_of_element_located((By.CLASS_NAME, "h4"))
             )
             
             soup = BeautifulSoup(self.driver.page_source, 'html.parser')
-            
+
             opportunity_links = []
-            opportunities_divs = soup.find_all('div', {'ng-switch-default': ''})
             
-            for div in opportunities_divs:
-                span = div.find('span', {'class': 'h4'})
-                if span:
-                    parent = div.find_parent('a')
-                    if parent and parent.get('href'):
-                        full_url = self.base_url + parent['href']
-                        opportunity_links.append({
-                            'title': span.get_text(strip=True),
-                            'url': full_url
-                        })
+            all_links = soup.find_all('a', href=True)
+            
+            for link in all_links:
+                span = link.find('span', {'class': 'h4'})
+                if span and link.get('href'):
+                    full_url = self.base_url + link['href']
+                    opportunity_links.append({
+                        'title': span.get_text(strip=True),
+                        'url': full_url
+                    })
             
             print(f"Found {len(opportunity_links)} opportunities")
-            
+
             all_opportunities = []
             for i, opp in enumerate(opportunity_links, 1):
                 print(f"Scraping opportunity {i}/{len(opportunity_links)}: {opp['title']}")
@@ -336,6 +367,8 @@ class CalTransScraper:
             
         except Exception as e:
             print(f"Error scraping opportunities list: {e}")
+            import traceback
+            traceback.print_exc()
             return []
     
     def save_to_json(self, data, filename='caltrans_opportunities.json'):
@@ -356,12 +389,15 @@ def main():
     try:
         print("Starting CalTrans Contractor's Corner scraper...")
         opportunities = scraper.scrape_all_opportunities()
+        print(f"\nSuccessfully scraped {len(opportunities)} opportunities")
         
         scraper.save_to_json(opportunities)
         print("\nScraping completed successfully!")
         
     except Exception as e:
         print(f"Error during scraping: {e}")
+        import traceback
+        traceback.print_exc()
     
     finally:
         scraper.close()

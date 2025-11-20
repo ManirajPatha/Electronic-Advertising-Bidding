@@ -176,36 +176,66 @@ def scrape_opportunity_details(detail_url):
     details = {}
     
     try:
-        wait.until(EC.presence_of_element_located((By.CLASS_NAME, "projectDetailSection")))
-        sections = driver.find_elements(By.CLASS_NAME, "projectDetailSection")
+        wait.until(EC.presence_of_element_located((By.CLASS_NAME, "projectDetailContainer")))
         
-        for section in sections:
-            text = section.text.strip()
-            
-            if "Project:" in text:
-                details["project"] = text.replace("Project:", "").strip()
-            elif "Ref. #:" in text:
-                details["ref_number"] = text.replace("Ref. #:", "").strip()
-            elif "Type:" in text:
-                details["type"] = text.replace("Type:", "").strip()
-            elif "Status:" in text:
-                details["status"] = text.replace("Status:", "").strip()
-            elif "Open Date:" in text:
-                details["open_date"] = text.replace("Open Date:", "").strip()
-            elif "Questions Due Date:" in text:
-                details["questions_due_date"] = text.replace("Questions Due Date:", "").strip()
-            elif "Contact Information:" in text:
-                details["contact_information"] = text.replace("Contact Information:", "").strip()
-            elif "Close Date:" in text:
-                details["close_date"] = text.replace("Close Date:", "").strip()
-            elif "Days Left:" in text:
-                details["days_left"] = text.replace("Days Left:", "").strip()
+        field_mappings = {
+            "project": "//div[contains(@class, 'projectDetailSection')][contains(., 'Project:')]",
+            "ref_number": "//div[contains(@class, 'projectDetailSection')][contains(., 'Ref. #:')]",
+            "type": "//div[contains(@class, 'projectDetailSection')][contains(., 'Type:')]",
+            "status": "//div[contains(@class, 'projectDetailSection')][contains(., 'Status:')]",
+            "open_date": "//span[@class='js-opportunity-date-open']",
+            "questions_due_date": "//span[@class='js-opportunity-date-questions-due']",
+            "close_date": "//span[@class='js-opportunity-date-close']",
+            "days_left": "//span[@class='js-opportunity-days-left']",
+        }
+        
+        for field_name, xpath in field_mappings.items():
+            try:
+                element = driver.find_element(By.XPATH, xpath)
+                text = element.text.strip()
+                
+                if field_name in ["project", "ref_number", "type", "status"]:
+                    if "Project:" in text:
+                        details[field_name] = text.split("Project:", 1)[1].strip()
+                    elif "Ref. #:" in text:
+                        details[field_name] = text.split("Ref. #:", 1)[1].strip()
+                    elif "Type:" in text:
+                        details[field_name] = text.split("Type:", 1)[1].strip()
+                    elif "Status:" in text:
+                        try:
+                            status_badge = element.find_element(By.XPATH, ".//div[contains(@class, 'statusBadge')]")
+                            details[field_name] = status_badge.text.strip()
+                        except:
+                            details[field_name] = text.split("Status:", 1)[1].strip()
+                else:
+                    details[field_name] = text
+            except NoSuchElementException:
+                details[field_name] = ""
+                print(f"Field not found: {field_name}")
+            except Exception as e:
+                details[field_name] = ""
+                print(f"Error extracting {field_name}: {e}")
+        
+        try:
+            contact_elem = driver.find_element(By.XPATH, "//div[contains(@class, 'projectDetailSection')][contains(., 'Contact Information:')]")
+            contact_text = contact_elem.text.strip()
+            details["contact_information"] = contact_text.split("Contact Information:", 1)[1].strip()
+        except:
+            details["contact_information"] = ""
         
         try:
             description_elem = driver.find_element(By.XPATH, "//div[@class='bfMarkdown markdown_formatted']")
             details["project_description"] = description_elem.text.strip()
-        except:
+        except NoSuchElementException:
+            try:
+                description_elem = driver.find_element(By.XPATH, "//div[contains(@class, 'markdown_formatted')]")
+                details["project_description"] = description_elem.text.strip()
+            except:
+                details["project_description"] = ""
+                print("Project description not found")
+        except Exception as e:
             details["project_description"] = ""
+            print(f"Error extracting project description: {e}")
         
         details["document_takers"] = scrape_document_takers()
         
@@ -219,6 +249,8 @@ def scrape_opportunity_details(detail_url):
             return scrape_opportunity_details(detail_url)
     except Exception as e:
         print(f"Error scraping opportunity details: {e}")
+        import traceback
+        traceback.print_exc()
     
     return details
 
