@@ -43,9 +43,24 @@ def scrape_detail(url):
                 data[current_key] = ""  
             elif value and current_key:
                 
-                data[current_key] = value.get_text("\n", strip=True)
+                if current_key == "Related Documents":
+                    documents = []
+                    
+                    for link in value.find_all("a"):
+                        doc_name = clean_text(link)
+                        doc_href = link.get("href", "")
+                        
+                        if doc_href and not doc_href.startswith("http"):
+                            doc_href = BASE + doc_href.lstrip("/")
+                        documents.append({
+                            "name": doc_name,
+                            "url": doc_href
+                        })
+                    data[current_key] = documents if documents else clean_text(value)
+                else:
+                    
+                    data[current_key] = value.get_text("\n", strip=True)
 
-    
     data["Detail URL"] = url
 
     return data
@@ -77,8 +92,7 @@ def scrape_all():
 
 bids = scrape_all()
 
-with open("lack_county_full_bids.json", "w", encoding="utf8") as f:
+with open("lake_county_full_bids.json", "w", encoding="utf8") as f:
     json.dump(bids, f, ensure_ascii=False, indent=4)
 
-print("Saved → lack_county_full_bids.json")
- 
+print("Saved → lake_county_full_bids.json")

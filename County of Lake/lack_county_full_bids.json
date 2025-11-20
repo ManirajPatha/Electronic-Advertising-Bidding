@@ -8,7 +8,12 @@
         "Publication Date/Time": "11/12/2025 10:00 AM",
         "Closing Date/Time": "12/15/2025 4:00 PM",
         "Miscellaneous": "Proposals whether submitted electronically or via hard copy must be received no later than Thursday November 27, 2025, by 4:00 p.m.",
-        "Related Documents": "Consultant Services - For: HOME and CDBG LOAN PORTFOLIO MANAGEMENT (PDF)",
+        "Related Documents": [
+            {
+                "name": "Consultant Services - For: HOME and CDBG LOAN PORTFOLIO MANAGEMENT (PDF)",
+                "url": "https://www.lakecountyca.gov/DocumentCenter/View/15325"
+            }
+        ],
         "Detail URL": "https://www.lakecountyca.gov/bids.aspx?bidID=127"
     },
     {
@@ -18,9 +23,18 @@
         "Status": "Open",
         "Description": "The County of Lake is inviting sealed proposals for the development of an implementation plan to obtain the Prohousing Designation. This Plan will be created with input from County Staff and Community Engagement. The objective of this project is to obtain the Prohousing Designation by taking steps to increase the availability of housing such as streamlining permitting process, rezoning, incentive programs, etc.",
         "Publication Date/Time": "10/31/2025 12:00 AM",
-        "Closing Date/Time": "11/27/2025 4:00 AM",
+        "Closing Date/Time": "12/15/2025 4:00 AM",
         "Contact Person": "Deputy County Administrative Officer –\nHousing, Lisa Judd: Lisa.Judd@lakecountyca.gov",
-        "Related Documents": "RFP 261533 FINAL 10312025",
+        "Related Documents": [
+            {
+                "name": "RFP 261533 FINAL 11.18.2025",
+                "url": "https://www.lakecountyca.gov/DocumentCenter/View/15209"
+            },
+            {
+                "name": "RFP 261533 Addendum 1",
+                "url": "https://www.lakecountyca.gov/DocumentCenter/View/15358"
+            }
+        ],
         "Detail URL": "https://www.lakecountyca.gov/bids.aspx?bidID=124"
     },
     {
